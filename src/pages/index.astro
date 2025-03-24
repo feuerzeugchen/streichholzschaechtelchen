@@ -60,6 +60,10 @@ console.log('Extracted Sections:', sections);
         audio.play();
       });
       rectangle.addEventListener('mouseleave', () => {
+        setTimeout(() => {
+          audio.pause();
+          audio.currentTime = 0;
+        },0); // 500 milliseconds delay
       });
     });
   });
