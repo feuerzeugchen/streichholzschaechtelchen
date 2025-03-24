@@ -55,11 +55,13 @@ console.log('Extracted Sections:', sections);
     rectangles.forEach((rectangle, index) => {
       const audio = rectangle.querySelector(`#audio-${index}`);
       rectangle.addEventListener('mouseenter', () => {
-        audio.play();
+        (audio as HTMLAudioElement).play();
       });
       rectangle.addEventListener('mouseleave', () => {
-        audio.pause();
-        audio.currentTime = 0;
+        if (audio) {
+          (audio as HTMLAudioElement).pause();
+        }
+        (audio as HTMLAudioElement).currentTime = 0;
       });
     });
   });
