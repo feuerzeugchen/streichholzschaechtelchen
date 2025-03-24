@@ -1,5 +1,5 @@
 ---
-title: "Stimme"
+title: Stimme
 ---
 <!-- markdownlint-disable MD033 -->
 
@@ -324,3 +324,4 @@ Ein betontes Husten kann kann eine Aufforderung sein, ein subtiler Versuch der K
 
 ## Ich bin mit den Leuten da hinten über die Wiese ins Korn gefahren.
 
+![](src/assets/2ADZSUWX%201.jpg)
