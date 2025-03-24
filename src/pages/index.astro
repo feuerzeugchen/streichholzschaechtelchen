@@ -37,8 +37,8 @@ console.log('Extracted Sections:', sections);
     {sections.map((section, index) => (
       <article class="content-rectangle" id={`rectangle-${index}`}>
         <h2>{section.title}</h2>
-        <audio  id={`audio-${index}`} controls>
-          <source src={`/src/assets/wenkerrecordings/wenker${index + 1}.mp3`} type="audio/mpeg" />
+        <audio id={`audio-${index}`} controls>
+          <source src={`${import.meta.env.BASE_URL}src/assets/wenkerrecordings/wenker${index + 1}.mp3`} type="audio/mpeg" />
           Your browser does not support the audio element.
         </audio>
         <div class="rectangle-content">
@@ -55,13 +55,13 @@ console.log('Extracted Sections:', sections);
     rectangles.forEach((rectangle, index) => {
       const audio = rectangle.querySelector(`#audio-${index}`);
       rectangle.addEventListener('mouseenter', () => {
-        (audio as HTMLAudioElement).play();
+        audio.play();
       });
       rectangle.addEventListener('mouseleave', () => {
-        if (audio) {
-          (audio as HTMLAudioElement).pause();
-        }
-        (audio as HTMLAudioElement).currentTime = 0;
+        setTimeout(() => {
+          audio.pause();
+          audio.currentTime = 0;
+        }, 500); // 500 milliseconds delay
       });
     });
   });
