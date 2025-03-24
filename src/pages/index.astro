@@ -35,9 +35,9 @@ console.log('Extracted Sections:', sections);
 <StimmeLayout title="Stimme Entries">
   <div class="rectangle-container">
     {sections.map((section, index) => (
-      <article class="content-rectangle">
+      <article class="content-rectangle" id={`rectangle-${index}`}>
         <h2>{section.title}</h2>
-        <audio>
+        <audio id={`audio-${index}`}>
           <source src={`/src/assets/wenkerrecordings/wenker${index + 1}.mp3`} type="audio/mpeg" />
           Your browser does not support the audio element.
         </audio>
@@ -48,6 +48,22 @@ console.log('Extracted Sections:', sections);
     ))}
   </div>
 </StimmeLayout>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const rectangles = document.querySelectorAll('.content-rectangle');
+    rectangles.forEach((rectangle, index) => {
+      const audio = rectangle.querySelector(`#audio-${index}`);
+      rectangle.addEventListener('mouseenter', () => {
+        audio.play();
+      });
+      rectangle.addEventListener('mouseleave', () => {
+        audio.pause();
+        audio.currentTime = 0;
+      });
+    });
+  });
+</script>
 
 <style>
   :root {
