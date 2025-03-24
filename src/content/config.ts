@@ -12,6 +12,6 @@ export const collections = {
 };
 
 export default defineConfig({
-  site: 'https://jannisreinelt.com'
+  site: 'https://streichholzschaechtelchen.eu/'
 
 })

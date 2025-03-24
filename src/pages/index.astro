@@ -4,6 +4,7 @@ import fs from 'fs';
 import path from 'node:path';
 import { marked } from 'marked';
 import { Image } from 'astro:assets';
+import.meta.glob('./src/assets/**/*.mp3');
 
 // Load the Markdown file as raw text
 const markdownPath = path.resolve('./src/content/postsstimme/stimme.md');
@@ -39,7 +40,7 @@ console.log('Extracted Sections:', sections);
       <article class="content-rectangle" id={`rectangle-${index}`}>
         <h2>{section.title}</h2>
         <audio id={`audio-${index}`} controls>
-          <source src={`${import.meta.env.BASE_URL}src/assets/wenkerrecordings/wenker${index + 1}.mp3`} type="audio/mpeg" />
+          <source src={`${import.meta.env.BASE_URL}wenker${index + 1}.mp3`} type="audio/mpeg" />
           Your browser does not support the audio element.
         </audio>
         <div class="rectangle-content">
@@ -59,10 +60,6 @@ console.log('Extracted Sections:', sections);
         audio.play();
       });
       rectangle.addEventListener('mouseleave', () => {
-        setTimeout(() => {
-          audio.pause();
-          audio.currentTime = 0;
-        }, 500); // 500 milliseconds delay
       });
     });
   });
