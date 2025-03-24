@@ -37,7 +37,7 @@ console.log('Extracted Sections:', sections);
     {sections.map((section, index) => (
       <article class="content-rectangle">
         <h2>{section.title}</h2>
-        <audio controls>
+        <audio>
           <source src={`/src/assets/wenkerrecordings/wenker${index + 1}.mp3`} type="audio/mpeg" />
           Your browser does not support the audio element.
         </audio>
@@ -57,7 +57,7 @@ console.log('Extracted Sections:', sections);
   }
   
   body {
-      font-family: 'Open Sans', sans-serif;
+      font-family: 'Seb Neue';
       background-color: var(--background-color);
       color: var(--text-color);
       margin: 0;
@@ -79,8 +79,7 @@ console.log('Extracted Sections:', sections);
       overflow-y: hidden;
       padding: 2rem 3.5rem;
       box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-      font-family: 'Open Sans';
-      text-align: justify;
+      font-family: 'Seb Neue';
       font-size: 1rem; /* Ensure readable font size */
       color: black; /* Ensure text is visible */
       margin: auto;
@@ -102,11 +101,11 @@ console.log('Extracted Sections:', sections);
   }
   
   .rectangle-content {
-      flex: 1;
-      display: flex;
+      text-wrap: pretty ;
       justify-content: center;
       align-items: center;
-      text-align: justify;
+      text-align:left;
+      word-break: normal;
       margin-top: 0rem; /* Add some space between the audio and the content */
       flex-direction: column; /* Ensure the p elements are stacked vertically */
   }
