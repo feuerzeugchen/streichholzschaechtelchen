@@ -1,1 +1,0 @@
-## 31. Ich verstehe euch nicht, ihr müßt ein bißchen lauter sprechen.

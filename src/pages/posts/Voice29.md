@@ -1,1 +1,0 @@
-## 29. Unsere Berge sind nicht sehr hoch, die euren sind viel höher.

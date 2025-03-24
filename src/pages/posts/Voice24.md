@@ -1,1 +1,0 @@
-## 24. Als wir gestern Abend zurück kamen, da lagen die Andern schon zu Bett und waren fest am schlafen.

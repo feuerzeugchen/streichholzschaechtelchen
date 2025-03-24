@@ -1,1 +1,0 @@
-## 26. Hinter unserm Hause stehen drei schöne Apfelbäumchen mit rothen Aepfelchen.

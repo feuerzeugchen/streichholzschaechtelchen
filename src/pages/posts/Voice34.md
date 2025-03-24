@@ -1,1 +1,0 @@
-## 34. Das Wort kam ihm von Herzen!

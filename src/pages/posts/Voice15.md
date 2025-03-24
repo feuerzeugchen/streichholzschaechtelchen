@@ -1,1 +1,0 @@
-## 15. Du hast heute am meisten gelernt und bist artig gewesen, Du darfst früher nach Hause gehn als die Andern.

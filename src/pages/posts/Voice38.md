@@ -1,1 +1,0 @@
-## 38. Die Leute sind heute alle draußen auf dem Felde und mähen.
