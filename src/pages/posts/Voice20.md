@@ -1,0 +1,1 @@
+## 20. Er that so, als hätten sie ihn zum dreschen bestellt; sie haben es aber selbst gethan.

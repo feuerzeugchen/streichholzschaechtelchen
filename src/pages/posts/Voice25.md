@@ -1,0 +1,1 @@
+## 25. Der Schnee ist diese Nacht bei uns liegen geblieben, aber heute Morgen ist er geschmolzen.

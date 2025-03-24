@@ -1,0 +1,1 @@
+## 18. Hättest Du ihn gekannt! dann wäre es anders gekommen, und es thäte besser um ihn stehen.

@@ -1,0 +1,143 @@
+---
+import StimmeLayout from '../layouts/StimmeLayout.astro';
+import fs from 'fs';
+import path from 'node:path';
+import { marked } from 'marked';
+
+// Load the Markdown file as raw text
+const markdownPath = path.resolve('./src/content/postsstimme/stimme.md');
+const rawMarkdown = fs.readFileSync(markdownPath, 'utf-8');
+
+// Split the Markdown content into sections by H2 headings
+const h2Regex = /^##\s+(.*)$/gm;
+let match;
+let sections = [];
+let matches = Array.from(rawMarkdown.matchAll(h2Regex)); // Get all matches
+
+for (let i = 0; i < matches.length; i++) {
+  const title = matches[i][1].trim(); // Extract title from current match
+  const startIndex = matches[i].index + matches[i][0].length; // Start of content
+  const endIndex = i + 1 < matches.length ? matches[i + 1].index : rawMarkdown.length; // End of content
+
+  const content = rawMarkdown.slice(startIndex, endIndex).trim(); // Extract content between headings
+
+  sections.push({
+    title,
+    content,
+    html: marked(content), // Convert Markdown to HTML
+  });
+}
+
+console.log('Raw Markdown:', rawMarkdown);
+console.log('Extracted Sections:', sections);
+---
+
+<StimmeLayout title="Stimme Entries">
+  <div class="rectangle-container">
+    {sections.map((section, index) => (
+      <article class="content-rectangle">
+        <h2>{section.title}</h2>
+        <audio controls>
+          <source src={`/src/assets/wenkerrecordings/wenker${index + 1}.mp3`} type="audio/mpeg" />
+          Your browser does not support the audio element.
+        </audio>
+        <div class="rectangle-content">
+          <div set:html={section.html} />
+        </div>
+      </article>
+    ))}
+  </div>
+</StimmeLayout>
+
+<style>
+  :root {
+      --background-color: rgb(228, 228, 228);
+      --text-color: black;
+      --font-size: 1rem;
+  }
+  
+  body {
+      font-family: 'Open Sans', sans-serif;
+      background-color: var(--background-color);
+      color: var(--text-color);
+      margin: 0;
+      padding: 0;
+  }
+  
+  .rectangle-container {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      justify-content: center; /* Center rectangles horizontally */
+  }
+  
+  .content-rectangle {
+      background-color: white;
+      height: 39.71rem;
+      width: 24rem;
+      aspect-ratio: 1 / 1.45;
+      overflow-y: hidden;
+      padding: 2rem 3.5rem;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+      font-family: 'Open Sans';
+      text-align: justify;
+      font-size: 1rem; /* Ensure readable font size */
+      color: black; /* Ensure text is visible */
+      margin: auto;
+      display: flex;
+      flex-direction: column;
+  }
+  
+  .content-rectangle h2 {
+      text-align: left;
+      font-weight: normal;
+      color: #000000;
+      font-size: 1.1rem;
+  }
+  
+  .content-rectangle :global( audio ) {
+      width: 100%;
+      background-color: #fd0c0c;
+      border-radius: 4px;
+  }
+  
+  .rectangle-content {
+      flex: 1;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: justify;
+      margin-top: 0rem; /* Add some space between the audio and the content */
+      flex-direction: column; /* Ensure the p elements are stacked vertically */
+  }
+  
+  .rectangle-content p {
+      margin: 0; /* Remove default margin */
+  }
+  
+  .content-rectangle :global( img ) {
+      width: 100%;
+      max-width: 100%; /* Set a maximum width */
+      max-height: 20rem; /* Set a maximum height */
+      margin: auto;
+      display: block;
+      object-fit: contain; /* Ensure the content fits within the container */
+  }
+  .content-rectangle :global( video ) {
+      width: 100%;
+      max-width: 100%; /* Set a maximum width */
+      max-height: 20rem; /* Set a maximum height */
+      margin: auto;
+      display: block;
+      object-fit: contain; /* Ensure the content fits within the container */
+  }
+  
+  
+  header, footer {
+      background-color: var(--background-color);
+      padding: 1rem;
+      font-weight: normal;
+      color: #7b7b7b;
+      font-size: 0.6rem;
+  }
+</style>

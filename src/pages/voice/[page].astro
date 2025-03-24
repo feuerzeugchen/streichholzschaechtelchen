@@ -1,0 +1,79 @@
+<!-- src/pages/voice/[page].astro -->
+---
+import VoiceLayout from '../../layouts/VoiceLayout.astro';
+import MarkdownFrame from '../../components/MarkdownFrame.astro';
+import { marked } from 'marked';
+import * as fs from 'node:fs/promises';
+import path from 'node:path';
+
+export async function getStaticPaths() {
+  const postsDir = path.join(process.cwd(), 'src/pages/posts');
+  
+  try {
+    const files = await fs.readdir(postsDir);
+    const voiceFiles = files.filter((file: string) => file.startsWith('Voice') && file.endsWith('.md'));
+    
+    // Sort files by number in filename
+    voiceFiles.sort((a: string, b: string): number => {
+      const numA = parseInt(a.replace('Voice', '').replace('.md', ''));
+      const numB = parseInt(b.replace('Voice', '').replace('.md', ''));
+      return numA - numB;
+    });
+    
+    return voiceFiles.map((file: string, index: number) => {
+      return {
+        params: { page: `page${index + 1}` },
+        props: { 
+          filename: file,
+          totalPages: voiceFiles.length
+        }
+      };
+    });
+  } catch (error) {
+    console.error('Error reading posts directory:', error);
+    return [];
+  }
+}
+
+const { page } = Astro.params;
+const { filename, totalPages } = Astro.props;
+const currentPage = parseInt(page.replace('page', ''));
+
+// Read the markdown file
+let content = '';
+try {
+  const filePath = path.join(process.cwd(), 'src/pages/posts', filename);
+  const fileContent = await fs.readFile(filePath, 'utf-8');
+  content = await marked(fileContent);
+} catch (error) {
+  console.error(`Error reading markdown file: ${error}`);
+  content = await marked('# Error\n\nCould not load content.');
+}
+---
+
+<VoiceLayout title={`Voice ${currentPage}`} currentPage={currentPage} totalPages={totalPages}>
+  <MarkdownFrame content={content} />
+</VoiceLayout>
+
+<script>
+  document.addEventListener('keydown', (e) => {
+    const pathSegments = window.location.pathname.split('/').filter(Boolean);
+    const currentPage = parseInt(pathSegments[pathSegments.length - 1].replace('page', ''), 10) || 1;
+    const pageIndicator = document.querySelector('.page-indicator');
+    const totalPages = pageIndicator ? parseInt((pageIndicator as HTMLElement).dataset.totalPages || '0', 10) : 0;
+
+    if (e.key === 'ArrowLeft' && currentPage > 1) {
+      const previousPage = currentPage - 1;
+      window.location.href = `/voice/page${previousPage}`;
+    } else if (e.key === 'ArrowRight' && currentPage < totalPages) {
+      const nextPage = currentPage + 1;
+      window.location.href = `/voice/page${nextPage}`;
+    }
+  });
+
+  window.addEventListener('load', () => {
+    const logs = JSON.parse(sessionStorage.getItem('navigationLogs') || '[]');
+    logs.forEach((log: any) => console.log(log));
+    sessionStorage.removeItem('navigationLogs');
+  });
+</script>

@@ -1,0 +1,259 @@
+<!-- src/layouts/VoiceLayout.astro -->
+---
+const { title = "Voice", currentPage = 1, totalPages = 1 } = Astro.props;
+---
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+    <style is:global>
+      :root {
+        --font-pt-sans: 'PT Sans', sans-serif;
+        --color-bg: #9c9c9c;
+        --color-text: #333333;
+        --color-accent: #8381ff;
+        --color-light: #e0e0e0;
+        --color-code: #777777;
+      }
+      
+      * {
+        box-sizing: border-box;
+      }
+      
+      body {
+        font-family: var(--font-pt-sans);
+        margin: 0;
+        padding: 0;
+        background-color: var(--color-bg);
+        color: var(--color-text);
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh;
+      }
+      
+      .container {
+        width: 100%;
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 0 1rem;
+      }
+      
+      .content {
+        flex: 1;
+        padding: 2rem 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+      
+      .navigation {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 100%;
+        max-width: 600px;
+        margin: 1.5rem auto;
+      }
+      
+      .nav-button {
+        background-color: var(--color-accent);
+        color: white;
+        border: none;
+        padding: 0.5rem 1rem;
+        border-radius: 4px;
+        cursor: pointer;
+        font-family: var(--font-pt-sans);
+        font-size: 14px;
+        transition: background-color 0.2s;
+      }
+      
+      .nav-button:hover {
+        background-color: #2a75e6;
+      }
+      
+      .nav-button:disabled {
+        background-color: var(--color-light);
+        cursor: not-allowed;
+      }
+      
+      .page-indicator {
+        font-size: 14px;
+        color: var(--color-text);
+      }
+      
+      header {
+        background-color: #9c9c9c;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        padding: 1rem 0;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+      }
+      
+      header h1 {
+        margin: 0;
+        font-size: 1.5rem;
+      }
+      
+      header a {
+        text-decoration: none; /* Remove underline */
+        color: inherit; /* Inherit text color */
+      }
+      
+      .dropdown {
+        position: relative;
+        display: inline-block;
+      }
+      
+      .dropdown-content {
+        display: none;
+        position: absolute;
+        right: 0;
+        background-color: white;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        z-index: 1;
+      }
+      
+      .dropdown-content a {
+        color: var(--color-text);
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+      }
+      
+      .dropdown-content a:hover {
+        background-color: var(--color-light);
+      }
+      
+      .dropdown:hover .dropdown-content {
+        display: block;
+      }
+      
+      .dropdown-button {
+        background: none;
+        border: none;
+        cursor: pointer;
+        font-size: 24px;
+        color: black;
+      }
+      
+      footer {
+        background-color: #9c9c9c;
+        padding: 1rem 0;
+        text-align: center;
+        font-size: 0.875rem;
+        border-top: 0px solid var(--color-light);
+      }
+      
+      .keyboard-hint {
+        margin-top: 1rem;
+        font-size: 0.875rem;
+        color: #666;
+        text-align: center;
+      }
+
+      .markdown-grid {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1rem;
+        justify-content: center;
+      }
+
+      .markdown-item {
+        background-color: white;
+        border: 1px solid var(--color-light);
+        border-radius: 4px;
+        padding: 1rem;
+        width: calc(33.333% - 2rem);
+        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <a href="/voice/all"><h1>Voice</h1></a> <!-- Updated link to go to the "all" page -->
+        <div class="dropdown" style="position: absolute; top: 1rem; right: 1rem;">
+          <button class="dropdown-button">⋮</button>
+          <div class="dropdown-content">
+            <a href="/voice/all">See All</a>
+            <a href="/">Home</a>
+          </div>
+        </div>
+      </div>
+    </header>
+    
+    <main class="content container">
+      <slot />
+      
+      <div class="navigation">
+        <button 
+          id="previousButton"
+          class="nav-button prev-button"
+          disabled={currentPage <= 1}
+        >
+          Previous
+        </button>
+        
+        <span class="page-indicator" data-total-pages={totalPages}>Page {currentPage} of {totalPages}</span>
+        
+        <button 
+          id="nextButton"
+          class="nav-button next-button"
+          disabled={currentPage >= totalPages}
+        >
+          Next
+        </button>
+      </div>
+      
+      <div class="keyboard-hint">
+        Use ← and → arrow keys to navigate between pages
+      </div>
+    </main>
+    
+    <footer>
+      <div class="container">
+        <p>Jannis Reinelt © {new Date().getFullYear()}</p>
+      </div>
+    </footer>
+    
+    <script>
+      document.addEventListener('DOMContentLoaded', () => {
+        const pageIndicator = document.querySelector('.page-indicator');
+        const currentPage = pageIndicator && pageIndicator.textContent ? parseInt(pageIndicator.textContent.split(' ')[1], 10) : 1;
+        
+        const previousButton = document.getElementById('previousButton');
+        const nextButton = document.getElementById('nextButton');
+        
+        if (previousButton) {
+          previousButton.onclick = function() {
+            window.location.href = `/voice/page${currentPage - 1}`;
+          };
+        }
+        
+        if (nextButton) {
+          nextButton.onclick = function() {
+            window.location.href = `/voice/page${currentPage + 1}`;
+          };
+        }
+      });
+
+      document.addEventListener('keydown', (e) => {
+        const pageIndicatorElement = document.querySelector('.page-indicator');
+        const currentPage = pageIndicatorElement && pageIndicatorElement.textContent ? parseInt(pageIndicatorElement.textContent.split(' ')[1], 10) : 1;
+        const totalPages = parseInt((document.querySelector('.page-indicator') as HTMLElement).dataset.totalPages || '1', 10);
+
+        if (e.key === 'ArrowLeft' && currentPage > 1) {
+          window.location.href = `/voice/page${currentPage - 1}`;
+        } else if (e.key === 'ArrowRight' && currentPage < totalPages) {
+          window.location.href = `/voice/page${currentPage + 1}`;
+        }
+      });
+    </script>
+  </body>
+</html>

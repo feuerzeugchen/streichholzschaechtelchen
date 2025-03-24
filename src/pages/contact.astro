@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>contact</title>
+<style>
+
+
+  body {
+    background-color: rgb(0, 0, 0);
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100vh;
+  }
+  
+  .rectangle {
+    width: 25%;
+    height: 100vh;
+    float: left;
+    position: relative;
+    top: ; left: 37.5%;
+    cursor: pointer;
+    background-color: rgb(0, 0, 0); /* This is to visualize the rectangles */
+  }
+  
+  .rectangle:hover .word {
+    opacity: 1;
+  }
+  
+  .word {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(231, 145, 145); /* Black text on white rectangles */
+    font-size: 3.7vh;
+    opacity: 0;
+    transition: opacity 2s ease;
+  }
+</style>
+</head>
+<body>
+
+
+    <div class="rectangle">
+    
+    
+    </a> 
+    <div class="word">
+        <!-- The element we're copying from -->
+    <p id="mail">jannisreinelt@posteo.com</p>
+
+    <!-- Add your JavaScript below -->
+    <script>
+      // Ensuring the script runs after the DOM content is loaded
+      document.addEventListener('DOMContentLoaded', function () {
+        // Get the element by its ID
+        const textToCopy = document.getElementById('mail');
+        
+        // Attach the click event listener to the element
+        textToCopy?.addEventListener('click', function() {
+          copyText(this);
+        });
+      })
+
+      // Modern method using Clipboard API with explicit type in TypeScript
+      function copyText(element: HTMLElement): void {
+        const text = element.textContent || ""; // Ensure text is not null
+        if (navigator.clipboard) {
+          navigator.clipboard.writeText(text)
+            .then(() => {
+              alert(`Copied to clipboard: "${text}"`);
+            })
+            .catch((err) => {
+              console.error('Failed to copy text:', err);
+            });
+        } else {
+          alert("Clipboard API not supported in your browser.");
+        }
+      }
+    </script>
+     </div>
+       
+      </div>
+
+      </div>
+
+</body>
+</html>
+
