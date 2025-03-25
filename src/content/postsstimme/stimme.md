@@ -235,10 +235,11 @@ Nach Lauren Derby,  Historiker an der UCLA ist der Mythos um die Aussprache von 
 
 
 Streichholzschächtelchen
-
-
+</p>
+</p>
 " **ʃtʁaɪ̯çhɔlt͡sʃɛçtɛlçən**" 
-
+</p>
+</p>
 <audio controls>
 <source src="../src/content/De-Streichholzschächtelchen.ogg" type="audio/ogg">
 </audio>
