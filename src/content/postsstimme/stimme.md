@@ -26,7 +26,7 @@ Fritz Walds Aufnahme ist eine von hunderten die sich auf Schellackplatten oder W
 
 *Sprechen wir über: Wilhelm Doegen*
 
-Wilhelm Doegen (1877–1967) war ein deutscher Sprachwissenschaftler und Begründer der Lautabteilung der Preußischen Staatsbibliothek. 
+Wilhelm Doegen (1877–1967) war ein deutscher Sprachwissenschaftler und Begründer der Lautabteilung der Preußischen Staatsbibliothek. .
 
 An 4 Tagen im Juli 1926 nimmt Willhelm Doegen die Stimmen von 24 Inhaftierten in verschiedenen Berliner Gefängnissen auf.
 
