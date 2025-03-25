@@ -109,7 +109,7 @@ console.log('Extracted Sections:', sections);
   
   .content-rectangle h2 {
       text-align: left;
-      font-weight: normal;
+      font-weight:bold;
       color: #000000;
       font-size: 1.1rem;
   }
@@ -122,12 +122,13 @@ console.log('Extracted Sections:', sections);
   
   .rectangle-content {
       flex: 1;
+      display: flex;
       text-wrap:pretty ;
       justify-content: center;
       align-items: center;
       text-align:left;
       word-break: normal;
-      margin-top: 1em; /* Add some space between the audio and the content */
+      margin-top: -2em; /* Add some space between the audio and the content */
       flex-direction: column; /* Ensure the p elements are stacked vertically */
   }
   
