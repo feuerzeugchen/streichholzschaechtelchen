@@ -232,41 +232,21 @@ Nach Lauren Derby,  Historiker an der UCLA ist der Mythos um die Aussprache von 
 
 ## Wieviel Pfund Wurst und wieviel Brod wollt ihr haben?
 
-<style>
-A{
-    font-size: 2rem;
-font-family: Arial;
-text-align: center;
-align-items: center;
-}
-</style>
-</p>
-</p>
-<A>
-</p>
-</p>
-</p>
-</p>
-</p>
-</p>
+
+
 Streichholzschächtelchen
-</p>
+
 
 " **ʃtʁaɪ̯çhɔlt͡sʃɛçtɛlçən**" 
-</p>
-</p>
-</p>
-</p>
-</p>
-</p>
+
 <audio controls>
 <source src="../src/content/De-Streichholzschächtelchen.ogg" type="audio/ogg">
 </audio>
-</p>
+
 <audio controls>
 <source src="../src/content/De-Streichholzschächtelchen2.ogg" type="audio/ogg">
 </audio>
-</A>
+
 
 ## Ich verstehe euch nicht, ihr müßt ein bißchen lauter sprechen.
 
