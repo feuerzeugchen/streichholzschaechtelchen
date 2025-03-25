@@ -33,12 +33,12 @@ for (let i = 0; i < matches.length; i++) {
 console.log('Raw Markdown:', rawMarkdown);
 console.log('Extracted Sections:', sections);
 ---
-
+<html lang="de">
 <StimmeLayout title="Stimme Entries">
   <div class="rectangle-container">
     {sections.map((section, index) => (
       <article class="content-rectangle" id={`rectangle-${index}`}>
-        <h2>{section.title}</h2>
+        <h2 class="titlebox">{section.title}</h2>
         <audio id={`audio-${index}`}>
           <source src={`${import.meta.env.BASE_URL}wenker${index + 1}.mp3`} type="audio/mpeg" />
           Your browser does not support the audio element.
@@ -83,6 +83,10 @@ console.log('Extracted Sections:', sections);
       margin: 0;
       padding: 0;
   }
+
+  .titlebox {
+    height: 5rem;
+  }
   
   .rectangle-container {
       display: flex;
@@ -94,13 +98,13 @@ console.log('Extracted Sections:', sections);
   .content-rectangle {
       background-color: white;
       height: 39.71rem;
-      width: 24rem;
+      width: 25rem;
       aspect-ratio: 1 / 1.45;
       overflow-y: hidden;
-      padding: 2rem 3.5rem;
+      padding: 1.5rem 3.5rem;
       box-shadow: 0 2px 5px rgba(0,0,0,0.1);
       font-family: 'Seb Neue';
-      font-size: 1rem; /* Ensure readable font size */
+      font-size: 0.9rem; /* Ensure readable font size */
       color: black; /* Ensure text is visible */
       margin: auto;
       display: flex;
@@ -126,11 +130,17 @@ console.log('Extracted Sections:', sections);
       text-wrap:pretty ;
       justify-content: center;
       align-items: center;
-      text-align:left;
+      text-align:justify;
       word-break: normal;
-      margin-top: -2em; /* Add some space between the audio and the content */
+      margin-top: -6em; /* Add some space between the audio and the content */
       flex-direction: column; /* Ensure the p elements are stacked vertically */
-  }
+      hyphens: auto;
+      -moz-hyphens: auto;
+      -o-hyphens: auto;
+      -webkit-hyphens: auto;
+      -ms-hyphens: auto;
+    }
+
   
   .rectangle-content p {
       margin: 0; /* Remove default margin */

@@ -5,6 +5,8 @@ title: Stimme
 
 ## Im Winter fliegen die trocknen Blätter durch die Luft herum.
 
+*Es spricht zu uns:*
+
 *Fritz Wald, 26 Jahre alt Fassadenkletterer. Geboren in Jesnitz, Sachsen-Anhalt, konfessionslos, Volksschule. Beruf: Kaufmann.  
 Sprachaufnahme am 13. Juli 1926 im Polizeizimmer der Stadtvoigtei Berlin.*
 
@@ -38,6 +40,39 @@ Die Aufnahmen dieser Tage sind archiviert und als:
 "Lied" 
  betitelt.
 
+## Wem hat er die neue Geschichte erzählt?
+
+*Lautarchiv der Humboldt Universität Berlin:*   
+Insgesamt sind etwa 4500 Lautplatten mit etwa 3800 Sprach- und 700 Musikplatten vorhanden.
+
+
+*Dokumentation von Sprachen:*   
+Aufnahmen aus den Kriegsgefangenenlagern des Ersten Weltkriegs. Die Aufnahmen umfassen wiederkehrende Texte wie das biblische Gleichnis vom verlorenen Sohn, oder traditionelle Lieder oder Märchen aus den Ländern der Sprechenden sowie persönliche Berichte.
+
+*Berühmte Persöhnlichkeiten:*   
+Aufnahmen von Stimmen von Persönlichkeiten, an deren Erhaltung für die Nachwelt ein historisches Interesse bestand
+
+*Deutsche Mundarbeiten:* 
+Aufnahmen entstanden in Zusammenarbeit mit der Philipps-Universität Marburg zu auditiven Unterstützung des Deutschen Sprachatlas zur Dokumentation deutscher Mundarten
+
+*Musikaufnahmen*:   
+Verschiedene Musikaufnahmen.
+
+*Aufnahmen von Gefängnisinsassen:*   
+Aufnahmen entstanden währen der Berliner Polizeiausstellung im Jahr 1926. Meistens Wenkersätze oder persönliche Erzählungen.
+
+*Tierstimmen*:   
+Aufnahmen im Zirkus Krone und Dresdner Zoo,  Laute von Elefanten, Seelöwen, Bären, Tigern, Löwen, Hyänen, Tiger, Affen.
+
+
+
+## 1
+
+Indisch: Gurkhali, Panjabi, Garhwali, Hindustani, Bengali, Hindi, Althindi, Urdu; Himalayasprachen: Magar, Murmi, Rai, Limbu, Gurung; Zigeunerisch. - Iranisch: Belutschisch, Afghanisch, Ossetisch. - Armenisch. - Griechisch. - Rumänisch: aus Rumänien, von serbischen Zigeunern, aus Beßarabien. - Italienisch: 16 verschiedene Dialekte, ferner: Romagnolisch, La-
+dinisch-friaulisch, Sardisch, Italo-albanisch, Korsisch, Genuesisch aus Bonifacio. - Fran- zösisch: Laut-, Umgangs- und Vortragssprache, ferner nordfranzösische Dialekte: Arden- nais, Champenois, Lorrain, Luxembourg (Pays Gourmais), Nord, Normand, Picard, Savoyard, Wallon; Südfranzösische Dialekte: Auvergnais, Bordeaux, Bearnais, Bressan, Cantal, Charentais, Dauphinois, Gascon, Languedocien, Limousin, Lyonnais, Niçois, Mont- pellier, Morvandeau, Provençal, Sudvosgien, Toulouse, Vendée. - Kreolisch (aus Martinique und Gouadeloupe). -- Spanisch: Katalanisch. - Portugiesisch. - Keltisch: Gälisch, Kymrisch, Bretonisch. - Englisch: Laut-, Umgangs- und Vortrags- sprache, ferner Mundarten aus Berkshire, Cheshire, Cumberland, Derby, Devonshire, Dorset, Durham, Essex, Glammorganshire, Gloucestershire, Kent, Lancashire, Lincoln, Norfolk, Nottingham, Oxford, Stafford, Suffolk, Warwick, Wiltshire, Yorkshire, Irland, (10 Dialekte), Schottland (15 Dialekte), Kanada, Australien, ferner Englisch eines Gurkha. - Vlamisch. - 
+## 2
+Deutsch: Hochdeutsch (Vortrags- und Umgangssprache), Kolonisten- deutsch aus RuBland, Jiddisch. - Baltisch: Litauisch, Lettisch. - Slavisch: Kirchen- slavisch, Bulgarisch, Serbisch, Großrussisch, Kleinrussisch, Weißrussisch, Polnisch. - Kaukasisch: Avarisch, Inguschisch, Georgisch, Mingrelisch. - Baskisch: Labour- dinisch, Soulisch, Niedernavarrisch u. a. - Finnisch-Ugrisch: Finnisch, Karelisch, Estnisch, Mordwinisch, Tscheremissisch, Syrjänisch, Permjakisch, Wotjakisch. - Tür- kisch: Türkisch, Tatarisch, Kumyk .- tatarisch, Baschkirisch, Kirgisisch, Tschuwaschisch. - Mongolisch: Koreanisch, Kambodschanisch, Anamitisch, Japanisch. - Semitisch: Hebräisch, Arabisch, Mauretanisch-arabisch, Tunisisch, Marokkanisch, Tripolitanisch, Algerisch, Maltesisch. - Hamitisch: Berberisch, Bele, Somali, Ful, Haussa. - Bantu: Kibera Trommelsprache; Komorendialekte: Ngazidja, Nzwani, Mwali, Mayotte; Suaheli, X'hosa. - Sudan: Anyi, Baga, Bambara, Bornu, Bobo, Bariba, Baule, Dahomey, Ewe, Goro, Ibo, Joruba, Kasonge, Kru, Mandara, Maninka, Mende, Mosi, Sarakole, Soso, Toma, Wandala, Wobe, Wolof. - Unbestimmte Sprachen aus dem Sudan: Kado, Konoka, Kwiya, Mienga, Samogo, Serefo, Zerma. - Indonesisch: Malaiisch, Malaiisch-poly- nesisch: Madagassisch; Sakalawe, Howa, Betsimisaraka, Syanaka, Bezanuzanu, Betsileo, Tanus, Tanrui, Antesaka. - Polynesisch: Samoanisch, Tahiti. - Melanesisch: Neu- kaledonisch.
+
 
 ## Thu Kohlen in den Ofen, daß die Milch bald an zu kochen fängt.
 
@@ -63,7 +98,7 @@ Noch vor der ersten Tonaufnahme im Jahr 1887 wurden die Sprachdaten handschriftl
 
 Die Aufnahmen der Gefangenen aus dem Lautarchiv der HU-Berlin sind unter Zwang entstanden.
 
-Für Doege war der Zweck dieser Aufnahmen die Suche nach dem "Typ" des kriminellen Menschen, mit der Annahme, dass sich Kriminalität an der Stimme ablesen lasse. Die Aufnahmen wurden Teil eines pseudo-wissenschaftlichen Diskurses über Physiognomik und Charakterologie.
+Für Wilhelm Doege war Zweck dieser Aufnahmen eine Suche nach dem "Typ" des kriminellen Menschen, mit der Annahme, dass sich Kriminalität an der Stimme ablesen lasse. Die Aufnahmen wurden Teil eines pseudo-wissenschaftlichen Diskurses über Physiognomik und Charakterologie.
 
 Neben Audioaufnahmen wurden oft Photos, Röntgenaufnahmen und Gebissabdrücke zur Bestimmung der Zungenposition angefertigt.
 
@@ -75,18 +110,18 @@ Mit einer feinen Nadel wird die Audiospur in das weiche Wachs geritzt.
 Es ist Bienenwachs für die Herstellung der Phonographenwalzen verwendet worden und inzwischen hat sich auf vielen jener Walze ein Pilz ausgebreitet.
 Seine Fasern legen sich in die Rillen und verändern über die Zeit den Klang den die Nadel erzeugt wenn sie sich durch diese Rillen immer im Kreis bewegt.
 
-## Er ißt die Eier immer ohne Salz und Pfeffer.
-
 Ich habe die Aufnahmen als digitale mp3 erhalten. Die Spuren des gealterten Trägermaterials sind auf eine Abfolge von Nullen und Einsen übertragen worden. 
 
 Ich werde das Material weiter bearbeiten. Die Spuren der digitalen verarbeitung spiegeln legen sich auf das Material.
 
+## Er ißt die Eier immer ohne Salz und Pfeffer.
+
+
+
 
 ## Die Füße thun mir sehr weh, ich glaube, ich habe sie durchgelaufen.
 
-<video controls> 
-<source src="../src/content/Listen to Twain the whale chatting with scientists [p0hnn7j4].mp4" type="video/mp4"> 
-</video>
+
 ## Ich bin bei der Frau gewesen und habe es ihr gesagt, und sie sagte, sie wollte es auch ihrer Tochter sagen.
 
 
@@ -101,15 +136,20 @@ Die Sprache ist das Ziel und die Stimme das Instrument, sie ist das Medium, das 
 Bevor wir sprechen können schreien wir. Wir testen unsere Stimmbänder und machen auf uns aufmerksam bevor wir die ersten Worte lernen.
 Stimme ist etwas persönliches, wir erkennen vertraute Menschen unmittelbar an ihrem Klang. Doch haben wir uns an eine Stimme gewöhnt löst sich ihre Materialität auf neben den Worten und der "Bedeutung" des Gesagten. 
 
-*“But if the voice is thus the quasi-natural bearer of the production of meaning, it also proves to be strangely recalcitrant to it. If we speak in order to “make sense,” to signify, to convey something, then the voice is the material support of bringing about meaning, yet it does not contribute to it itself. It is rather like the vanishing mediator (to use the term made famous by Fredric Jameson for a different purpose)—it makes the utterance possible, but it disappears in it, it goes up in smoke in the meaning being produced.” (Dolar, 2006)*
+Stimme nehmen wir meist erst wirklich wahr, wenn sie uns irritiert. 
+Wenn die Stimme nicht zur Erscheinung passt oder wenn eine vertraute Person auf einmal ganz anders spricht.
 
+*“But if the voice is thus the quasi-natural bearer of the production of meaning, it also proves to be strangely recalcitrant to it. If we speak in order to “make sense,” to signify, to convey something, then the voice is the material support of bringing about meaning, yet it does not contribute to it itself. It is rather like the vanishing mediator (to use the term made famous by Fredric Jameson for a different purpose)—it makes the utterance possible, but it disappears in it, it goes up in smoke in the meaning being produced.” (Dolar, 2006)
 
+## 5
 
+Nehmen wir unsere eigene Stimme auf, so ist es uns oft anfangs fast unerträglich dieser später zuzuhören: *Höre ich mich wirklich so an?*
+
+Während wir sprechen wird der Schal zu einem großen Teil über unsere Knochen an unser Trommelfell getragen, wir hören uns selbst dadurch anders als alle anderen.
 ## Ich will es auch nicht mehr wieder thun!
 
 Unsere Stimme ist Produkt unserer Sozialisierung.
 Unsere Sprechweise vermittelt unbewusst soziale Merkmale wie Klassenzugehörigkeit, Geschlecht und regionale Herkunft.
-
 
 
 
@@ -124,17 +164,22 @@ Unsere Sprechweise vermittelt unbewusst soziale Merkmale wie Klassenzugehörigke
 
 
 Abhören: 
-*das Abhören am Phonograph. 
+*das Abhören am Phonograph* 
 
-Die Stimme wird aufgenommen und abgespeichert. Wieder und wieder können diese Aufnahmen abgespielt  und angehört, abgehört werden.
-Es wird der Teil einer Persönlichkeit festgeschrieben gegen deren Willen.  
-Die Aufnahmen sollten Bestandteil wissenschaftlicher Untersuchungen sein, wieder und wieder werden diese inspiziert.
+Die -Stimme- wird aufgenommen und abgespeichert. 
+Wieder und wieder können diese Aufnahmen  
+-abgespielt- , -angehört- , -abgehört- werden.
 
-Manche der Aufnahmen sind die letzten akustischen Dokumente inzwischen ausgestorbener Sprachen oder Dialekten.
+Es wird der Teil einer Persönlichkeit festgeschrieben gegen deren Willen(?).  
+Die Aufnahmen werden inspiziert und sind Bestandteil wissenschaftlicher Untersuchungen werden.
+
+Manche der Aufnahmen sind die letzten akustischen Dokumente inzwischen ausgestorbener Sprachen oder Dialekten, doch welchen Nutzen haben diese Aufnahmen wenn niemand mehr diese Sprachen spricht?
 
 
 
 ## Du bist noch nicht groß genug, um eine Flasche Wein auszutrinken, Du mußt erst noch ein Ende  wachsen und größer werden.
+
+It’s not just the words that will be lost,” she says. “The language is the heart of our culture; it holds our thoughts, our way of seeing the world. It’s too beautiful for English to explain.(Kimmerer, 2013)
 
 
 ## Geh, sei so gut und sag Deiner Schwester, sie sollte die Kleider für eure Mutter fertig nähen und mit der Bürste rein machen.
@@ -144,49 +189,36 @@ Manche der Aufnahmen sind die letzten akustischen Dokumente inzwischen ausgestor
 
 
 ## Wer hat mir meinen Korb mit Fleisch gestohlen?
-
+War es Berichten nach noch mit einem "uncanny " Gefühl verbunden eine Stimme welche mit den neuen technischen Möglichkeiten aufgenommen und abgespielt wurde aus einem Apparat sprechen zuhören, so ist es schnell Normalität geworden und begleitet uns nun überall.
 
 ## Er that so, als hätten sie ihn zum dreschen bestellt; sie haben es aber selbst gethan.
 
-
-## Wem hat er die neue Geschichte erzählt?
-
-
-
-Insgesamt sind etwa 2000 Lautplatten mit etwa 3000 Sprach- Gesang- und Musikstücken vorhanden.
-
-
-1. Reine Sprachaufnahmen.   
-
-2. Gemischte Sprachaufnahmen (auf den Platten sind nebenbei Musikaufnahmen vertreten).   
-
-3. Reine Musikaufnahmen,   
-
-4. Gesang- und Instrumentenaufnahmen,
-
-5. Chor- und Instrumentenaufnahmen,  	
-
-6. reine Choraufnahmen,   
-
-7. reine Instrumentenaufnahmen,   
-
-8. Orchesteraufnahmen,   
-
-9. Geräusche (Trommelsprache).  
-
-
 ## Man muß laut schreien, sonst versteht er uns nicht.
+*Sprechen wir über:*
 
+Die körperlose Stimme *-The Disembodied Voice-* dringt unmittelbar in uns ein, wir können nicht weghören wie wir wegschauen würden. 
+Die Körperlose Stimme ist dominant, in ihrer abstrakten Form hinterfragen wir nicht ihre Authorität. Wir stellen uns keinen Körper zu der Stimme vor und wir ordnen sie damit nicht als Mensch ein. 
+
+Spricht sie uns in der U Bahn an, fragen wir uns nicht: Wo ist der Mensch hinter der Stimme, ist ihr Körper? Die Stimme vermittelt Informationen, wir hören zu und fragen uns: Wann muss ich aussteigen?
+
+Es ist die Stimme des/der allwissenden Erzähler:in und ist damit fast "göttlicher" Natur.
+
+*Ein gefährliches Potenzial.*
 ## Wir sind müde und haben Durst.
 
-Die NSDAP definierte sich selbst als eine "Rednerpartei", deren Selbstverständnis fundamental phonozentrisch war. Diese Partei organisierte sich primär um die akustische Resonanz von Stimmen herum. Ab 1925, dem Jahr der Neugründung der Partei, spielte die Stimme als Propagandainstrument eine führende Rolle. Hitler selbst betonte in "Mein Kampf": "Wir wollen die Propaganda bis zum äußersten steigern. Wir wollen eine Welle der Empörung schaffen und Hunderte von Rednern hinaus ins Volk schicken."
+*Ein gefährliches Potential,*  
+welches sich der Faschismus zu Nutzen gemacht hat:  
 
-Im Zentrum dieser Inszenierung stand die akustische Präsenz der Stimme, die durch technische Vermittlung eine paradoxe Gleichzeitigkeit von Nähe und Ferne erzeugte.
+Die Nationalsozialistische Deutsche Arbeiterpartei -NSDAP- definierte sich selbst als eine "Rednerpartei", deren Selbstverständnis fundamental phonozentrisch war.   
+Die Partei organisierte sich primär um die akustische Resonanz von Stimmen herum. Ab 1925, dem Jahr der Neugründung der Partei, spielte die Stimme als Propagandainstrument eine führende Rolle.  Im Zentrum dieser Inszenierung stand die akustische Präsenz der Stimme, die durch technische Vermittlung eine paradoxe Gleichzeitigkeit von Nähe und Ferne erzeugte.  
+Die Partei verbreitete in großem Umfang das Radio -*den Volksempfänger*-, eine damals relativ neue Technologie. Hitlers Stimme war schon bald in den heimischen Wohnzimmern zu hören. Hitlers Propaganda vermittelte eine "Nähe zum Volk", die Radiowellen überwinden Entfernungen und durchdringen Wände bis die Stimme des "*Führers*" selbst im eigenen Zuhause  dann unmittelbar in die Ohren der Bevölkerung dringt. 
+
 
 
 ## Als wir gestern Abend zurück kamen, da lagen die Andern schon zu Bett und waren fest am schlafen.
 
-Through the combination of microphone and loudspeaker, the voice was staged as paradoxically near and far at the same time: equally present to itself and technically distant, the voice became a simultaneous manifestation of both mass address and “intimate communication within a space of multifaceted perception.” It is through this synthesis between a techno-acoustic format and new forms of performative mise-en-scène, that the Nazis’ vocal politics came to be revealed in all their effective power.  LOUD/SPEAKER SCENARIOS AFTER 1933
+*Through the combination of microphone and loudspeaker, the voice was staged as paradoxically near and far at the same time: equally present to itself and technically distant, the voice became a simultaneous manifestation of both mass address and “intimate communication within a space of multifaceted perception.” It is through this synthesis between a techno-acoustic format and new forms of performative mise-en-scène, that the Nazis’ vocal politics came to be revealed in all their effective power.*    
+LOUD/SPEAKER SCENARIOS AFTER 1933
 
 ## Der Schnee ist diese Nacht bei uns liegen geblieben, aber heute Morgen ist er geschmolzen.
 
@@ -195,9 +227,11 @@ Through the combination of microphone and loudspeaker, the voice was staged as p
 
 Oft ist Sprache ein "akustischer Grenzposten", die größte Veränderung nach dem Übertreten einer Landesgrenze.
 
-Die "deutsche Sprache" wurde im 19. Jahrhundert zum nationalen Projekt. Dialekte wurden kartografiert, standardisiert, hierarchisiert. Mit der Vereinheitlichung der Aussprache und der einführung einer deutschen Hochsprach entstand ein akustisches Territorium, das man betreten oder verlassen kann, ohne sich körperlich zu bewegen. Wenn jemand sagt: "Man hört, dass du nicht von hier bist", dann ist das keine neutrale Feststellung, sondern ein akustisches Grenzregime, das Ein- und Ausschluss produziert.
+Die "deutsche Sprache" wurde im 19. Jahrhundert zum nationalen Projekt. Dialekte wurden kartografiert, standardisiert, hierarchisiert. Mit der Vereinheitlichung der Aussprache und der Éinführung einer deutschen Hochsprache entstand ein akustisches Territorium, das man betreten oder verlassen kann, ohne sich körperlich zu bewegen.   
+Wenn jemand sagt: "Man hört, dass du nicht von hier bist", dann ist das keine neutrale Feststellung, sondern ein akustisches Grenzregime, das Ein- und Ausschluss produziert.
 
 Wer mit Akzent spricht, wird eventuell als besonders attraktiv wahrgenommen oder aber ist alltätglicher Diskriminierung ausgesetzt, auf dem Arbeitsmarkt oder bei der Wohnungssuche.
+
 
 
 ## Könnt ihr nicht noch ein Augenblickchen auf uns warten, dann gehn wir mit euch.
@@ -211,7 +245,7 @@ Die Sprache und das Umfeld schreibt sich in unserer Stimme nieder,  sodass oft a
 
 For ein paar Jahren habe ich Spanisch gelernt. Im Spanischen rollt das "R" über die Zunge, im Deutschen  entsteht es viel weiter hinten im Rachen. So sehr ich es versuchte ich konnte diese "R" nicht aussprechen.
 Erst durch Zeit und Übung war es mir möglich, bis es dann ohne darüber nachzudenken 
-## hr dürft nicht solche Kindereien treiben!
+## Ihr dürft nicht solche Kindereien treiben!
 
 
 ### Shibboleth
@@ -281,7 +315,21 @@ Schibboleth
 
 ## Die Bauern hatten fünf Ochsen und neun Kühe und zwölf Schäfchen vor das Dorf gebracht, die wollten sie verkaufen.
 
+Ich denke über die Stimme nach ohne Wörter. 
 
+Als Kind, wenn ich mit der Familie unterwegs war, ich auf die Toilette ging und dort saß, dann achtete ich auf die Geräusche der Anderen ohne sie sehen zu können und ich dachte immer, meinen Vater erkennen zu können nur an dem etwas tieferen Ausatmen. Es ist ein Ausatmen das schon fast Stimme ist, aber wann wird dieses Atemgeräusch zur Stimme?
+
+Ich denke über Stimme nach ohne Wörter. 
+
+Ein Husten: 
+
+öhhöuh 
+
+Es ist ja kein Wort, also wie kann ich es auch schreiben?
+
+In der Yoko Onos Performance “Cough Piece” hustet Ono ein halbe Stunde vor Publikum.
+
+Ein betontes Husten kann kann eine Aufforderung sein, ein subtiler Versuch der Kommunikation, meist ist das Husten aber ein frei machen des Rachens, eine Vorbereitung zum Sprechen. Eine Halbe Stunde bereitet Yoko Ono sich und ihren Körper vor, und spricht am Ende doch kein Wort.
 
 
 ## Die Leute sind heute alle draußen auf dem Felde und mähen.
