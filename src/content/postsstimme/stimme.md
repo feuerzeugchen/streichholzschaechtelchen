@@ -76,16 +76,17 @@ Deutsch: Hochdeutsch (Vortrags- und Umgangssprache), Kolonisten- deutsch aus RuB
 
 ## Thu Kohlen in den Ofen, daß die Milch bald an zu kochen fängt.
 
-*Sprechen wir über:* 
+Die 40 Karten dieser Sammlung sind mit den 40 Sätzen Georg Wenkers übertitelt.
 
-Die "**40 Sätze Georg Wenkers**"  wurden 1879 von Georg Wenker festgelegt.
+*Sprechen wir über: Die 40 Wenkersätze*
 
-Sie dienen als Referenz um verschiedene Dialekte und Sprecheigenschaften miteinander vergleichen zu können.
+Die 40 Wenkersätze wurden 1879 von Georg Wenker festgelegt.
 
-Mit dem Ziel einer umfassenden Erhebung von Sprachdaten und der Kartographierung von Lokaldialekten schickte Wenker die "Wenkerbögen" an verschiedene Schulen im gesamten deutschsprachigen Gebiet.  
+Sie dienen als Referenz um verschiedene Dialekte und Sprecheigenschaften miteinander vergleichen zu können. Die Sätze wurden so gestaltet, dass lautliche und  grammatische Merkmale von Dialekten in der Übersetzung deutlich zum Ausdruck kommen mussten.
 
-Mit der Einführung der 
-  
+Mit dem Ziel einer umfassenden Erhebung von Sprachdaten und der Kartografierung von Lokaldialekten schickte Wenker die "Wenkerbögen" an verschiedene Schulen im gesamten deutschsprachigen Gebiet.  
+
+Inhaltlich haben die Sätze demnach nach keine weiter Bedeutung. Wir können ihnen zuhören und uns nur auf die akustischen Aspekte der Stimme konzentrieren.
   
   
   
@@ -93,6 +94,21 @@ Mit der Einführung der
 
 
 ## Der gute alte Mann ist mit dem Pferde durch’s Eis gebrochen und in das kalte Wasser gefallen.
+
+Mit den Möglichkeiten der Tonaufnahme seit Anfang des 20 Jahrhunderts wurden die Wenkersätze vorgesprochen und aufgenommen. Neben den handschriftlichen Wenkerbögen gab es nun auch Audiodokumenten.
+
+Die 40 Sätze wurden etliche Male verbalisiert und dokumentiert, auf verschiedenen Datenbanken verteilt existieren mehrere tausend Exemplare.   
+Beim Anhören der Aufnahmen fällt auf, dass meist erst eine Person mit hochdeutscher Aussprache den Satz vorspricht  und darauf eine weiter Person mit Dialekt den Satz wiederholt.   
+Die hierfür ausgewählten Leute waren oft Menschen der Arbeiter:innenklasse, bei ihnen wurde mehr Dialekt erwartet. Zudem waren viele der aufgenommenen Personen Analphabeten. 
+
+
+In intellektuellen und wohlhabenden Kreisen war es angesehen Hochdeutsch zu sprechen, das Sprechen von Dialekt wurde als minderwertig betrachtet.  Viele der Aufnahmen sind in einer deutlichen Asymmetrie entstanden.
+Ein intellektuelles Machtgefälle welches sich an der Stimme abzeichnet. 
+
+
+https://wenker.online.uni-marburg.de/wenker/   
+https://regionalsprache.de/Audio/Catalogue.aspx
+  
 
 ## Er ist vor vier oder sechs Wochen gestorben.
 
