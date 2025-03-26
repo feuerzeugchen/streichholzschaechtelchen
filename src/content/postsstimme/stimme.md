@@ -84,6 +84,8 @@ Die 40 Wenkersätze wurden 1879 von Georg Wenker festgelegt.
 
 Sie dienen als Referenz um verschiedene Dialekte und Sprecheigenschaften miteinander vergleichen zu können. Die Sätze wurden so gestaltet, dass lautliche und  grammatische Merkmale von Dialekten in der Übersetzung deutlich zum Ausdruck kommen mussten.
 
+So werden besonders pf, _ts_, _kch_, ai oder ei untersucht
+
 Mit dem Ziel einer umfassenden Erhebung von Sprachdaten und der Kartografierung von Lokaldialekten schickte Wenker die "Wenkerbögen" an verschiedene Schulen im gesamten deutschsprachigen Gebiet.  
 
 Inhaltlich haben die Sätze demnach nach keine weiter Bedeutung. Wir können ihnen zuhören und uns nur auf die akustischen Aspekte der Stimme konzentrieren.
