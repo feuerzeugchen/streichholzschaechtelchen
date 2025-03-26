@@ -53,7 +53,7 @@ Aufnahmen aus den Kriegsgefangenenlagern des Ersten Weltkriegs. Die Aufnahmen um
 Aufnahmen von Stimmen von Persönlichkeiten, an deren Erhaltung für die Nachwelt ein historisches Interesse bestand
 
 *Deutsche Mundarbeiten:* 
-Aufnahmen entstanden in Zusammenarbeit mit der Philipps-Universität Marburg zu auditiven Unterstützung des Deutschen Sprachatlas zur Dokumentation deutscher Mundarten
+Aufnahmen entstanden in Zusammenarbeit mit der Philipps-Universität in Marburg zu auditiven Unterstützung des Deutschen Sprachatlas zur Dokumentation deutscher Mundarten
 
 *Musikaufnahmen*:   
 Verschiedene Musikaufnahmen.
@@ -79,12 +79,12 @@ Deutsch: Hochdeutsch (Vortrags- und Umgangssprache), Kolonisten- deutsch aus RuB
 *Sprechen wir über:* 
 
 Die "**40 Sätze Georg Wenkers**"  wurden 1879 von Georg Wenker festgelegt.
-Diesen 40 Sätzen voran gingen die "42 Rheinischen Sätze“ sowie die "38 Westfälischen Sätze“.
+
+Sie dienen als Referenz um verschiedene Dialekte und Sprecheigenschaften miteinander vergleichen zu können.
 
 Mit dem Ziel einer umfassenden Erhebung von Sprachdaten und der Kartographierung von Lokaldialekten schickte Wenker die "Wenkerbögen" an verschiedene Schulen im gesamten deutschsprachigen Gebiet.  
 
-Noch vor der ersten Tonaufnahme im Jahr 1887 wurden die Sprachdaten handschriftlich aufgenommen und gesammelt.
-
+Mit der Einführung der 
   
   
   
@@ -96,7 +96,10 @@ Noch vor der ersten Tonaufnahme im Jahr 1887 wurden die Sprachdaten handschriftl
 
 ## Er ist vor vier oder sechs Wochen gestorben.
 
-Die Aufnahmen der Gefangenen aus dem Lautarchiv der HU-Berlin sind unter Zwang entstanden.
+
+Wir wissen heute nicht mehr unter welchen Umständen die Aufnahmen genau entstanden sind, es ist jedoch davon auszugehen, dass sie in großen Teilen unter Zwang entstanden sind. Wir wissen heute nicht mehr unter welchen Umständen die Aufnahmen genau ents
+
+
 
 Für Wilhelm Doege war Zweck dieser Aufnahmen eine Suche nach dem "Typ" des kriminellen Menschen, mit der Annahme, dass sich Kriminalität an der Stimme ablesen lasse. Die Aufnahmen wurden Teil eines pseudo-wissenschaftlichen Diskurses über Physiognomik und Charakterologie.
 
@@ -112,7 +115,7 @@ Seine Fasern legen sich in die Rillen und verändern über die Zeit den Klang de
 
 Ich habe die Aufnahmen als digitale mp3 erhalten. Die Spuren des gealterten Trägermaterials sind auf eine Abfolge von Nullen und Einsen übertragen worden. 
 
-Ich werde das Material weiter bearbeiten. Die Spuren der digitalen verarbeitung spiegeln legen sich auf das Material.
+Ich werde das Material weiter bearbeiten. Die Spuren der digitalen Verarbeitung  legen sich auf das Material.
 
 ## Er ißt die Eier immer ohne Salz und Pfeffer.
 
@@ -334,25 +337,46 @@ Ein betontes Husten kann kann eine Aufforderung sein, ein subtiler Versuch der K
 
 ## Die Leute sind heute alle draußen auf dem Felde und mähen.
 
-Ich denke über die Stimme nach ohne Wörter. 
 
-Als Kind, wenn ich mit der Familie unterwegs war, ich auf die Toilette ging und dort saß, dann achtete ich auf die Geräusche der Anderen ohne sie sehen zu können und ich dachte immer, meinen Vater erkennen zu können nur an dem etwas tieferen Ausatmen. Es ist ein Ausatmen das schon fast Stimme ist, aber wann wird dieses Atemgeräusch zur Stimme?
-
-Ich denke über Stimme nach ohne Wörter. 
-
-Ein Husten: 
-
-öhhöuh 
-
-Es ist ja kein Wort, also wie kann ich es auch schreiben?
-
-In der Yoko Onos Performance “Cough Piece” hustet Ono ein halbe Stunde vor Publikum.
-
-Ein betontes Husten kann kann eine Aufforderung sein, ein subtiler Versuch der Kommunikation, meist ist das Husten aber ein frei machen des Rachens, eine Vorbereitung zum Sprechen. Eine Halbe Stunde bereitet Yoko Ono sich und ihren Körper vor, und spricht am Ende doch kein Wort.
 
 ## Geh nur, der braune Hund thut Dir nichts.	
 
+Schibboleth (Paul Celan, 1955)
 
+Mitsamt meinen Steinen,  
+den großgeweinten  
+hinter den Gittern,  
+schleiften sie mich  
+in die Mitte des Marktes,  
+dorthin,  
+wo die Fahne sich aufrollt, der ich  
+keinerlei Eid schwor.  
+  
+Flöte,  
+Doppelflöte der Nacht:  
+denke der dunklen  
+Zwillingsröte  
+in Wien und Madrid.  
+  
+Setz deine Fahne auf Halbmast,  
+Erinnrung.  
+Auf Halbmast  
+für heute und immer.  
+  
+Herz:  
+  
+gib dich auch hier zu erkennen,  
+hier, in der Mitte des Marktes.  
+Ruf's, das Schibboleth, hinaus  
+in die Fremde der Heimat:  
+Februar. No pasaran.  
+  
+Einhorn:  
+  
+du weißt um die Steine,  
+du weißt um die Wasser,  
+komm,  
+ich führ dich hinweg  
+zu den Stimmen  
+von Estremadura.
 ## Ich bin mit den Leuten da hinten über die Wiese ins Korn gefahren.
-
-![](src/assets/2ADZSUWX%201.jpg)
