@@ -208,7 +208,11 @@ It’s not just the words that will be lost,” she says. “The language is the
 
 ## Hättest Du ihn gekannt! dann wäre es anders gekommen, und es thäte besser um ihn stehen. 
 
+18 Und alles Volk sah den Donner und Blitz und den Ton der Posaune und den Berg rauchen. Da sie aber solches sahen, flohen sie und traten von ferne
 
+19 und sprachen zu Mose: Rede du mit uns, wir wollen gehorchen; und laß Gott nicht mit uns reden, wir möchten sonst sterben.
+
+20 Mose aber sprach zum Volk: Fürchtet euch nicht; denn Gott ist gekommen, daß er euch versuchte und daß seine Furcht euch vor Augen wäre, daß ihr nicht sündigt.
 ## Wer hat mir meinen Korb mit Fleisch gestohlen?
 War es Berichten nach noch mit einem "uncanny " Gefühl verbunden eine Stimme welche mit den neuen technischen Möglichkeiten aufgenommen und abgespielt wurde aus einem Apparat sprechen zuhören, so ist es schnell Normalität geworden und begleitet uns nun überall.
 
