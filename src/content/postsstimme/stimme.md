@@ -204,15 +204,18 @@ It’s not just the words that will be lost,” she says. “The language is the
 
 
 ## Geh, sei so gut und sag Deiner Schwester, sie sollte die Kleider für eure Mutter fertig nähen und mit der Bürste rein machen.
-Wenn wir die Stimme als ein eindeutiges Identifikationsmerkmal ansehen dann kann sie auch Beweismaterial sein. 
+Wenn wir Stimme als ein eindeutiges Identifikationsmerkmal ansehen dann kann sie auch Beweismaterial sein. 
 Algorithmen können im direkten Vergleich bestimmen ob es sich bei zwei Aufnahmen um die selbe Stimme handelt.
 Doch diese Algorithmen sind fehleranfällig:
 Reine Stimmaufnahmen sind als Beweismaterial vor Gericht momentan oft nicht zulässig. Zu leicht können Stimmen verfälscht oder kopiert werden. 
 
 ---
-Wir können Stimme modifizieren um:
-Eine *andere* Person zu imitieren
+Wir können Stimme modifizieren um:  
+
+Eine *andere* Person zu imitieren  
 Einer *anderen* Person eine Handlung zuschreiben 
+
+
 ## Hättest Du ihn gekannt! dann wäre es anders gekommen, und es thäte besser um ihn stehen. 
 
 - [ ] 18 Und alles Volk sah den Donner und Blitz und den Ton der Posaune und den Berg rauchen. Da sie aber solches sahen, flohen sie und traten von ferne

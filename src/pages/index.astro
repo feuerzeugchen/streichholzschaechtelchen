@@ -35,6 +35,9 @@ console.log('Extracted Sections:', sections);
 ---
 <html lang="de">
 <StimmeLayout title="Stimme Entries">
+  <div class="theme-toggle-container">
+    <button id="theme-toggle">Toggle Dark Mode</button>
+  </div>
   <div class="rectangle-container">
     {sections.map((section, index) => (
       <article class="content-rectangle" id={`rectangle-${index}`}>
@@ -66,17 +69,51 @@ console.log('Extracted Sections:', sections);
         },0); // 500 milliseconds delay
       });
     });
+    // Dark mode toggle logic
+    const themeToggle = document.getElementById('theme-toggle');
+    const htmlElement = document.documentElement;
+
+    themeToggle.addEventListener('click', () => {
+      const currentTheme = htmlElement.getAttribute('data-theme');
+      const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+      htmlElement.setAttribute('data-theme', newTheme);
+      localStorage.setItem('theme', newTheme);
+    });
+
+    // Load saved theme from localStorage
+    const savedTheme = localStorage.getItem('theme') || 'light';
+    htmlElement.setAttribute('data-theme', savedTheme);
   });
 </script>
 
 <style>
 html {
     font-size: 110%;
+    font-family: 'PT Sans';
+    background-color: var(--background-color);
+    color: var(--text-color);
 } 
+.theme-toggle-container {
+  text-align: left;
+  margin: 1rem 1rem;
+}
+
+#theme-toggle {
+  padding: 0.2rem 0.3rem;
+  font-size: 0.7rem;
+  cursor: pointer;
+}
 :root {
       --background-color: rgb(228, 228, 228);
       --text-color: black;
+      --content-bg-color: rgb(255, 255, 255);
       }
+
+      [data-theme="dark"] {
+  --background-color: rgb(34, 34, 34);
+  --text-color: white;
+  --content-bg-color: rgb(50, 50, 50);
+} 
   @media screen and (max-width: 700px) {
     html {
           font-size:3.1vw;
@@ -84,9 +121,6 @@ html {
       }
   
   body {
-      font-family: 'PT Sans';
-      background-color: var(--background-color);
-      color: var(--text-color);
       margin: 0;
       padding: 0;
   }
@@ -103,7 +137,7 @@ html {
   }
   
   .content-rectangle {
-      background-color: white;
+      background-color: var(--content-bg-color);
       height: 39.71rem;
       width: 25rem;
       aspect-ratio: 1 / 1.45;
@@ -111,7 +145,6 @@ html {
       padding: 1.5rem 3.5rem;
       box-shadow: 0 2px 5px rgba(0,0,0,0.1);
       font-size: 0.9rem; /* Ensure readable font size */
-      color: black; /* Ensure text is visible */
       margin: auto;
       display: flex;
       flex-direction: column;
@@ -120,7 +153,6 @@ html {
   .content-rectangle h2 {
       text-align: left;
       font-weight:bold;
-      color: #000000;
       font-size: 1.1rem;
   }
   
