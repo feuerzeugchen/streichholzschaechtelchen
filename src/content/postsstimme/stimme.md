@@ -241,16 +241,15 @@ CSI NY S07E15T24:50,  2011
 *“I heard your voice on the tape. It’s like a fingerprint”.* 
  Law and Order: New York S14E16T29:59, 2013
  
-*“even though they wore ski masks, he recognized them by their voices because they grew up together”*
+*“even though they wore ski masks, he recognized them by their voices because they grew up together”.  
 Castle S02E23T16:26
 
-*“you think I don’t know my own daughter’s voice?”*
+*“you think I don’t know my own daughter’s voice?”.  
 Criminal Minds S04E14T19:24
 
 *“the average grown male has a pitch frequency of 130 Hz; a teenage boy post-puberty is about 140; this one is at 152”.  
 		“How does that make him a teenager?”    
-“People go up 10 to 15 Hertz when they’re screaming”.*
-
+“People go up 10 to 15 Hertz when they’re screaming”.*.  
 Law and Order S11E08T07:30
 ## Man muß laut schreien, sonst versteht er uns nicht.
 *Sprechen wir über:*
