@@ -228,6 +228,24 @@ War es Berichten nach noch mit einem "uncanny " Gefühl verbunden eine Stimme we
 
 ## Er that so, als hätten sie ihn zum dreschen bestellt; sie haben es aber selbst gethan.
 
+
+*“Voices are like fingerprints; no two are the same. Even if the voice is disguised, the pattern doesn’t change”.*
+
+The Prisoner S01E10T21:57,  1967
+ 
+*“voice patterns are as distinct as fingerprints”.*  
+
+CSI NY S07E15T24:50,  2011
+
+
+*“I heard your voice on the tape. It’s like a fingerprint”.* 
+ Law and Order: New York S14E16T29:59, 2013
+ 
+“even though they wore ski masks, he recognized them by their voices because they grew up together”
+Castle S02E23T16:26
+
+“you think I don’t know my own daughter’s voice?”
+Criminal Minds S04E14T19:24
 ## Man muß laut schreien, sonst versteht er uns nicht.
 *Sprechen wir über:*
 
