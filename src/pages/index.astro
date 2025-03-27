@@ -70,11 +70,18 @@ console.log('Extracted Sections:', sections);
 </script>
 
 <style>
-  :root {
+html {
+    font-size: 110%;
+} 
+:root {
       --background-color: rgb(228, 228, 228);
       --text-color: black;
-      --font-size: 1rem;
-  }
+      }
+  @media screen and (max-width: 700px) {
+    html {
+          font-size:3vw;
+        }
+      }
   
   body {
       font-family: 'PT Sans';
