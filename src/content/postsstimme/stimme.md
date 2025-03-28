@@ -24,21 +24,7 @@ Fritz Walds Aufnahme ist eine von hunderten die sich auf Schellackplatten oder W
 
 
 
-## Es hört gleich auf zu schneien, dann wird das Wetter wieder besser.
 
-*Sprechen wir über: Wilhelm Doegen*
-
-Wilhelm Doegen (1877–1967) war ein deutscher Sprachwissenschaftler und Begründer der Lautabteilung der Preußischen Staatsbibliothek. .
-
-An 4 Tagen im Juli 1926 nimmt Willhelm Doegen die Stimmen von 24 Inhaftierten in verschiedenen Berliner Gefängnissen auf.
-
-Eine dieser aufgenommenen Personen ist Fritz Lang.
-
-Die Aufnahmen dieser Tage sind archiviert und als:  
-"Wenkersche Sätze",
-"Autobiographische Erzählung", oder
-"Lied" 
- betitelt.
 
 ## Wem hat er die neue Geschichte erzählt?
 
@@ -68,12 +54,24 @@ Aufnahmen im Zirkus Krone und Dresdner Zoo,  Laute von Elefanten, Seelöwen, Bä
 
 ## Er ißt die Eier immer ohne Salz und Pfeffer.
 
+*Dokumentation von Sprachen*:  
+(Aufnahmen in folgenden Sprachen eingelagert)  
 Indisch: Gurkhali, Panjabi, Garhwali, Hindustani, Bengali, Hindi, Althindi, Urdu; Himalayasprachen: Magar, Murmi, Rai, Limbu, Gurung; Zigeunerisch. - Iranisch: Belutschisch, Afghanisch, Ossetisch. - Armenisch. - Griechisch. - Rumänisch: aus Rumänien, von serbischen Zigeunern, aus Beßarabien. - Italienisch: 16 verschiedene Dialekte, ferner: Romagnolisch, La-
 dinisch-friaulisch, Sardisch, Italo-albanisch, Korsisch, Genuesisch aus Bonifacio. - Fran- zösisch: Laut-, Umgangs- und Vortragssprache, ferner nordfranzösische Dialekte: Arden- nais, Champenois, Lorrain, Luxembourg (Pays Gourmais), Nord, Normand, Picard, Savoyard, Wallon; Südfranzösische Dialekte: Auvergnais, Bordeaux, Bearnais, Bressan, Cantal, Charentais, Dauphinois, Gascon, Languedocien, Limousin, Lyonnais, Niçois, Mont- pellier, Morvandeau, Provençal, Sudvosgien, Toulouse, Vendée. - Kreolisch (aus Martinique und Gouadeloupe). -- Spanisch: Katalanisch. - Portugiesisch. - Keltisch: Gälisch, Kymrisch, Bretonisch. - Englisch: Laut-, Umgangs- und Vortrags- sprache, ferner Mundarten aus Berkshire, Cheshire, Cumberland, Derby, Devonshire, Dorset, Durham, Essex, Glammorganshire, Gloucestershire, Kent, Lancashire, Lincoln, Norfolk, Nottingham, Oxford, Stafford, Suffolk, Warwick, Wiltshire, Yorkshire, Irland, (10 Dialekte), Schottland (15 Dialekte), Kanada, Australien, ferner Englisch eines Gurkha. - Vlamisch. - 
 ## Die Füße thun mir sehr weh, ich glaube, ich habe sie durchgelaufen.
 
 Deutsch: Hochdeutsch (Vortrags- und Umgangssprache), Kolonisten- deutsch aus RuBland, Jiddisch. - Baltisch: Litauisch, Lettisch. - Slavisch: Kirchen- slavisch, Bulgarisch, Serbisch, Großrussisch, Kleinrussisch, Weißrussisch, Polnisch. - Kaukasisch: Avarisch, Inguschisch, Georgisch, Mingrelisch. - Baskisch: Labour- dinisch, Soulisch, Niedernavarrisch u. a. - Finnisch-Ugrisch: Finnisch, Karelisch, Estnisch, Mordwinisch, Tscheremissisch, Syrjänisch, Permjakisch, Wotjakisch. - Tür- kisch: Türkisch, Tatarisch, Kumyk .- tatarisch, Baschkirisch, Kirgisisch, Tschuwaschisch. - Mongolisch: Koreanisch, Kambodschanisch, Anamitisch, Japanisch. - Semitisch: Hebräisch, Arabisch, Mauretanisch-arabisch, Tunisisch, Marokkanisch, Tripolitanisch, Algerisch, Maltesisch. - Hamitisch: Berberisch, Bele, Somali, Ful, Haussa. - Bantu: Kibera Trommelsprache; Komorendialekte: Ngazidja, Nzwani, Mwali, Mayotte; Suaheli, X'hosa. - Sudan: Anyi, Baga, Bambara, Bornu, Bobo, Bariba, Baule, Dahomey, Ewe, Goro, Ibo, Joruba, Kasonge, Kru, Mandara, Maninka, Mende, Mosi, Sarakole, Soso, Toma, Wandala, Wobe, Wolof. - Unbestimmte Sprachen aus dem Sudan: Kado, Konoka, Kwiya, Mienga, Samogo, Serefo, Zerma. - Indonesisch: Malaiisch, Malaiisch-poly- nesisch: Madagassisch; Sakalawe, Howa, Betsimisaraka, Syanaka, Bezanuzanu, Betsileo, Tanus, Tanrui, Antesaka. - Polynesisch: Samoanisch, Tahiti. - Melanesisch: Neu- kaledonisch.
 
+## Es hört gleich auf zu schneien, dann wird das Wetter wieder besser.
+
+*Sprechen wir über: Wilhelm Doegen*
+
+Wilhelm Doegen (1877–1967) war ein deutscher Sprachwissenschaftler und Begründer der Lautabteilung der Preußischen Staatsbibliothek. .
+
+An 4 Tagen im Juli 1926 nimmt Willhelm Doegen die Stimmen von 24 Inhaftierten in verschiedenen Berliner Gefängnissen auf.
+
+Eine dieser aufgenommenen Personen ist Fritz Lang, wir haben ihn gerade schon gehört.
+#todo
 
 ## Thu Kohlen in den Ofen, daß die Milch bald an zu kochen fängt.
 
@@ -83,7 +81,7 @@ Die 40 Karten dieser Sammlung sind mit den 40 Sätzen Georg Wenkers übertitelt.
 
 Die 40 Wenkersätze wurden 1879 von Georg Wenker festgelegt.
 
-Sie dienen als Referenz um verschiedene Dialekte und Sprecheigenschaften miteinander vergleichen zu können. Die Sätze wurden so gestaltet, dass lautliche und  grammatische Merkmale von Dialekten in der Übersetzung deutlich zum Ausdruck kommen mussten.
+Sie dienten als Referenz um verschiedene Dialekte und Sprecheigenschaften miteinander vergleichen zu können. Die Sätze wurden so gestaltet, dass lautliche und  grammatische Merkmale von Dialekten in der Übersetzung deutlich zum Ausdruck kommen mussten.
 
 So werden gezielt Laute wie *pf*, _ts_, _kch_, *ai*,  oder *ei* untersucht
 
