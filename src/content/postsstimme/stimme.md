@@ -55,7 +55,7 @@ Aufnahmen im Zirkus Krone und Dresdner Zoo,  Laute von Elefanten, Seelöwen, Bä
 ## Er ißt die Eier immer ohne Salz und Pfeffer.
 
 *Dokumentation von Sprachen*:  
-(Aufnahmen in folgenden Sprachen eingelagert)  
+(Im Lautarchiv der Humboldt Universität sind Aufnahmen in folgenden Sprachen eingelagert)  
 Indisch: Gurkhali, Panjabi, Garhwali, Hindustani, Bengali, Hindi, Althindi, Urdu; Himalayasprachen: Magar, Murmi, Rai, Limbu, Gurung; Zigeunerisch. - Iranisch: Belutschisch, Afghanisch, Ossetisch. - Armenisch. - Griechisch. - Rumänisch: aus Rumänien, von serbischen Zigeunern, aus Beßarabien. - Italienisch: 16 verschiedene Dialekte, ferner: Romagnolisch, La-
 dinisch-friaulisch, Sardisch, Italo-albanisch, Korsisch, Genuesisch aus Bonifacio. - Fran- zösisch: Laut-, Umgangs- und Vortragssprache, ferner nordfranzösische Dialekte: Arden- nais, Champenois, Lorrain, Luxembourg (Pays Gourmais), Nord, Normand, Picard, Savoyard, Wallon; Südfranzösische Dialekte: Auvergnais, Bordeaux, Bearnais, Bressan, Cantal, Charentais, Dauphinois, Gascon, Languedocien, Limousin, Lyonnais, Niçois, Mont- pellier, Morvandeau, Provençal, Sudvosgien, Toulouse, Vendée. - Kreolisch (aus Martinique und Gouadeloupe). -- Spanisch: Katalanisch. - Portugiesisch. - Keltisch: Gälisch, Kymrisch, Bretonisch. - Englisch: Laut-, Umgangs- und Vortrags- sprache, ferner Mundarten aus Berkshire, Cheshire, Cumberland, Derby, Devonshire, Dorset, Durham, Essex, Glammorganshire, Gloucestershire, Kent, Lancashire, Lincoln, Norfolk, Nottingham, Oxford, Stafford, Suffolk, Warwick, Wiltshire, Yorkshire, Irland, (10 Dialekte), Schottland (15 Dialekte), Kanada, Australien, ferner Englisch eines Gurkha. - Vlamisch. - 
 ## Die Füße thun mir sehr weh, ich glaube, ich habe sie durchgelaufen.
