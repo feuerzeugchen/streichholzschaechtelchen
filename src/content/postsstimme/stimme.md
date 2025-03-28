@@ -146,6 +146,10 @@ Für Wilhelm Doege war Zweck dieser Aufnahmen eine Suche nach dem "Typ" des krim
 
 Neben Audioaufnahmen wurden Photos, Röntgenaufnahmen und Gebissabdrücke zur Bestimmung der Zungenposition angefertigt.
 
+Palatogramme
+
+@mahrenholzRecordingsSouthAsian2023
+
 
 ## Das Feuer war zu heiß, die Kuchen sind ja unten ganz schwarz gebrannt
 
