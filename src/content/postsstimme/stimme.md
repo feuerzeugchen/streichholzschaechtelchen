@@ -66,11 +66,12 @@ Aufnahmen im Zirkus Krone und Dresdner Zoo,  Laute von Elefanten, Seelöwen, Bä
 
 
 
-## 1
+## Er ißt die Eier immer ohne Salz und Pfeffer.
 
 Indisch: Gurkhali, Panjabi, Garhwali, Hindustani, Bengali, Hindi, Althindi, Urdu; Himalayasprachen: Magar, Murmi, Rai, Limbu, Gurung; Zigeunerisch. - Iranisch: Belutschisch, Afghanisch, Ossetisch. - Armenisch. - Griechisch. - Rumänisch: aus Rumänien, von serbischen Zigeunern, aus Beßarabien. - Italienisch: 16 verschiedene Dialekte, ferner: Romagnolisch, La-
 dinisch-friaulisch, Sardisch, Italo-albanisch, Korsisch, Genuesisch aus Bonifacio. - Fran- zösisch: Laut-, Umgangs- und Vortragssprache, ferner nordfranzösische Dialekte: Arden- nais, Champenois, Lorrain, Luxembourg (Pays Gourmais), Nord, Normand, Picard, Savoyard, Wallon; Südfranzösische Dialekte: Auvergnais, Bordeaux, Bearnais, Bressan, Cantal, Charentais, Dauphinois, Gascon, Languedocien, Limousin, Lyonnais, Niçois, Mont- pellier, Morvandeau, Provençal, Sudvosgien, Toulouse, Vendée. - Kreolisch (aus Martinique und Gouadeloupe). -- Spanisch: Katalanisch. - Portugiesisch. - Keltisch: Gälisch, Kymrisch, Bretonisch. - Englisch: Laut-, Umgangs- und Vortrags- sprache, ferner Mundarten aus Berkshire, Cheshire, Cumberland, Derby, Devonshire, Dorset, Durham, Essex, Glammorganshire, Gloucestershire, Kent, Lancashire, Lincoln, Norfolk, Nottingham, Oxford, Stafford, Suffolk, Warwick, Wiltshire, Yorkshire, Irland, (10 Dialekte), Schottland (15 Dialekte), Kanada, Australien, ferner Englisch eines Gurkha. - Vlamisch. - 
-## 2
+## Die Füße thun mir sehr weh, ich glaube, ich habe sie durchgelaufen.
+
 Deutsch: Hochdeutsch (Vortrags- und Umgangssprache), Kolonisten- deutsch aus RuBland, Jiddisch. - Baltisch: Litauisch, Lettisch. - Slavisch: Kirchen- slavisch, Bulgarisch, Serbisch, Großrussisch, Kleinrussisch, Weißrussisch, Polnisch. - Kaukasisch: Avarisch, Inguschisch, Georgisch, Mingrelisch. - Baskisch: Labour- dinisch, Soulisch, Niedernavarrisch u. a. - Finnisch-Ugrisch: Finnisch, Karelisch, Estnisch, Mordwinisch, Tscheremissisch, Syrjänisch, Permjakisch, Wotjakisch. - Tür- kisch: Türkisch, Tatarisch, Kumyk .- tatarisch, Baschkirisch, Kirgisisch, Tschuwaschisch. - Mongolisch: Koreanisch, Kambodschanisch, Anamitisch, Japanisch. - Semitisch: Hebräisch, Arabisch, Mauretanisch-arabisch, Tunisisch, Marokkanisch, Tripolitanisch, Algerisch, Maltesisch. - Hamitisch: Berberisch, Bele, Somali, Ful, Haussa. - Bantu: Kibera Trommelsprache; Komorendialekte: Ngazidja, Nzwani, Mwali, Mayotte; Suaheli, X'hosa. - Sudan: Anyi, Baga, Bambara, Bornu, Bobo, Bariba, Baule, Dahomey, Ewe, Goro, Ibo, Joruba, Kasonge, Kru, Mandara, Maninka, Mende, Mosi, Sarakole, Soso, Toma, Wandala, Wobe, Wolof. - Unbestimmte Sprachen aus dem Sudan: Kado, Konoka, Kwiya, Mienga, Samogo, Serefo, Zerma. - Indonesisch: Malaiisch, Malaiisch-poly- nesisch: Madagassisch; Sakalawe, Howa, Betsimisaraka, Syanaka, Bezanuzanu, Betsileo, Tanus, Tanrui, Antesaka. - Polynesisch: Samoanisch, Tahiti. - Melanesisch: Neu- kaledonisch.
 
 
@@ -135,18 +136,11 @@ Ich habe die Aufnahmen als digitale mp3 erhalten. Die Spuren des gealterten Trä
 
 Ich werde das Material weiter bearbeiten. Die Spuren der digitalen Verarbeitung  legen sich auf das Material.
 
-## Er ißt die Eier immer ohne Salz und Pfeffer.
 
-
-
-
-## Die Füße thun mir sehr weh, ich glaube, ich habe sie durchgelaufen.
 
 
 ## Ich bin bei der Frau gewesen und habe es ihr gesagt, und sie sagte, sie wollte es auch ihrer Tochter sagen.
 
-
-## Ich will es auch nicht mehr wieder thun!
 
 ## Ich schlage Dich gleich mit dem Kochlöffel um die Ohren, Du Affe!
 
@@ -162,7 +156,7 @@ Wenn die Stimme nicht zur Erscheinung passt oder wenn eine vertraute Person auf 
 
 *“But if the voice is thus the quasi-natural bearer of the production of meaning, it also proves to be strangely recalcitrant to it. If we speak in order to “make sense,” to signify, to convey something, then the voice is the material support of bringing about meaning, yet it does not contribute to it itself. It is rather like the vanishing mediator (to use the term made famous by Fredric Jameson for a different purpose)—it makes the utterance possible, but it disappears in it, it goes up in smoke in the meaning being produced.” (Dolar, 2006)
 
-## 5
+## Ich will es auch nicht mehr wieder thun!
 
 Nehmen wir unsere eigene Stimme auf, so ist es uns oft anfangs fast unerträglich dieser später zuzuhören: *Höre ich mich wirklich so an?*
 
@@ -204,7 +198,7 @@ It’s not just the words that will be lost,” she says. “The language is the
 
 
 ## Geh, sei so gut und sag Deiner Schwester, sie sollte die Kleider für eure Mutter fertig nähen und mit der Bürste rein machen.
-Wenn wir Stimme als ein eindeutiges Identifikationsmerkmal ansehen dann kann sie auch Beweismaterial sein. 
+Wenn wir Stimme als Identifikationsmerkmal ansehen dann kann sie auch Beweismaterial sein. 
 Algorithmen können im direkten Vergleich bestimmen ob es sich bei zwei Aufnahmen um die selbe Stimme handelt.
 Doch diese Algorithmen sind fehleranfällig:
 Reine Stimmaufnahmen sind als Beweismaterial vor Gericht momentan oft nicht zulässig. Zu leicht können Stimmen verfälscht oder kopiert werden. 
