@@ -73,6 +73,28 @@ An 4 Tagen im Juli 1926 nimmt Willhelm Doegen die Stimmen von 24 Inhaftierten in
 Eine dieser aufgenommenen Personen ist Fritz Lang, wir haben ihn gerade schon gehört.
 #todo
 
+## Mein liebes Kind, bleib hier unten stehn, die bösen Gänse beißen Dich todt.
+
+## Das Wort kam ihm von Herzen!
+**Wachswalze einsetzen**: Leere Wachswalze auf den Zylinder des Phonographen montieren.  
+**Gerät justieren**: Aufnahmemembran und Nadel auf korrekte Position einstellen.  
+**Ton aufnehmen**: In den Trichter sprechen, während die Walze gedreht wird.  
+**Wachsmatrize vorbereiten**: Flache Wachsscheibe auf Aufnahmetisch platzieren.  
+**Rillen übertragen**: Phonographen-Aufnahme abspielen und gleichzeitig auf Wachsmatrize übertragen.  
+**Matrize entwickeln**: Wachsmatrize mit Graphitpulver bestreuen, um sie leitfähig zu machen.  
+**Galvanisieren**: Wachsmatrize in Galvanikbad tauchen, Metall (meist Kupfer) abscheiden lassen.  
+**Stamper erstellen**: Metallnegativ (Stamper) von der Wachsmatrize ablösen und verstärken.  
+**Schellackmasse herstellen**: Schellackharz mit Füllstoffen (Schiefermehl, Baumwollflocken) mischen.  
+**Masse erhitzen**: Schellackmischung auf ca. 150°C erhitzen, bis sie plastisch wird.  
+**Tafeln formen**: Erhitzte Masse zu flachen Tafeln pressen.  
+**Pressen**: Schellacktafeln zwischen zwei Stamper in hydraulische Presse legen.  
+**Etiketten einfügen**: Papieretiketten während des Pressvorgangs in die Platte einarbeiten.  
+**Abkühlen lassen**: Gepresste Platte vorsichtig entnehmen und vollständig abkühlen lassen.  
+**Grat entfernen**: Überschüssiges Material am Rand der Platte abschleifen.  
+**Verpacken**: Platten in Papierhüllen einlegen und beschriften.  
+
+
+
 ## Thu Kohlen in den Ofen, daß die Milch bald an zu kochen fängt.
 
 Die 40 Karten dieser Sammlung sind mit den 40 Sätzen Georg Wenkers übertitelt.
@@ -96,6 +118,11 @@ Inhaltlich haben die Sätze demnach nach keine weiter Bedeutung. Wir können ihn
 
 ## Der gute alte Mann ist mit dem Pferde durch’s Eis gebrochen und in das kalte Wasser gefallen.
 
+**Platte auflegen**: Schellackplatte sanft auf den Teller legen.  
+**Nadel einsetzen**: Stahlnadel in den Tonarm einsetzen (für jedes Abspielen eine neue Nadel).  
+**Geschwindigkeit einstellen**: Drehzahl auf 78 Umdrehungen pro Minute justieren.   
+**Abspielen starten**: Tonarm vorsichtig auf die äußere Rille setzen und Platte abspielen.  
+
 Mit den Möglichkeiten der Tonaufnahme seit Anfang des 20 Jahrhunderts wurden die Wenkersätze vorgesprochen und aufgenommen. Neben den handschriftlichen Wenkerbögen gab es nun auch Audiodokumenten.
 
 Die 40 Sätze wurden etliche Male verbalisiert und dokumentiert, auf verschiedenen Datenbanken verteilt existieren mehrere tausend Exemplare.   
@@ -106,21 +133,18 @@ Die hierfür ausgewählten Leute waren oft Menschen der Arbeiter:innenklasse, be
 In intellektuellen und wohlhabenden Kreisen war es angesehen Hochdeutsch zu sprechen, das Sprechen von Dialekt wurde als minderwertig betrachtet.  Viele der Aufnahmen sind in einer deutlichen Asymmetrie entstanden.
 Ein intellektuelles Machtgefälle welches sich an der Stimme abzeichnet. 
 
-
-https://wenker.online.uni-marburg.de/wenker/   
-https://regionalsprache.de/Audio/Catalogue.aspx
   
 
 ## Er ist vor vier oder sechs Wochen gestorben.
 
+*Sprechen wir über:  Die Aufnahmen der Gefängnisinsassen, entstanden während der Berliner Polizeiausstellung im Jahr 1926.* 
 
-Wir wissen heute nicht mehr unter welchen Umständen die Aufnahmen genau entstanden sind, es ist jedoch davon auszugehen, dass sie in großen Teilen unter Zwang entstanden sind. Wir wissen heute nicht mehr unter welchen Umständen die Aufnahmen genau ents
-
+Wir wissen heute nicht mehr unter welchen Umständen die Aufnahmen genau entstanden sind, es ist jedoch davon auszugehen, dass sie in großen Teilen unter Zwang entstanden sind.
 
 
 Für Wilhelm Doege war Zweck dieser Aufnahmen eine Suche nach dem "Typ" des kriminellen Menschen, mit der Annahme, dass sich Kriminalität an der Stimme ablesen lasse. Die Aufnahmen wurden Teil eines pseudo-wissenschaftlichen Diskurses über Physiognomik und Charakterologie.
 
-Neben Audioaufnahmen wurden oft Photos, Röntgenaufnahmen und Gebissabdrücke zur Bestimmung der Zungenposition angefertigt.
+Neben Audioaufnahmen wurden Photos, Röntgenaufnahmen und Gebissabdrücke zur Bestimmung der Zungenposition angefertigt.
 
 
 ## Das Feuer war zu heiß, die Kuchen sind ja unten ganz schwarz gebrannt
@@ -170,7 +194,7 @@ Unsere Sprechweise vermittelt unbewusst soziale Merkmale wie Klassenzugehörigke
 ## Es sind schlechte Zeiten!
 *“Aus dem Wunsche einiger Herren Direktoren und Fachkollegen, auf Grund meiner langjährigen, praktischen, unterricht lichen Erfahrungen mit dem Sprechapparat nach der Art der Lehrproben und Lehrgänge eine Schilderung einiger mit dem Apparat erteilten Lehrstunden aus verschiedenen Unterrichtsstufen zu verfassen und zu veröffentlichen, ist diese kmze Abhandlung entst anden. Die Darstellung kann und will keinen Anspruch auf Vollst ändigkeit der gegebenen R ichtlinien machen. Sie stellt lediglich einen Versuch dar, wie man den Sprechapparat im Unterrichte nach bestimmt en methodischen Grundsätzen als Hilfsmittel mit Erfolg benutzen kann, ni cht wie man ihn benutzen muß. Wegen des knappen zur Verfügung st ehenden Raumes wurden zunächst nur die Grundsätze füT den französischen Sprachunt erricht in gebotener Kürze entwickelt. Der englische Sprachunterricht wurde nur angedeutet und wird später an anderer Stelle ausführlicher behandelt werden. Möge diese Beilage den Freunden des Sprechapparates nütziiche Winke und neue Anregungen geben!”*
 
-## Mein liebes Kind, bleib hier unten stehn, die bösen Gänse beißen Dich todt.
+
 
 
 ## Du hast heute am meisten gelernt und bist artig gewesen, Du darfst früher nach Hause gehn als die Andern.
@@ -354,7 +378,7 @@ LADO ("Language Analysis for the Determination of Origin") kommt zur Verwendung 
 
  Abu Hamdan macht deutlich, dass Sprache nicht eindeutig Herkunft oder Identität belegt, sondern vielmehr ein dynamisches Archiv persönlicher Erfahrungen ist. 
 
-## Das Wort kam ihm von Herzen!
+
 
 ## Das war recht von ihnen!
 
