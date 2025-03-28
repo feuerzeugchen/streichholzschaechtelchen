@@ -70,7 +70,9 @@ Wilhelm Doegen (1877–1967) war ein deutscher Sprachwissenschaftler und Begrün
 
 An 4 Tagen im Juli 1926 nimmt Willhelm Doegen die Stimmen von 24 Inhaftierten in verschiedenen Berliner Gefängnissen auf.
 
-Eine dieser aufgenommenen Personen ist Fritz Lang, wir haben ihn gerade schon gehört.
+Eine dieser aufgenommenen Personen ist Fritz Lang, wir haben ihn gerade gehört.
+
+
 #todo
 
 ## Mein liebes Kind, bleib hier unten stehn, die bösen Gänse beißen Dich todt.
@@ -387,8 +389,6 @@ LADO ("Language Analysis for the Determination of Origin") kommt zur Verwendung 
 ## Das war recht von ihnen!
 
 
-Schibboleth
-
 ## Was sitzen da für Vögelchen oben auf dem Mäuerchen?
 
 ## Die Bauern hatten fünf Ochsen und neun Kühe und zwölf Schäfchen vor das Dorf gebracht, die wollten sie verkaufen.
@@ -455,3 +455,37 @@ ich führ dich hinweg
 zu den Stimmen  
 von Estremadura.
 ## Ich bin mit den Leuten da hinten über die Wiese ins Korn gefahren.
+Lfd. Nr 
+PERSONAL                 BOGEN 
+Lautliche Aufnahme Nr: 9.7.610 Kriegsgefangenenlager: 
+Datum:                 19/6   
+Zeitangabe:   5 uhr 15   
+Dauer der Aufnahme:        Durchmesser der Platte:   Raum der Aufnahme:   
+Art der Aufnahme (Sprechaufnahme, Gesangsaufnahme,   
+Choraufnahme, Instrumentenaufnahme, Orchesteraufnahme):   
+Name (in der Muttersprache geschrieben);   
+Name (lateinisch geschriehen) :.  
+Vommame:   
+Wann geboren (oder ungefähres Alter)? 26   
+Wo geboren (Heimat) ?   
+Welche größere Stadt liegt in der Nähe des Geburtsortes?   
+Kanton \- Kreis (Ujedz): Amihar   
+Departement \- Gouvernement (Gubernija) \- Grafschaft (County):   
+Wo gelebt in den ersten 6 Jahren? blote Shagen   
+Wo gelebt vom 7\. bis 20\. Lebensjahr?             von 22   
+Was für Schulbildung?   
+Wo die Schule besucht ?. Kak&   
+Wo gelebt vom 20\. Lebensjahr? 12\.   
+Aus welchem Ort (Ort und Kreis angeben) stammt der Vater? Colote   
+Aus welchen Ort (Ort und Kreis angeben) stamunt die Mutter?   
+Welchem Volksstamm angehörig?   
+Welche Sprache als Muttersprache?   
+Welche Sprachen spricht er   
+Kann er lesen?            Welche Sprachen?   
+Kann er schreiben?        Welche Sprachen?   
+Spielt er ein Lager         Instrument aus der Heimat?   
+Singt oder spielt er modern europäische Musikweisen?   
+Religion: like           Beruf: \[X\] 
+1\. Urteil des Fachmannes  (des Assistenten): 
+2\. Urteil des Kommissars: 
+3\. Urteil des Technikers:  
