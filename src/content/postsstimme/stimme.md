@@ -152,7 +152,7 @@ Stimme ist etwas persönliches, wir erkennen vertraute Menschen unmittelbar an i
 Stimme nehmen wir meist erst wirklich wahr, wenn sie uns irritiert. 
 Wenn die Stimme nicht zur Erscheinung passt oder wenn eine vertraute Person auf einmal ganz anders spricht.
 
-*“But if the voice is thus the quasi-natural bearer of the production of meaning, it also proves to be strangely recalcitrant to it. If we speak in order to “make sense,” to signify, to convey something, then the voice is the material support of bringing about meaning, yet it does not contribute to it itself. It is rather like the vanishing mediator (to use the term made famous by Fredric Jameson for a different purpose)—it makes the utterance possible, but it disappears in it, it goes up in smoke in the meaning being produced.” (Dolar, 2006)
+*“But if the voice is thus the quasi-natural bearer of the production of meaning, it also proves to be strangely recalcitrant to it. If we speak in order to “make sense,” to signify, to convey something, then the voice is the material support of bringing about meaning, yet it does not contribute to it itself. It is rather like the vanishing mediator (...)—it makes the utterance possible, but it disappears in it, it goes up in smoke in the meaning being produced.” (Dolar, 2006)
 
 ## Ich will es auch nicht mehr wieder thun!
 
