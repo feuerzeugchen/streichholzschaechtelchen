@@ -10,7 +10,7 @@ title: Stimme
 *Fritz Wald, 26 Jahre alt Fassadenkletterer. Geboren in Jesnitz, Sachsen-Anhalt, konfessionslos, Volksschule. Beruf: Kaufmann.  
 Sprachaufnahme am 13. Juli 1926 im Polizeizimmer der Stadtvoigtei Berlin.*
 
-Die Aufnahme ist verrauscht. Fritz Wald spricht zu uns, seine Stimme ist nicht allzu tief und etwas kratzig, er spricht schnell.
+Die Aufnahme ist verrauscht, seine Stimme ist nicht allzu tief und etwas kratzig, er spricht schnell.
 
 *"Im Winter fliegen die trocknen Blätter durch die Luft herum."*
 
