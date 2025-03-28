@@ -66,8 +66,10 @@ Deutsch: Hochdeutsch (Vortrags- und Umgangssprache), Kolonisten- deutsch aus RuB
 
 *Sprechen wir über: Wilhelm Doegen*
 
-Wilhelm Doegen (1877–1967) war ein deutscher Sprachwissenschaftler und Begründer der Lautabteilung der Preußischen Staatsbibliothek. .
-
+Wilhelm Doegen wurde 1877 geboren, im selben Jahr in dem Edison den Phonographen erfand.
+Er war ein deutscher Sprachwissenschaftler und Begründer der Lautabteilung der Preußischen Staatsbibliothek. .
+(Königlich Preußisches Phonetisches Institut)
+Die Verwendung der Phonetik im Englischen Anfangsunterricht
 An 4 Tagen im Juli 1926 nimmt Willhelm Doegen die Stimmen von 24 Inhaftierten in verschiedenen Berliner Gefängnissen auf.
 
 Eine dieser aufgenommenen Personen ist Fritz Lang, wir haben ihn gerade gehört.
