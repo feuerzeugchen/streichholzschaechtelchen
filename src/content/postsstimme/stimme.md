@@ -10,7 +10,7 @@ title: Stimme
 *Fritz Wald, 26 Jahre alt Fassadenkletterer. Geboren in Jesnitz, Sachsen-Anhalt, konfessionslos, Volksschule. Beruf: Kaufmann.  
 Sprachaufnahme am 13. Juli 1926 im Polizeizimmer der Stadtvoigtei Berlin.*
 
-Die Aufnahme ist verrauscht, seine Stimme ist nicht allzu tief und etwas kratzig, er spricht schnell.
+Die Aufnahme ist verrauscht, seine Stimme hört sich etwas kratzig an, er spricht schnell aber deutlich.
 
 *"Im Winter fliegen die trocknen Blätter durch die Luft herum."*
 
@@ -33,7 +33,7 @@ Insgesamt sind etwa 4500 Lautplatten mit etwa 3800 Sprach- und 700 Musikplatten 
 
 
 *Dokumentation von Sprachen:*   
-Aufnahmen aus den Kriegsgefangenenlagern des Ersten Weltkriegs. Die Aufnahmen umfassen wiederkehrende Texte wie das biblische Gleichnis vom verlorenen Sohn, oder traditionelle Lieder oder Märchen aus den Ländern der Sprechenden sowie persönliche Berichte.
+Aufnahmen aus den Kriegsgefangenenlagern des Ersten Weltkriegs. Die Aufnahmen umfassen wiederkehrende Texte wie das biblische Gleichnis vom verlorenen Sohn, oder traditionelle Lieder und Märchen aus den Ländern der Sprechenden sowie persönliche Berichte.
 
 *Berühmte Persöhnlichkeiten:*   
 Aufnahmen von Stimmen von Persönlichkeiten, an deren Erhaltung für die Nachwelt ein historisches Interesse bestand
@@ -71,6 +71,7 @@ Wilhelm Doegen (1877–1967) war ein deutscher Sprachwissenschaftler und Begrün
 An 4 Tagen im Juli 1926 nimmt Willhelm Doegen die Stimmen von 24 Inhaftierten in verschiedenen Berliner Gefängnissen auf.
 
 Eine dieser aufgenommenen Personen ist Fritz Lang, wir haben ihn gerade gehört.
+
 
 
 #todo
