@@ -49,7 +49,7 @@ Verschiedene Musikaufnahmen.
 Aufnahmen entstanden währen der Berliner Polizeiausstellung im Jahr 1926. Meistens Wenkersätze oder persönliche Erzählungen.
 
 *Tierstimmen*:   
-Aufnahmen im Zirkus Krone und Dresdner Zoo,  Laute von Elefanten, Seelöwen, Bären, Tigern, Löwen, Hyänen, Tiger, Affen.
+Aufnahmen im Zirkus Krone und Dresdner Zoo,  Laute von Elefanten, Seelöwen, Bären, Tigern, Löwen, Hyänen, Tigern und Affen.
 
 
 ## -
@@ -484,6 +484,9 @@ Religion: like           Beruf: \[X\]
 2\. Urteil des Kommissars: 
 3\. Urteil des Technikers:  
 
+## -
+
+Now the thing to understand about Center controllers, was that whether they were talking to a rookie pilot in a Cessna, or to Air Force One, they always spoke in the exact same, calm, deep, professional, tone that made one feel important. I referred to it as the " Houston Center voice." I have always felt that after years of seeing documentaries on this country's space program and listening to the calm and distinct voice of the Houston controllers, that all other controllers since then wanted to sound like that, and that they basically did. And it didn't matter what sector of the country we would be flying in, it always seemed like the same guy was talking. Over the years that tone of voice had become somewhat of a comforting sound to pilots everywhere. Conversely, over the years, pilots always wanted to ensure that, when transmitting, they sounded like Chuck Yeager, or at least like John Wayne. Better to die than sound bad on the radios.
 ## Quellen
 
 [^1]: @RecordingsSouthAsian
