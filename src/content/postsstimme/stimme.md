@@ -149,9 +149,9 @@ Wir wissen heute nicht mehr unter welchen Umständen die Aufnahmen genau entstan
 
 Für Wilhelm Doege war Zweck dieser Aufnahmen eine Suche nach dem "Typ" des kriminellen Menschen, mit der Annahme, dass sich Kriminalität an der Stimme ablesen lasse. Die Aufnahmen wurden Teil eines pseudo-wissenschaftlichen Diskurses über Physiognomik und Charakterologie.
 
-Neben Audioaufnahmen wurden Photos, Röntgenaufnahmen und Gebissabdrücke zur Bestimmung der Zungenposition angefertigt.
+Neben Audioaufnahmen wurden Photos, Röntgenaufnahmen und Gebissabdrücke zur Bestimmung der Zungenposition (Palatogramme) angefertigt.
 
-Palatogramme
+
 
 @mahrenholzRecordingsSouthAsian2023
 
@@ -201,7 +201,6 @@ Unsere Sprechweise vermittelt unbewusst soziale Merkmale wie Klassenzugehörigke
 
 
 ## Es sind schlechte Zeiten!
-*“Aus dem Wunsche einiger Herren Direktoren und Fachkollegen, auf Grund meiner langjährigen, praktischen, unterricht lichen Erfahrungen mit dem Sprechapparat nach der Art der Lehrproben und Lehrgänge eine Schilderung einiger mit dem Apparat erteilten Lehrstunden aus verschiedenen Unterrichtsstufen zu verfassen und zu veröffentlichen, ist diese kmze Abhandlung entst anden. Die Darstellung kann und will keinen Anspruch auf Vollst ändigkeit der gegebenen R ichtlinien machen. Sie stellt lediglich einen Versuch dar, wie man den Sprechapparat im Unterrichte nach bestimmt en methodischen Grundsätzen als Hilfsmittel mit Erfolg benutzen kann, ni cht wie man ihn benutzen muß. Wegen des knappen zur Verfügung st ehenden Raumes wurden zunächst nur die Grundsätze füT den französischen Sprachunt erricht in gebotener Kürze entwickelt. Der englische Sprachunterricht wurde nur angedeutet und wird später an anderer Stelle ausführlicher behandelt werden. Möge diese Beilage den Freunden des Sprechapparates nütziiche Winke und neue Anregungen geben!”*
 
 
 
@@ -216,7 +215,7 @@ Die -Stimme- wird aufgenommen und abgespeichert.
 Wieder und wieder können diese Aufnahmen  
 -abgespielt- , -angehört- , -abgehört- werden.
 
-Es wird der Teil einer Persönlichkeit festgeschrieben gegen deren Willen(?).  
+Es wird der Teil einer Persönlichkeit festgeschrieben (gegen deren Willen).  
 Die Aufnahmen werden inspiziert und sind Bestandteil wissenschaftlicher Untersuchungen werden.
 
 Manche der Aufnahmen sind die letzten akustischen Dokumente inzwischen ausgestorbener Sprachen oder Dialekten, doch welchen Nutzen haben diese Aufnahmen wenn niemand mehr diese Sprachen spricht?
@@ -243,11 +242,14 @@ Einer *anderen* Person eine Handlung zuschreiben
 
 ## Hättest Du ihn gekannt! dann wäre es anders gekommen, und es thäte besser um ihn stehen. 
 
-- [ ] 18 Und alles Volk sah den Donner und Blitz und den Ton der Posaune und den Berg rauchen. Da sie aber solches sahen, flohen sie und traten von ferne
+18   
+Und alles Volk sah den Donner und Blitz und den Ton der Posaune und den Berg rauchen. Da sie aber solches sahen, flohen sie und traten von ferne
 
-19 und sprachen zu Mose: Rede du mit uns, wir wollen gehorchen; und laß Gott nicht mit uns reden, wir möchten sonst sterben.
+19   
+und sprachen zu Mose: Rede du mit uns, wir wollen gehorchen; und laß Gott nicht mit uns reden, wir möchten sonst sterben.
 
-20 Mose aber sprach zum Volk: Fürchtet euch nicht; denn Gott ist gekommen, daß er euch versuchte und daß seine Furcht euch vor Augen wäre, daß ihr nicht sündigt.
+20   
+Mose aber sprach zum Volk: Fürchtet euch nicht; denn Gott ist gekommen, daß er euch versuchte und daß seine Furcht euch vor Augen wäre, daß ihr nicht sündigt.
 ## Wer hat mir meinen Korb mit Fleisch gestohlen?
 War es Berichten nach noch mit einem "uncanny " Gefühl verbunden eine Stimme welche mit den neuen technischen Möglichkeiten aufgenommen und abgespielt wurde aus einem Apparat sprechen zuhören, so ist es schnell Normalität geworden und begleitet uns nun überall.
 
