@@ -243,6 +243,8 @@ Einer *anderen* Person eine Handlung zuschreiben
 
 ## Was sitzen da für Vögelchen oben auf dem Mäuerchen?
 
+“In 2002, Elodie Kulik was raped and murdered after being involved in what seems to be a deliberate car accident caused by another car. Just after the crash, Elodie Kulik called the emergency services. On the bad-quality 26-s recording of this call, during which she realizes that the people who came to her were not here to help her, at least two male voices can be heard. Once the first man, who had died shortly after the events, was formally identified thanks to DNA evidence, a friend of his, Willy Bardon, was arrested as the potential second man. Bardon was eventually sentenced to 30 years of prison in 2021. One key aspect of this case is that some of Bardon’s friends and relatives thought they had recognized his voice on the recording. His nephew says the voice on the recording displays “intonations” that sound like his uncle’s. Even Bardon himself concurs: “It’s my voice, it sounds like my voice; but I wasn’t there.” (Guiho 2020).” (Ferragne et al., 2024, p. 3)
+
 ## Hättest Du ihn gekannt! dann wäre es anders gekommen, und es thäte besser um ihn stehen. 
 
 18   
@@ -254,6 +256,8 @@ und sprachen zu Mose: Rede du mit uns, wir wollen gehorchen; und laß Gott nicht
 20   
 Mose aber sprach zum Volk: Fürchtet euch nicht; denn Gott ist gekommen, daß er euch versuchte und daß seine Furcht euch vor Augen wäre, daß ihr nicht sündigt.
 ## Wer hat mir meinen Korb mit Fleisch gestohlen?
+
+
 War es Berichten nach noch mit einem "uncanny " Gefühl verbunden eine Stimme welche mit den neuen technischen Möglichkeiten aufgenommen und abgespielt wurde aus einem Apparat sprechen zuhören, so ist es schnell Normalität geworden und begleitet uns nun überall.
 
 ## Er that so, als hätten sie ihn zum dreschen bestellt; sie haben es aber selbst gethan.
@@ -325,7 +329,6 @@ Wer mit Akzent spricht, wird eventuell als besonders attraktiv wahrgenommen oder
 ## Könnt ihr nicht noch ein Augenblickchen auf uns warten, dann gehn wir mit euch.
 
 In den Wenkerbögen ging es um die Erhebung von Daten zu Dialekten und regionalen Sprechgewohheiten.
-
 
 Sprache ist in den in den Körper niedergeschrieben, sie trainiert bestimmte Muskeln und Bewegungen sind automatisiert.  
 
