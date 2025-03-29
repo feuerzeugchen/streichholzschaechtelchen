@@ -67,7 +67,7 @@ Deutsch: Hochdeutsch (Vortrags- und Umgangssprache), Kolonisten- deutsch aus RuB
 *Sprechen wir über: Wilhelm Doegen*
 
 Wilhelm Doegen wurde 1877 geboren, im selben Jahr in dem Edison den Phonographen erfand.  
-Bekanntheit erlangte er mit der Verbreitung von Audioaufnahmen zur Unterstützung des Sprachunterrichts.  Im Jahr 1912 fanden sich seine "Schellack Platten" an über 1000 Universitäten und Schulen.  
+Bekanntheit erlangte er mit seiner entwicklung von Audioaufnahmen zur Unterstützung des Sprachunterrichts.  Im Jahr 1912 fanden sich seine "Schellack Platten zum Erlernen von Sprachen" an über 1000 Universitäten und Schulen.  
 
 1914 reichte er beim Preußischen Ministerium für Wissenschaft, Kunst und Volksbildung einen Antrag zur Gründung des "Königlich Preußischen Phonetischen Institut" ein.
 
@@ -79,23 +79,17 @@ Eine dieser aufgenommenen Personen ist Fritz Lang, wir haben ihn gerade gehört.
 
 Nach der Machtübernahme der Nationalsozialisten im Jahr 1933 wurde Doegen im Zuge des neu erlassenen Gesetzes zur „Wiederherstellung des Berufsbeamtentums“ entlassen. [^5]
 
-
 1947 erhält Doegen eine Professur für Englisch in Berlin, die er bis 1951 innehat.
-Die Aufnahmen auf Schellackplatten konnten ab 1999 digitalisiert werden
-#todo
+
 
 ## -
 
 *Sprechen wir über:  Die Aufnahmen der Gefängnisinsassen, entstanden während der Berliner Polizeiausstellung im Jahr 1926.* 
 
 
-
-Die Aufnahmen waren Teil eines pseudo-wissenschaftlichen Diskurses im Kontext von Physiognomik und Charakterologie.
-In der Annahme, dass sich "kriminelle Züge" an Körpereigenschaften und auch an der Stimme ablesen lasse. 
-[^3]
-
+In der Annahme, dass sich "kriminelle Züge" an Körpereigenschaften und insbesondere auch an der Stimme ablesen lassen, entstanden während der Berliner Polizeiaustellung im Jahr 1926 die durch Wilhelm Doegen veranlassten Aufnahmen von inspesamt 24 Gefängnisinsassen.[^3]
 Neben Audioaufnahmen wurden Photos, Röntgenaufnahmen und Gebissabdrücke zur Bestimmung der Zungenposition (Palatogramme) angefertigt.[^1]
-
+Eine pseudo-wissenschaftlichen Herangehensweise im Kontext von Physiognomik, die schlussendlich keine veröffentlichten Ergebnisse hervorbrachte.
 ## -
 “I am referring to unforeseen, unintended pauses that interrupt the normal flow of speech as disrupting, delaying, faltering and terminating as well as intentionally prolonged breaks in speech. The unforeseen silence of the presentation, the gaps in the spoken and sung recordings, becomes productive insofar as it gives rise in the listener less to a desire for embodiment than to a desire for narration, as they seem to call for narrative filling, for answers to questions. Why does the speaker stop speaking? Is he disconcerted, confused? Has he forgotten the text? Is he looking up at the other people present? Is he thinking of home or possibly of the payment for the recording? Is he impressed by the technical equipment? Does he interrupt the flow of speech intentionally? Has he lost sight of the line in the text that he is reciting? Is he in pain, short of breath? Is he suffering from hunger? Did he hear a noise or a comment? Did he stop to listen to something else? These moments of silence in the presentation refer, on the one hand, to the precarious political situation, the imbalance of power between those doing the recording and those being recorded: the German researchers in alliance with the camp commanders and the prisoners in the camp as interned wartime enemies. They characterise the collection of sound recordings with prisoners of war once more as a sensitive collection that was compiled for research purposes under the coercive situation of the camp.32 On the other hand, the unintended pauses in the presentation also refer to the rigid recording setup, whereby the speaker is pressed by the researchers in front of the gramophone horn and, at the same time, is made to read aloud or repeat the text from a sheet of paper held above it.” (Lange, 2017, p. 54)
 
@@ -134,51 +128,30 @@ Die 40 Karten dieser Sammlung sind mit den 40 Sätzen Georg Wenkers übertitelt.
 *Sprechen wir über: Die 40 Wenkersätze*
 
 Die 40 Wenkersätze wurden 1879 von Georg Wenker festgelegt.
-
-Sie dienten als Referenz um verschiedene Dialekte und Sprecheigenschaften miteinander vergleichen zu können. Die Sätze wurden so gestaltet, dass lautliche und  grammatische Merkmale von Dialekten in der Übersetzung deutlich zum Ausdruck kommen mussten.
+Es sind Referenzsätze die so gestaltet wurden, dass lautliche und  grammatische Merkmale von Dialekten deutlich zum Ausdruck kommen mussten.
 
 So werden gezielt Laute wie *pf*, _ts_, _kch_, *ai*,  oder *ei* untersucht
 
 Mit dem Ziel einer umfassenden Erhebung von Sprachdaten und der Kartografierung von Lokaldialekten schickte Wenker die "Wenkerbögen" an verschiedene Schulen im gesamten deutschsprachigen Gebiet.  
 
-Inhaltlich haben die Sätze demnach nach keine weiter Bedeutung. Wir können ihnen zuhören und uns allein auf die akustischen Aspekte der Stimme konzentrieren.
-  
-  
-  
-  
 
-
+Inhaltlich haben die Sätze demnach nach keine weiter Bedeutung. 
+Doch diese Sätze zu lesen, oder zu hören und sich allein auf die akustischen Aspekte der Stimme konzentrieren fällt zumindest mir schwer. Tausende Male wurden diese Sätze verschriftlicht und später verbalisiert und doch sind sie inhaltlich leer.
 ## -
 
+Mit den Möglichkeiten der Tonaufnahme Anfang des 20 Jahrhunderts war es nun möglich die Wenkersätze als gesprochenes Wort aufzunehmen.
+
+Die 40 Sätze wurden etliche Male verbalisiert und dokumentiert.
+In verschiedenen Datenbanken existieren mehrere tausend Aufnahmen.  
+
+Meistens spricht eine Person auf *Hochdeutsch* und gibt einen Satzt vor,  eine weitere Person wiederholt daraufhin den Satz. Diese weitere Person spricht mit Dialekt, die hierfür ausgewählten Sprecher:innen waren oft Menschen der Arbeiter:innenklasse denn bei ihnen wurde ein ausgeprägter Dialekt erwartet. Zudem waren viele der aufgenommenen Personen Analphabeten. 
 
 
-Mit den Möglichkeiten der Tonaufnahme seit Anfang des 20 Jahrhunderts wurden die Wenkersätze vorgesprochen und aufgenommen. Neben den handschriftlichen Wenkerbögen gab es nun auch Audiodokumenten.
+In intellektuellen und wohlhabenden Kreisen war es angesehen Hochdeutsch zu sprechen, das Sprechen von Dialekt wurde als minderwertig betrachtet, doch der Zugang zu den Sprechgewohnheiten der gehobenen Klassen war exklusiv.  
 
-Die 40 Sätze wurden etliche Male verbalisiert und dokumentiert, auf verschiedenen Datenbanken verteilt existieren mehrere tausend Exemplare.   
-Beim Anhören der Aufnahmen fällt auf, dass meist erst eine Person mit hochdeutscher Aussprache den Satz vorspricht  und darauf eine weiter Person mit Dialekt den Satz wiederholt.   
-Die hierfür ausgewählten Leute waren oft Menschen der Arbeiter:innenklasse, bei ihnen wurde mehr Dialekt erwartet. Zudem waren viele der aufgenommenen Personen Analphabeten. 
+Viele der Aufnahmen sind in einer Asymmetrie entstanden, in einem Machtgefälle welches sich zwar in allen Lebensbereichen manifestierte sich an der Stimme, aber auch ohne ein Bild vor den Augen zu haben
+ablesen lässt.
 
-
-In intellektuellen und wohlhabenden Kreisen war es angesehen Hochdeutsch zu sprechen, das Sprechen von Dialekt wurde als minderwertig betrachtet.  Viele der Aufnahmen sind in einer deutlichen Asymmetrie entstanden.
-Ein intellektuelles Machtgefälle welches sich an der Stimme abzeichnet. 
-
-  
-
-
-
-
-## -
-
-Die Stimmbänder der Sprecher:innen bringen die Luft in Schwingung.  
-Mit einer feinen Nadel wird die Audiospur in das weiche Wachs geritzt.
-Es ist Bienenwachs für die Herstellung der Phonographenwalzen verwendet worden und inzwischen hat sich auf vielen jener Walze ein Pilz ausgebreitet.
-Seine Fasern legen sich in die Rillen und verändern über die Zeit den Klang den die Nadel erzeugt wenn sie sich durch diese Rillen immer im Kreis bewegt.
-
-Ich habe die Aufnahmen als digitale mp3 erhalten. Die Spuren des gealterten Trägermaterials sind auf eine Abfolge von Nullen und Einsen übertragen worden. 
-
-Ich werde das Material weiter bearbeiten. Die Spuren der digitalen Verarbeitung  legen sich auf das Material.
-
-#todo
 
 
 ## -
@@ -187,19 +160,12 @@ Ich werde das Material weiter bearbeiten. Die Spuren der digitalen Verarbeitung 
 
 Stimme ist Trägerin von Bedeutung, mir Ihr formen wir Symbole und Zeichen. Wir sprechen um Inhalte zu vermitteln und um Sinn zu ergeben.
 Die Sprache ist das Ziel und die Stimme das Instrument, sie ist das Medium, das den Inhalt, die Zeichen übermittelt.
-Bevor wir sprechen können schreien wir. Wir testen unsere Stimmbänder und machen auf uns aufmerksam bevor wir die ersten Worte lernen.
-Stimme ist etwas persönliches, wir erkennen vertraute Menschen unmittelbar an ihrem Klang. Doch haben wir uns an eine Stimme gewöhnt löst sich ihre Materialität auf neben den Worten und der "Bedeutung" des Gesagten. 
+Bevor wir wir die ersten Worte lernen. schreien wir. Wir testen unsere Stimmbänder und machen auf uns aufmerksam.
+Stimme ist etwas persönliches, wir erkennen vertraute Menschen unmittelbar an ihrem Klang. Doch haben wir uns an eine Stimme gewöhnt verschwindet ihre Materialität hinter den Worten und dem Inhalt des Gesagten. 
 
-Stimme nehmen wir meist erst wirklich wahr, wenn sie uns irritiert. 
-Wenn die Stimme nicht zur Erscheinung passt oder wenn eine vertraute Person auf einmal ganz anders spricht.
 
 *“But if the voice is thus the quasi-natural bearer of the production of meaning, it also proves to be strangely recalcitrant to it. If we speak in order to “make sense,” to signify, to convey something, then the voice is the material support of bringing about meaning, yet it does not contribute to it itself. It is rather like the vanishing mediator (...)—it makes the utterance possible, but it disappears in it, it goes up in smoke in the meaning being produced.” (Dolar, 2006)
 
-## -
-
-Nehmen wir unsere eigene Stimme auf, so ist es uns oft anfangs fast unerträglich dieser später zuzuhören: *Höre ich mich wirklich so an?*
-
-Während wir sprechen wird der Schal zu einem großen Teil über unsere Knochen an unser Trommelfell getragen, wir hören uns selbst dadurch anders als alle anderen.
 ## -
 
 Unsere Stimme ist Produkt unserer Sozialisierung.
@@ -207,7 +173,7 @@ Unsere Sprechweise vermittelt unbewusst soziale Merkmale wie Klassenzugehörigke
 
 
 
--
+## -
 
 Abhören: 
 *das Abhören am Phonograph* 
@@ -221,30 +187,40 @@ Die -Stimme- wird aufgenommen und abgespeichert.
 Wieder und wieder können diese Aufnahmen  
 -abgespielt- , -angehört- , -abgehört- werden.
 
-Es wird der Teil einer Persönlichkeit festgeschrieben (gegen deren Willen).  
-Die Aufnahmen werden inspiziert und sind Bestandteil wissenschaftlicher Untersuchungen werden.
+Mit einer feinen Nadel wurde ein der Teil  Persönlichkeitin das weiche Wachs geritzt und später in die heiße Schellackplatte gepresst wo sie nach dem erkalten fixiert ist. (Bei richtiger Lagerung sind shellack platten nahezu unbegrenzt haltbar) 
 
-Manche der Aufnahmen sind die letzten akustischen Dokumente inzwischen ausgestorbener Sprachen oder Dialekten, doch welchen Nutzen haben diese Aufnahmen wenn niemand mehr diese Sprachen spricht?
+Die Aufnahmen werden inspiziert und sind Bestandteil wissenschaftlicher Untersuchungen.
+
+Manche der Aufnahmen sind die letzten akustischen Dokumente inzwischen ausgestorbener Sprachen oder Dialekten, doch welchen Nutzen haben diese Aufnahmen wenn niemand mehr diese Sprachen spricht? 
+(Die Haltbarkeit der Schellackplatten sinkt rapide wenn diese oft abgespielt werden)
+
+
+## -
+Die Haltbarkeit der Schellackplatten sinkt rapide wenn diese oft abgespielt werden
+
+"*It’s not just the words that will be lost,” she says. “The language is the heart of our culture; it holds our thoughts, our way of seeing the world. It’s too beautiful for English to explain.*(Kimmerer, 2013)
+
+Inzwischen sind die meisten Aufnahmen digitalisiert und die Platten  Schweigen.
+
+Wenn sich nach dem digitalen Zeitalter die Daten auf den Speicherkarten mit der Zeit auflösen, werden die Aufnahmen der 4500 Lautplatten noch abrufbar sein.
 
 
 
 ## -
 
-It’s not just the words that will be lost,” she says. “The language is the heart of our culture; it holds our thoughts, our way of seeing the world. It’s too beautiful for English to explain.(Kimmerer, 2013)
+
 
 
 ## -
 Wenn wir Stimme als Identifikationsmerkmal ansehen, dann kann sie auch Beweismaterial sein. 
-Algorithmen können bestimmen ob es sich bei zwei Aufnahmen um die selbe Stimme handelt.
-Doch diese Algorithmen sind fehleranfällig:
+Algorithmen können wie Menschen bestimmen ob es sich bei zwei Aufnahmen um die selbe Stimme handelt.
+Doch diese Menschen und Algorithmen sind fehleranfällig:
 Reine Stimmaufnahmen sind als Beweismaterial vor Gericht momentan oft nicht zulässig. Zu leicht können Stimmen verfälscht oder kopiert werden. 
-#todo 
 
----
 Wir können Stimme modifizieren um:  
 
 Eine *andere* Person zu imitieren  
-Einer *anderen* Person eine Handlung zuschreiben 
+Eine Handlung einer *anderen* Person zuzuschreiben 
 
 ## -
 
@@ -261,11 +237,6 @@ und sprachen zu Mose: Rede du mit uns, wir wollen gehorchen; und laß Gott nicht
 20   
 Mose aber sprach zum Volk: Fürchtet euch nicht; denn Gott ist gekommen, daß er euch versuchte und daß seine Furcht euch vor Augen wäre, daß ihr nicht sündigt.
 ## -
-
-
-War es Berichten nach noch mit einem "uncanny " Gefühl verbunden eine Stimme welche mit den neuen technischen Möglichkeiten aufgenommen und abgespielt wurde aus einem Apparat sprechen zuhören, so ist es schnell Normalität geworden und begleitet uns nun überall.
-
--
 
 *“Voices are like fingerprints; no two are the same. Even if the voice is disguised, the pattern doesn’t change”.*
 
@@ -292,12 +263,14 @@ Law and Order S11E08T07:30
 ## -
 *Sprechen wir über:*
 
-Die körperlose Stimme *-The Disembodied Voice-* dringt unmittelbar in uns ein, wir können nicht weghören wie wir wegschauen würden. 
-Die Körperlose Stimme ist dominant, in ihrer abstrakten Form hinterfragen wir nicht ihre Authorität. Wir stellen uns keinen Körper zu der Stimme vor und wir ordnen sie damit nicht als Mensch ein. 
+Die körperlose Stimme dringt unmittelbar in uns ein, wir können nicht weghören wie wir wegschauen würden. 
+Die Körperlose Stimme ist dominant, in ihrer abstrakten Form hinterfragen wir nicht ihre Authorität. Oft ist hinter der Stimme eine Person und doch stellen wir uns keinen Körper zu ihr vor und ordnen sie damit nicht als Mensch ein. 
 
 Spricht sie uns in der U Bahn an, fragen wir uns nicht: Wo ist der Mensch hinter der Stimme, ist ihr Körper? Die Stimme vermittelt Informationen, wir hören zu und fragen uns: Wann muss ich aussteigen?
 
 Es ist die Stimme des/der allwissenden Erzähler:in und ist damit fast "göttlicher" Natur.
+
+Wir vertrauen der körperlosen Stimme.
 
 *Ein gefährliches Potenzial.*
 ## -
@@ -305,9 +278,8 @@ Es ist die Stimme des/der allwissenden Erzähler:in und ist damit fast "göttlic
 *Ein gefährliches Potential,*  
 welches sich der Faschismus zu Nutzen gemacht hat:  
 
-Die Nationalsozialistische Deutsche Arbeiterpartei -NSDAP- definierte sich selbst als eine "Rednerpartei", deren Selbstverständnis fundamental phonozentrisch war.   
-Die Partei organisierte sich primär um die akustische Resonanz von Stimmen herum. Ab 1925, dem Jahr der Neugründung der Partei, spielte die Stimme als Propagandainstrument eine führende Rolle.  Im Zentrum dieser Inszenierung stand die akustische Präsenz der Stimme, die durch technische Vermittlung eine paradoxe Gleichzeitigkeit von Nähe und Ferne erzeugte.  
-Die Partei verbreitete in großem Umfang das Radio -*den Volksempfänger*-, eine damals relativ neue Technologie. Hitlers Stimme war schon bald in den heimischen Wohnzimmern zu hören. Hitlers Propaganda vermittelte eine "Nähe zum Volk", die Radiowellen überwinden Entfernungen und durchdringen Wände bis die Stimme des "*Führers*" selbst im eigenen Zuhause  dann unmittelbar in die Ohren der Bevölkerung dringt. 
+Die Nationalsozialistische Deutsche Arbeiterpartei -NSDAP- machte sich einen intensive Nutzung der Stimme als Propagandainstrument zu eigen.  Im Zentrum dieser Inszenierung stand die akustische Präsenz einer Stimme, die durch ihre technische Vermittlung eine paradoxe Gleichzeitigkeit von Nähe und Ferne erzeugte.  
+Die Partei verbreitete in großem Umfang das Radio -*den Volksempfänger*-, eine damals relativ neue Technologie. Hitlers Stimme war schon bald in den heimischen Wohnzimmern zu hören. Die NS-Propaganda vermittelte eine "Nähe zum Volk", die Radiowellen überwinden Entfernungen und gehen durch Wände, bis die Stimme des "*Führers*" selbst im eigenen Zuhause dann unmittelbar in die Ohren der Bevölkerung dringt. 
 
 
 
@@ -319,25 +291,26 @@ LOUD/SPEAKER SCENARIOS AFTER 1933
 
 
 ## -
-Oft ist Sprache ein "akustischer Grenzposten", die größte Veränderung nach dem Übertreten einer Landesgrenze.
+
+Nationale Identität ist oft an Sprache geknüpft. Neben der Möglichkeit der Verständigung äußert sich durch Sprechgewohnheiten regionale Ortszugehörigkeit.
 
 Die "deutsche Sprache" wurde im 19. Jahrhundert zum nationalen Projekt. Dialekte wurden kartografiert, standardisiert, hierarchisiert. Mit der Vereinheitlichung der Aussprache und der Éinführung einer deutschen Hochsprache entstand ein akustisches Territorium, das man betreten oder verlassen kann, ohne sich körperlich zu bewegen.   
 Wenn jemand sagt: "Man hört, dass du nicht von hier bist", dann ist das keine neutrale Feststellung, sondern ein akustisches Grenzregime, das Ein- und Ausschluss produziert.
 
-Wer mit Akzent spricht, wird eventuell als besonders attraktiv wahrgenommen oder aber ist alltätglicher Diskriminierung ausgesetzt, auf dem Arbeitsmarkt oder bei der Wohnungssuche.
+Wer mit Akzent spricht ist mit Voreingenommenheiten konfrontiert und wird eventuell als besonders attraktiv wahrgenommen oder aber ist alltäglicher Diskriminierung ausgesetzt, auf dem Arbeitsmarkt oder bei der Wohnungssuche.
 
 
 
 ## -
 
-In den Wenkerbögen ging es um die Erhebung von Daten zu Dialekten und regionalen Sprechgewohheiten.
+In den Wenkerbögen ging es um die Erhebung von *Daten* zu Dialekten und regionalen Sprechgewohheiten.
 
-Sprache ist in den in den Körper niedergeschrieben, sie trainiert bestimmte Muskeln und Bewegungen sind automatisiert.  
+Sprache ist in den in den Körper niedergeschrieben, je nach Sprache trainieren wir verschiedene Muskeln und Bewegungen sind automatisiert. 
 
-Die Sprache und das Umfeld schreibt sich in unserer Stimme nieder,  sodass oft allein das "Aussprechen" eines bestimmten Wortes in einer anderen Sprache schon schwer ist.
+Die Sprache und das Umfeld schreibt sich in unserer Stimme ein,  sodass oft allein das "Aussprechen" eines bestimmten Wortes in einer anderen Sprache schon schwer ist.
 
 For ein paar Jahren habe ich Spanisch gelernt. Im Spanischen rollt das "R" über die Zunge, im Deutschen  entsteht es viel weiter hinten im Rachen. So sehr ich es versuchte ich konnte diese "R" nicht aussprechen.
-Erst durch Zeit und Übung war es mir möglich, bis es dann ohne darüber nachzudenken 
+Erst durch Zeit und Übung war es mir möglich, bis ich es dann ohne darüber nachzudenken aussprechen konnte.
 ## -
 
 ### Shibboleth
