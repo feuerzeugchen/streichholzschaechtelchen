@@ -67,15 +67,24 @@ Deutsch: Hochdeutsch (Vortrags- und Umgangssprache), Kolonisten- deutsch aus RuB
 *Sprechen wir über: Wilhelm Doegen*
 
 Wilhelm Doegen wurde 1877 geboren, im selben Jahr in dem Edison den Phonographen erfand.  
-Bekanntheit erlangte er mit der Verbreitung seiner Schellack Platten zur Unterstützung des Sprachunterrichts. Jene Platten fanden  sich im Jahr 1912 an über 1000 Universitäten und Schulen.
+Bekanntheit erlangte er mit der Verbreitung von Audioaufnahmen zur Unterstützung des Sprachunterrichts.  Im Jahr 1912 fanden sich seine "Schellack Platten" an über 1000 Universitäten und Schulen.  
+
 1914 reichte er beim Preußischen Ministerium für Wissenschaft, Kunst und Volksbildung einen Antrag auf Gründung des Königlich Preußisches Phonetisches Instituts ein.
 
-1920 wird Wilhelm Doegen Direktor der Lautabteilung an der Preußischen Staatsbibliothek.
+1916 übernimmt Doegen die Leitung der Lautabteilung der Berliner Staatsbibliothek,
+
+1920 wird das Lautarchiv  als Lautabteilung der Preußischen Staatsbibliothek einverleibt,  Wilhelm Doegen wird Direktor.
+
+Nach der Machtübernahme der Nationalsozialisten 1933 wurde Doegen im Zug des neu erlassenen Gesetzes der  „Wiederherstellung des Berufsbeamtentums“ entlassen. 
+
+
 An 4 Tagen im Juli 1926 nimmt Willhelm Doegen die Stimmen von 24 Inhaftierten in verschiedenen Berliner Gefängnissen auf.
 
 Eine dieser aufgenommenen Personen ist Fritz Lang, wir haben ihn gerade gehört.
 
 
+
+1947 erhält Doegen eine Professur für Englisch in Berlin, die er bis 1951 innehat.
 
 #todo
 
