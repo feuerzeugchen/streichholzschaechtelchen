@@ -5,7 +5,7 @@ tags:
 ---
 <!-- markdownlint-disable MD033 -->
 
-## -
+## Im Winter fliegen die trocknen Blätter durch die Luft herum.
 
 *Es spricht zu uns:*
 
@@ -27,7 +27,7 @@ Fritz Walds Aufnahme ist eine von hunderten die sich auf Schellackplatten oder W
 
 
 
-## -
+## Wem hat er die neue Geschichte erzählt?
 
 *Lautarchiv der Humboldt Universität Berlin:*   
 Insgesamt sind etwa 4500 Lautplatten mit etwa 3800 Sprach- und 700 Musikplatten vorhanden.
@@ -52,17 +52,17 @@ Aufnahmen entstanden währen der Berliner Polizeiausstellung im Jahr 1926. Meist
 Aufnahmen im Zirkus Krone und Dresdner Zoo,  Laute von Elefanten, Seelöwen, Bären, Tigern, Löwen, Hyänen, Tiger, Affen.
 
 
-## -
+## Er ißt die Eier immer ohne Salz und Pfeffer.
 
 *Dokumentation von Sprachen*:  
 (Im Lautarchiv der Humboldt Universität sind Aufnahmen in folgenden Sprachen eingelagert)  
 Indisch: Gurkhali, Panjabi, Garhwali, Hindustani, Bengali, Hindi, Althindi, Urdu; Himalayasprachen: Magar, Murmi, Rai, Limbu, Gurung; Zigeunerisch. - Iranisch: Belutschisch, Afghanisch, Ossetisch. - Armenisch. - Griechisch. - Rumänisch: aus Rumänien, von serbischen Zigeunern, aus Beßarabien. - Italienisch: 16 verschiedene Dialekte, ferner: Romagnolisch, La-
 dinisch-friaulisch, Sardisch, Italo-albanisch, Korsisch, Genuesisch aus Bonifacio. - Fran- zösisch: Laut-, Umgangs- und Vortragssprache, ferner nordfranzösische Dialekte: Arden- nais, Champenois, Lorrain, Luxembourg (Pays Gourmais), Nord, Normand, Picard, Savoyard, Wallon; Südfranzösische Dialekte: Auvergnais, Bordeaux, Bearnais, Bressan, Cantal, Charentais, Dauphinois, Gascon, Languedocien, Limousin, Lyonnais, Niçois, Mont- pellier, Morvandeau, Provençal, Sudvosgien, Toulouse, Vendée. - Kreolisch (aus Martinique und Gouadeloupe). -- Spanisch: Katalanisch. - Portugiesisch. - Keltisch: Gälisch, Kymrisch, Bretonisch. - Englisch: Laut-, Umgangs- und Vortrags- sprache, ferner Mundarten aus Berkshire, Cheshire, Cumberland, Derby, Devonshire, Dorset, Durham, Essex, Glammorganshire, Gloucestershire, Kent, Lancashire, Lincoln, Norfolk, Nottingham, Oxford, Stafford, Suffolk, Warwick, Wiltshire, Yorkshire, Irland, (10 Dialekte), Schottland (15 Dialekte), Kanada, Australien, ferner Englisch eines Gurkha. - Vlamisch. - 
-## -
+## Die Füße thun mir sehr weh, ich glaube, ich habe sie durchgelaufen.
 
 Deutsch: Hochdeutsch (Vortrags- und Umgangssprache), Kolonisten- deutsch aus RuBland, Jiddisch. - Baltisch: Litauisch, Lettisch. - Slavisch: Kirchen- slavisch, Bulgarisch, Serbisch, Großrussisch, Kleinrussisch, Weißrussisch, Polnisch. - Kaukasisch: Avarisch, Inguschisch, Georgisch, Mingrelisch. - Baskisch: Labour- dinisch, Soulisch, Niedernavarrisch u. a. - Finnisch-Ugrisch: Finnisch, Karelisch, Estnisch, Mordwinisch, Tscheremissisch, Syrjänisch, Permjakisch, Wotjakisch. - Tür- kisch: Türkisch, Tatarisch, Kumyk .- tatarisch, Baschkirisch, Kirgisisch, Tschuwaschisch. - Mongolisch: Koreanisch, Kambodschanisch, Anamitisch, Japanisch. - Semitisch: Hebräisch, Arabisch, Mauretanisch-arabisch, Tunisisch, Marokkanisch, Tripolitanisch, Algerisch, Maltesisch. - Hamitisch: Berberisch, Bele, Somali, Ful, Haussa. - Bantu: Kibera Trommelsprache; Komorendialekte: Ngazidja, Nzwani, Mwali, Mayotte; Suaheli, X'hosa. - Sudan: Anyi, Baga, Bambara, Bornu, Bobo, Bariba, Baule, Dahomey, Ewe, Goro, Ibo, Joruba, Kasonge, Kru, Mandara, Maninka, Mende, Mosi, Sarakole, Soso, Toma, Wandala, Wobe, Wolof. - Unbestimmte Sprachen aus dem Sudan: Kado, Konoka, Kwiya, Mienga, Samogo, Serefo, Zerma. - Indonesisch: Malaiisch, Malaiisch-poly- nesisch: Madagassisch; Sakalawe, Howa, Betsimisaraka, Syanaka, Bezanuzanu, Betsileo, Tanus, Tanrui, Antesaka. - Polynesisch: Samoanisch, Tahiti. - Melanesisch: Neu- kaledonisch.
 
-## -
+## Es hört gleich auf zu schneien, dann wird das Wetter wieder besser.
 
 *Sprechen wir über: Wilhelm Doegen*
 
@@ -84,7 +84,7 @@ Nach der Machtübernahme der Nationalsozialisten im Jahr 1933 wurde Doegen im Zu
 Die Aufnahmen auf Schellackplatten konnten ab 1999 digitalisiert werden
 #todo
 
-## -
+## Er ist vor vier oder sechs Wochen gestorben.
 
 *Sprechen wir über:  Die Aufnahmen der Gefängnisinsassen, entstanden während der Berliner Polizeiausstellung im Jahr 1926.* 
 
@@ -98,8 +98,9 @@ Neben Audioaufnahmen wurden Photos, Röntgenaufnahmen und Gebissabdrücke zur Be
 
 
 
+## Mein liebes Kind, bleib hier unten stehn, die bösen Gänse beißen Dich todt.
 
-## -
+## Das Wort kam ihm von Herzen!
 **Wachswalze einsetzen**: Leere Wachswalze auf den Zylinder des Phonographen montieren.  
 **Gerät justieren**: Aufnahmemembran und Nadel auf korrekte Position einstellen.  
 **Ton aufnehmen**: In den Trichter sprechen, während die Walze gedreht wird.  
@@ -119,7 +120,7 @@ Neben Audioaufnahmen wurden Photos, Röntgenaufnahmen und Gebissabdrücke zur Be
 
 
 
-## -
+## Thu Kohlen in den Ofen, daß die Milch bald an zu kochen fängt.
 
 Die 40 Karten dieser Sammlung sind mit den 40 Sätzen Georg Wenkers übertitelt.
 
@@ -140,7 +141,7 @@ Inhaltlich haben die Sätze demnach nach keine weiter Bedeutung. Wir können ihn
   
 
 
-## -
+## Der gute alte Mann ist mit dem Pferde durch’s Eis gebrochen und in das kalte Wasser gefallen.
 
 
 
@@ -159,7 +160,7 @@ Ein intellektuelles Machtgefälle welches sich an der Stimme abzeichnet.
 
 
 
-## -
+## Das Feuer war zu heiß, die Kuchen sind ja unten ganz schwarz gebrannt
 
 Die Stimmbänder der Sprecher:innen bringen die Luft in Schwingung.  
 Mit einer feinen Nadel wird die Audiospur in das weiche Wachs geritzt.
@@ -173,7 +174,7 @@ Ich werde das Material weiter bearbeiten. Die Spuren der digitalen Verarbeitung 
 #todo
 
 
-## -
+## Ich schlage Dich gleich mit dem Kochlöffel um die Ohren, Du Affe!
 
 *Sprechen wir über Stimme:*
 
@@ -187,19 +188,20 @@ Wenn die Stimme nicht zur Erscheinung passt oder wenn eine vertraute Person auf 
 
 *“But if the voice is thus the quasi-natural bearer of the production of meaning, it also proves to be strangely recalcitrant to it. If we speak in order to “make sense,” to signify, to convey something, then the voice is the material support of bringing about meaning, yet it does not contribute to it itself. It is rather like the vanishing mediator (...)—it makes the utterance possible, but it disappears in it, it goes up in smoke in the meaning being produced.” (Dolar, 2006)
 
-## -
+## Ich will es auch nicht mehr wieder thun!
 
 Nehmen wir unsere eigene Stimme auf, so ist es uns oft anfangs fast unerträglich dieser später zuzuhören: *Höre ich mich wirklich so an?*
 
 Während wir sprechen wird der Schal zu einem großen Teil über unsere Knochen an unser Trommelfell getragen, wir hören uns selbst dadurch anders als alle anderen.
-## -
+## Ich will es auch nicht mehr wieder thun!
 
 Unsere Stimme ist Produkt unserer Sozialisierung.
 Unsere Sprechweise vermittelt unbewusst soziale Merkmale wie Klassenzugehörigkeit, Geschlecht und regionale Herkunft.
 
 
 
--
+## Du hast heute am meisten gelernt und bist artig gewesen, Du darfst früher nach Hause gehn als die Andern.
+
 
 Abhören: 
 *das Abhören am Phonograph* 
@@ -220,12 +222,12 @@ Manche der Aufnahmen sind die letzten akustischen Dokumente inzwischen ausgestor
 
 
 
-## -
+## Du bist noch nicht groß genug, um eine Flasche Wein auszutrinken, Du mußt erst noch ein Ende  wachsen und größer werden.
 
 It’s not just the words that will be lost,” she says. “The language is the heart of our culture; it holds our thoughts, our way of seeing the world. It’s too beautiful for English to explain.(Kimmerer, 2013)
 
 
-## -
+## Geh, sei so gut und sag Deiner Schwester, sie sollte die Kleider für eure Mutter fertig nähen und mit der Bürste rein machen.
 Wenn wir Stimme als Identifikationsmerkmal ansehen, dann kann sie auch Beweismaterial sein. 
 Algorithmen können bestimmen ob es sich bei zwei Aufnahmen um die selbe Stimme handelt.
 Doch diese Algorithmen sind fehleranfällig:
@@ -238,11 +240,11 @@ Wir können Stimme modifizieren um:
 Eine *andere* Person zu imitieren  
 Einer *anderen* Person eine Handlung zuschreiben 
 
-## -
+## Was sitzen da für Vögelchen oben auf dem Mäuerchen?
 
 “In 2002, Elodie Kulik was raped and murdered after being involved in what seems to be a deliberate car accident caused by another car. Just after the crash, Elodie Kulik called the emergency services. On the bad-quality 26-s recording of this call, during which she realizes that the people who came to her were not here to help her, at least two male voices can be heard. Once the first man, who had died shortly after the events, was formally identified thanks to DNA evidence, a friend of his, Willy Bardon, was arrested as the potential second man. Bardon was eventually sentenced to 30 years of prison in 2021. One key aspect of this case is that some of Bardon’s friends and relatives thought they had recognized his voice on the recording. His nephew says the voice on the recording displays “intonations” that sound like his uncle’s. Even Bardon himself concurs: “It’s my voice, it sounds like my voice; but I wasn’t there.” (Guiho 2020).” (Ferragne et al., 2024, p. 3)
 
-## -
+## Hättest Du ihn gekannt! dann wäre es anders gekommen, und es thäte besser um ihn stehen. 
 
 18   
 Und alles Volk sah den Donner und Blitz und den Ton der Posaune und den Berg rauchen. Da sie aber solches sahen, flohen sie und traten von ferne
@@ -252,12 +254,13 @@ und sprachen zu Mose: Rede du mit uns, wir wollen gehorchen; und laß Gott nicht
 
 20   
 Mose aber sprach zum Volk: Fürchtet euch nicht; denn Gott ist gekommen, daß er euch versuchte und daß seine Furcht euch vor Augen wäre, daß ihr nicht sündigt.
-## -
+## Wer hat mir meinen Korb mit Fleisch gestohlen?
 
 
 War es Berichten nach noch mit einem "uncanny " Gefühl verbunden eine Stimme welche mit den neuen technischen Möglichkeiten aufgenommen und abgespielt wurde aus einem Apparat sprechen zuhören, so ist es schnell Normalität geworden und begleitet uns nun überall.
 
--
+## Er that so, als hätten sie ihn zum dreschen bestellt; sie haben es aber selbst gethan.
+
 
 *“Voices are like fingerprints; no two are the same. Even if the voice is disguised, the pattern doesn’t change”.*
 
@@ -281,7 +284,7 @@ Criminal Minds S04E14T19:24
 		“How does that make him a teenager?”    
 “People go up 10 to 15 Hertz when they’re screaming”.*.  
 Law and Order S11E08T07:30
-## -
+## Man muß laut schreien, sonst versteht er uns nicht.
 *Sprechen wir über:*
 
 Die körperlose Stimme *-The Disembodied Voice-* dringt unmittelbar in uns ein, wir können nicht weghören wie wir wegschauen würden. 
@@ -292,7 +295,7 @@ Spricht sie uns in der U Bahn an, fragen wir uns nicht: Wo ist der Mensch hinter
 Es ist die Stimme des/der allwissenden Erzähler:in und ist damit fast "göttlicher" Natur.
 
 *Ein gefährliches Potenzial.*
-## -
+## Wir sind müde und haben Durst.
 
 *Ein gefährliches Potential,*  
 welches sich der Faschismus zu Nutzen gemacht hat:  
@@ -303,14 +306,16 @@ Die Partei verbreitete in großem Umfang das Radio -*den Volksempfänger*-, eine
 
 
 
-## -
+## Als wir gestern Abend zurück kamen, da lagen die Andern schon zu Bett und waren fest am schlafen.
 
 *Through the combination of microphone and loudspeaker, the voice was staged as paradoxically near and far at the same time: equally present to itself and technically distant, the voice became a simultaneous manifestation of both mass address and “intimate communication within a space of multifaceted perception.” It is through this synthesis between a techno-acoustic format and new forms of performative mise-en-scène, that the Nazis’ vocal politics came to be revealed in all their effective power.*    
 LOUD/SPEAKER SCENARIOS AFTER 1933
 
+## Der Schnee ist diese Nacht bei uns liegen geblieben, aber heute Morgen ist er geschmolzen.
 
 
-## -
+## Hinter unserm Hause stehen drei schöne Apfelbäumchen mit rothen Aepfelchen.
+
 Oft ist Sprache ein "akustischer Grenzposten", die größte Veränderung nach dem Übertreten einer Landesgrenze.
 
 Die "deutsche Sprache" wurde im 19. Jahrhundert zum nationalen Projekt. Dialekte wurden kartografiert, standardisiert, hierarchisiert. Mit der Vereinheitlichung der Aussprache und der Éinführung einer deutschen Hochsprache entstand ein akustisches Territorium, das man betreten oder verlassen kann, ohne sich körperlich zu bewegen.   
@@ -320,7 +325,7 @@ Wer mit Akzent spricht, wird eventuell als besonders attraktiv wahrgenommen oder
 
 
 
-## -
+## Könnt ihr nicht noch ein Augenblickchen auf uns warten, dann gehn wir mit euch.
 
 In den Wenkerbögen ging es um die Erhebung von Daten zu Dialekten und regionalen Sprechgewohheiten.
 
@@ -330,7 +335,8 @@ Die Sprache und das Umfeld schreibt sich in unserer Stimme nieder,  sodass oft a
 
 For ein paar Jahren habe ich Spanisch gelernt. Im Spanischen rollt das "R" über die Zunge, im Deutschen  entsteht es viel weiter hinten im Rachen. So sehr ich es versuchte ich konnte diese "R" nicht aussprechen.
 Erst durch Zeit und Übung war es mir möglich, bis es dann ohne darüber nachzudenken 
-## -
+## Ihr dürft nicht solche Kindereien treiben!
+
 
 ### Shibboleth
 
@@ -338,7 +344,7 @@ Erst durch Zeit und Übung war es mir möglich, bis es dann ohne darüber nachzu
 Jiftach war sechs Jahre lang Richter in Israel. Dann starb Jiftach, der Gileaditer, und wurde in seiner Stadt in Gilead begraben. "                                                                                                 
   
 
--
+## Unsere Berge sind nicht sehr hoch, die euren sind viel höher.
 
 
 Das „Petersilien-Massaker“ von 1937
@@ -348,7 +354,7 @@ Im Oktober 1937 ließ der dominikanische Diktator Rafael Trujillo schätzungswei
 Nach Lauren Derby,  Historiker an der UCLA ist der Mythos um die Aussprache von Petersilie nicht mit Tatsachen oder durch Erzählungen der Zeuge:innen belegt. 
 
 
-## -
+## Wieviel Pfund Wurst und wieviel Brod wollt ihr haben?
 
 
 
@@ -372,7 +378,7 @@ Streichholzschächtelchen
 
 
 
-## -
+## Sein Bruder will sich zwei schöne neue Häuser in eurem Garten bauen.
 
 
 
@@ -386,7 +392,7 @@ LADO ("Language Analysis for the Determination of Origin") kommt zur Verwendung 
 
  Abu Hamdan macht deutlich, dass Sprache nicht eindeutig Herkunft oder Identität belegt, sondern vielmehr ein dynamisches Archiv persönlicher Erfahrungen ist.  
 
-## -
+## Die Bauern hatten fünf Ochsen und neun Kühe und zwölf Schäfchen vor das Dorf gebracht, die wollten sie verkaufen.
 
 Ich denke über die Stimme nach ohne Wörter. 
 
@@ -408,7 +414,7 @@ Ein betontes Husten kann kann eine Aufforderung sein, ein subtiler Versuch der K
 
 
 
-## -	
+## Geh nur, der braune Hund thut Dir nichts.	
 
 Schibboleth (Paul Celan, 1955)
 
@@ -448,7 +454,7 @@ komm,
 ich führ dich hinweg  
 zu den Stimmen  
 von Estremadura.
-## -
+## Ich bin mit den Leuten da hinten über die Wiese ins Korn gefahren.
 Lfd. Nr 
 PERSONAL                 BOGEN 
 Lautliche Aufnahme Nr: 9.7.610 Kriegsgefangenenlager: 
@@ -484,7 +490,18 @@ Religion: like           Beruf: \[X\]
 2\. Urteil des Kommissars: 
 3\. Urteil des Technikers:  
 
-## Quellen
+
+## Ich bin bei der Frau gewesen und habe es ihr gesagt, und sie sagte, sie wollte es auch ihrer Tochter sagen.
+
+## Das war recht von ihnen!
+## Die Leute sind heute alle draußen auf dem Felde und mähen.
+
+
+## Ich verstehe euch nicht, ihr müßt ein bißchen lauter sprechen.
+
+## Habt ihr kein Stückchen weiße Seife für mich auf meinem Tische gefunden?
+
+## Es sind schlechte Zeiten!
 
 [^1]: @RecordingsSouthAsian
 
@@ -495,45 +512,3 @@ Religion: like           Beruf: \[X\]
 [^4]: @sout
 
 [^5]: @south
-
-
-## Im Winter fliegen die trocknen Blätter durch die Luft herum.
-## Es hört gleich auf zu schneien, dann wird das Wetter wieder besser.
-## Thu Kohlen in den Ofen, daß die Milch bald an zu kochen fängt.
-## Der gute alte Mann ist mit dem Pferde durch’s Eis gebrochen und in das kalte Wasser gefallen.
-## Er ist vor vier oder sechs Wochen gestorben
-## Das Feuer war zu heiß, die Kuchen sind ja unten ganz schwarz gebrannt
-## Er ißt die Eier immer ohne Salz und Pfeffer.
-## Die Füße thun mir sehr weh, ich glaube, ich habe sie durchgelaufen.
-## Ich bin bei der Frau gewesen und habe es ihr gesagt, und sie sagte, sie wollte es auch ihrer Tochter sagen.
-## Ich will es auch nicht mehr wieder thun!
-## Ich schlage Dich gleich mit dem Kochlöffel um die Ohren, Du Affe!
-## Ich will es auch nicht mehr wieder thun
-## Es sind schlechte Zeiten!
-## Mein liebes Kind, bleib hier unten stehn, die bösen Gänse beißen Dich todt.
-## Du hast heute am meisten gelernt und bist artig gewesen, Du darfst früher nach Hause gehn als die Andern.
-## Du bist noch nicht groß genug, um eine Flasche Wein auszutrinken, Du mußt erst noch ein Ende  wachsen und größer werden.
-## Geh, sei so gut und sag Deiner Schwester, sie sollte die Kleider für eure Mutter fertig nähen und mit der Bürste rein machen.
-## Hättest Du ihn gekannt! dann wäre es anders gekommen, und es thäte besser um ihn stehen.
-## Wer hat mir meinen Korb mit Fleisch gestohlen?
-## Er that so, als hätten sie ihn zum dreschen bestellt; sie haben es aber selbst gethan.
-## Wem hat er die neue Geschichte erzählt?
-## Man muß laut schreien, sonst versteht er uns nicht.
-## Wir sind müde und haben Durst.
-## Als wir gestern Abend zurück kamen, da lagen die Andern schon zu Bett und waren fest am schlafen.
-## Der Schnee ist diese Nacht bei uns liegen geblieben, aber heute Morgen ist er geschmolzen.
-## Hinter unserm Hause stehen drei schöne Apfelbäumchen mit rothen Aepfelchen.
-## Könnt ihr nicht noch ein Augenblickchen auf uns warten, dann gehn wir mit euch.
-## Ihr dürft nicht solche Kindereien treiben!
-## Unsere Berge sind nicht sehr hoch, die euren sind viel höher.
-## Wieviel Pfund Wurst und wieviel Brod wollt ihr haben?
-## Ich verstehe euch nicht, ihr müßt ein bißchen lauter sprechen.
-## Habt ihr kein Stückchen weiße Seife für mich auf meinem Tische gefunden?
-## Sein Bruder will sich zwei schöne neue Häuser in eurem Garten bauen.
-## Das Wort kam ihm von Herzen!
-## Das war recht von ihnen!
-## Was sitzen da für Vögelchen oben auf dem Mäuerchen?
-## Die Bauern hatten fünf Ochsen und neun Kühe und zwölf Schäfchen vor das Dorf gebracht, die wollten sie verkaufen.
-## Die Leute sind heute alle draußen auf dem Felde und mähen.
-## Geh nur, der braune Hund thut Dir nichts.	
-## Ich bin mit den Leuten da hinten über die Wiese ins Korn gefahren.
