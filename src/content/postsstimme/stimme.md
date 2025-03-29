@@ -1,5 +1,7 @@
----
-title: Stimme
+[@RecordingsSouthAsian]nholzRecordingsSouthAsian2023enholzRecordingsSouthAsian2023nholzRecordingsSouthAsian2023nholzRecordingsSouthAsian2023title: Stimme
+tags:
+  - Stimme
+  - Archiv
 ---
 <!-- markdownlint-disable MD033 -->
 
@@ -51,7 +53,6 @@ Aufnahmen entstanden währen der Berliner Polizeiausstellung im Jahr 1926. Meist
 Aufnahmen im Zirkus Krone und Dresdner Zoo,  Laute von Elefanten, Seelöwen, Bären, Tigern, Löwen, Hyänen, Tiger, Affen.
 
 
-
 ## Er ißt die Eier immer ohne Salz und Pfeffer.
 
 *Dokumentation von Sprachen*:  
@@ -69,22 +70,34 @@ Deutsch: Hochdeutsch (Vortrags- und Umgangssprache), Kolonisten- deutsch aus RuB
 Wilhelm Doegen wurde 1877 geboren, im selben Jahr in dem Edison den Phonographen erfand.  
 Bekanntheit erlangte er mit der Verbreitung von Audioaufnahmen zur Unterstützung des Sprachunterrichts.  Im Jahr 1912 fanden sich seine "Schellack Platten" an über 1000 Universitäten und Schulen.  
 
-1914 reichte er beim Preußischen Ministerium für Wissenschaft, Kunst und Volksbildung einen Antrag auf Gründung des Königlich Preußisches Phonetisches Instituts ein.
+1914 reichte er beim Preußischen Ministerium für Wissenschaft, Kunst und Volksbildung einen Antrag zur Gründung des "Königlich Preußischen Phonetischen Institut" ein.
 
-1916 übernimmt Doegen die Leitung der Lautabteilung der Berliner Staatsbibliothek,
-
-Nach der Machtübernahme der Nationalsozialistenim Jahr 1933 wurde Doegen im Zug des neu erlassenen Gesetzes zur „Wiederherstellung des Berufsbeamtentums“ entlassen. 
-
+1916 übernimmt Doegen die Leitung der Lautabteilung der Berliner Staatsbibliothek.
 
 An 4 Tagen im Juli 1926 nimmt Willhelm Doegen die Stimmen von 24 Inhaftierten in verschiedenen Berliner Gefängnissen auf.
 
 Eine dieser aufgenommenen Personen ist Fritz Lang, wir haben ihn gerade gehört.
 
+Nach der Machtübernahme der Nationalsozialisten im Jahr 1933 wurde Doegen im Zuge des neu erlassenen Gesetzes zur „Wiederherstellung des Berufsbeamtentums“ entlassen. [^5]
 
 
 1947 erhält Doegen eine Professur für Englisch in Berlin, die er bis 1951 innehat.
-
+Die Aufnahmen auf Schellackplatten konnten ab 1999 digitalisiert werden
 #todo
+
+## Er ist vor vier oder sechs Wochen gestorben.
+
+*Sprechen wir über:  Die Aufnahmen der Gefängnisinsassen, entstanden während der Berliner Polizeiausstellung im Jahr 1926.* 
+
+Wir wissen heute nicht mehr unter welchen Umständen die Aufnahmen genau entstanden sind, es ist jedoch davon auszugehen, dass sie in großen Teilen unter Zwang entstanden sind.
+
+
+Für Wilhelm Doege war Zweck dieser Aufnahmen eine Suche nach dem "Typ" des kriminellen Menschen, mit der Annahme, dass sich Kriminalität an der Stimme ablesen lasse. Die Aufnahmen wurden Teil eines pseudo-wissenschaftlichen Diskurses über Physiognomik und Charakterologie.
+
+Neben Audioaufnahmen wurden Photos, Röntgenaufnahmen und Gebissabdrücke zur Bestimmung der Zungenposition (Palatogramme) angefertigt.[^1]
+
+
+
 
 ## Mein liebes Kind, bleib hier unten stehn, die bösen Gänse beißen Dich todt.
 
@@ -131,10 +144,7 @@ Inhaltlich haben die Sätze demnach nach keine weiter Bedeutung. Wir können ihn
 
 ## Der gute alte Mann ist mit dem Pferde durch’s Eis gebrochen und in das kalte Wasser gefallen.
 
-**Platte auflegen**: Schellackplatte sanft auf den Teller legen.  
-**Nadel einsetzen**: Stahlnadel in den Tonarm einsetzen (für jedes Abspielen eine neue Nadel).  
-**Geschwindigkeit einstellen**: Drehzahl auf 78 Umdrehungen pro Minute justieren.   
-**Abspielen starten**: Tonarm vorsichtig auf die äußere Rille setzen und Platte abspielen.  
+
 
 Mit den Möglichkeiten der Tonaufnahme seit Anfang des 20 Jahrhunderts wurden die Wenkersätze vorgesprochen und aufgenommen. Neben den handschriftlichen Wenkerbögen gab es nun auch Audiodokumenten.
 
@@ -148,20 +158,7 @@ Ein intellektuelles Machtgefälle welches sich an der Stimme abzeichnet.
 
   
 
-## Er ist vor vier oder sechs Wochen gestorben.
 
-*Sprechen wir über:  Die Aufnahmen der Gefängnisinsassen, entstanden während der Berliner Polizeiausstellung im Jahr 1926.* 
-
-Wir wissen heute nicht mehr unter welchen Umständen die Aufnahmen genau entstanden sind, es ist jedoch davon auszugehen, dass sie in großen Teilen unter Zwang entstanden sind.
-
-
-Für Wilhelm Doege war Zweck dieser Aufnahmen eine Suche nach dem "Typ" des kriminellen Menschen, mit der Annahme, dass sich Kriminalität an der Stimme ablesen lasse. Die Aufnahmen wurden Teil eines pseudo-wissenschaftlichen Diskurses über Physiognomik und Charakterologie.
-
-Neben Audioaufnahmen wurden Photos, Röntgenaufnahmen und Gebissabdrücke zur Bestimmung der Zungenposition (Palatogramme) angefertigt.
-
-
-
-@mahrenholzRecordingsSouthAsian2023
 
 
 ## Das Feuer war zu heiß, die Kuchen sind ja unten ganz schwarz gebrannt
@@ -175,10 +172,7 @@ Ich habe die Aufnahmen als digitale mp3 erhalten. Die Spuren des gealterten Trä
 
 Ich werde das Material weiter bearbeiten. Die Spuren der digitalen Verarbeitung  legen sich auf das Material.
 
-
-
-
-## Ich bin bei der Frau gewesen und habe es ihr gesagt, und sie sagte, sie wollte es auch ihrer Tochter sagen.
+#todo
 
 
 ## Ich schlage Dich gleich mit dem Kochlöffel um die Ohren, Du Affe!
@@ -207,17 +201,16 @@ Unsere Sprechweise vermittelt unbewusst soziale Merkmale wie Klassenzugehörigke
 
 
 
-
-## Es sind schlechte Zeiten!
-
-
-
-
 ## Du hast heute am meisten gelernt und bist artig gewesen, Du darfst früher nach Hause gehn als die Andern.
 
 
 Abhören: 
 *das Abhören am Phonograph* 
+
+**Platte auflegen**: Schellackplatte sanft auf den Teller legen.  
+**Nadel einsetzen**: Stahlnadel in den Tonarm einsetzen (für jedes Abspielen eine neue Nadel).  
+**Geschwindigkeit einstellen**: Drehzahl auf 78 Umdrehungen pro Minute justieren.   
+**Abspielen starten**: Tonarm vorsichtig auf die äußere Rille setzen und Platte abspielen.  
 
 Die -Stimme- wird aufgenommen und abgespeichert. 
 Wieder und wieder können diese Aufnahmen  
@@ -236,8 +229,8 @@ It’s not just the words that will be lost,” she says. “The language is the
 
 
 ## Geh, sei so gut und sag Deiner Schwester, sie sollte die Kleider für eure Mutter fertig nähen und mit der Bürste rein machen.
-Wenn wir Stimme als Identifikationsmerkmal ansehen dann kann sie auch Beweismaterial sein. 
-Algorithmen können im direkten Vergleich bestimmen ob es sich bei zwei Aufnahmen um die selbe Stimme handelt.
+Wenn wir Stimme als Identifikationsmerkmal ansehen, dann kann sie auch Beweismaterial sein. 
+Algorithmen können bestimmen ob es sich bei zwei Aufnahmen um die selbe Stimme handelt.
 Doch diese Algorithmen sind fehleranfällig:
 Reine Stimmaufnahmen sind als Beweismaterial vor Gericht momentan oft nicht zulässig. Zu leicht können Stimmen verfälscht oder kopiert werden. 
 #todo 
@@ -248,6 +241,7 @@ Wir können Stimme modifizieren um:
 Eine *andere* Person zu imitieren  
 Einer *anderen* Person eine Handlung zuschreiben 
 
+## Was sitzen da für Vögelchen oben auf dem Mäuerchen?
 
 ## Hättest Du ihn gekannt! dann wäre es anders gekommen, und es thäte besser um ihn stehen. 
 
@@ -379,9 +373,7 @@ Streichholzschächtelchen
 </audio>
 
 
-## Ich verstehe euch nicht, ihr müßt ein bißchen lauter sprechen.
 
-## Habt ihr kein Stückchen weiße Seife für mich auf meinem Tische gefunden?
 
 
 ## Sein Bruder will sich zwei schöne neue Häuser in eurem Garten bauen.
@@ -396,14 +388,7 @@ Die Installation besteht aus zwei Hauptkomponenten: einem 34-minütigen Audio-Do
 
 LADO ("Language Analysis for the Determination of Origin") kommt zur Verwendung bei Asylverfahen zur Bestimmung von Herkunft.  Die Stimme von Asylsuchenden wird wie ein offizielles Dokument behandeln, obwohl sie eigentlich eine komplexe Biografie widerspiegelt. 
 
- Abu Hamdan macht deutlich, dass Sprache nicht eindeutig Herkunft oder Identität belegt, sondern vielmehr ein dynamisches Archiv persönlicher Erfahrungen ist. 
-
-
-
-## Das war recht von ihnen!
-
-
-## Was sitzen da für Vögelchen oben auf dem Mäuerchen?
+ Abu Hamdan macht deutlich, dass Sprache nicht eindeutig Herkunft oder Identität belegt, sondern vielmehr ein dynamisches Archiv persönlicher Erfahrungen ist.  
 
 ## Die Bauern hatten fünf Ochsen und neun Kühe und zwölf Schäfchen vor das Dorf gebracht, die wollten sie verkaufen.
 
@@ -424,7 +409,6 @@ In der Yoko Onos Performance “Cough Piece” hustet Ono ein halbe Stunde vor P
 Ein betontes Husten kann kann eine Aufforderung sein, ein subtiler Versuch der Kommunikation, meist ist das Husten aber ein frei machen des Rachens, eine Vorbereitung zum Sprechen. Eine Halbe Stunde bereitet Yoko Ono sich und ihren Körper vor, und spricht am Ende doch kein Wort.
 
 
-## Die Leute sind heute alle draußen auf dem Felde und mähen.
 
 
 
@@ -503,3 +487,26 @@ Religion: like           Beruf: \[X\]
 1\. Urteil des Fachmannes  (des Assistenten): 
 2\. Urteil des Kommissars: 
 3\. Urteil des Technikers:  
+
+
+## Ich bin bei der Frau gewesen und habe es ihr gesagt, und sie sagte, sie wollte es auch ihrer Tochter sagen.
+
+## Das war recht von ihnen!
+## Die Leute sind heute alle draußen auf dem Felde und mähen.
+
+
+## Ich verstehe euch nicht, ihr müßt ein bißchen lauter sprechen.
+
+## Habt ihr kein Stückchen weiße Seife für mich auf meinem Tische gefunden?
+
+## Es sind schlechte Zeiten!
+
+[^1]: @RecordingsSouthAsian
+
+[^2]: @doegenChronologieDoegenWilhelm
+
+[^3]: @south
+
+[^4]: @sout
+
+[^5]: @south
