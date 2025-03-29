@@ -88,6 +88,9 @@ Die Aufnahmen auf Schellackplatten konnten ab 1999 digitalisiert werden
 
 *Sprechen wir über:  Die Aufnahmen der Gefängnisinsassen, entstanden während der Berliner Polizeiausstellung im Jahr 1926.* 
 
+
+
+
 Wir wissen heute nicht mehr unter welchen Umständen die Aufnahmen genau entstanden sind, es ist jedoch davon auszugehen, dass sie in großen Teilen unter Zwang entstanden sind.
 
 
@@ -338,7 +341,7 @@ Erst durch Zeit und Übung war es mir möglich, bis es dann ohne darüber nachzu
 Jiftach war sechs Jahre lang Richter in Israel. Dann starb Jiftach, der Gileaditer, und wurde in seiner Stadt in Gilead begraben. "                                                                                                 
   
 
--
+## -
 
 
 Das „Petersilien-Massaker“ von 1937
@@ -412,6 +415,10 @@ Ein betontes Husten kann kann eine Aufforderung sein, ein subtiler Versuch der K
 
 Schibboleth (Paul Celan, 1955)
 
+<table style=vertical-align: top>
+<tr>
+<td width="50%">
+
 Mitsamt meinen Steinen,  
 den großgeweinten  
 hinter den Gittern,  
@@ -430,8 +437,12 @@ in Wien und Madrid.
 Setz deine Fahne auf Halbmast,  
 Erinnrung.  
 Auf Halbmast  
-für heute und immer.  
-  
+für heute und immer.
+
+
+</td>
+<td width="50%">
+
 Herz:  
   
 gib dich auch hier zu erkennen,  
@@ -448,38 +459,40 @@ komm,
 ich führ dich hinweg  
 zu den Stimmen  
 von Estremadura.
+
+</td>
+</tr>
+</table>
+
+
 ## -
 Lfd. Nr 
-PERSONAL                 BOGEN 
-Lautliche Aufnahme Nr: 9.7.610 Kriegsgefangenenlager: 
-Datum:                 19/6   
-Zeitangabe:   5 uhr 15   
+PERSONAL                 BOGEN   Lautliche Aufnahme Nr:   
+Kriegsgefangenenlager:             Datum:                      Zeitangabe:
 Dauer der Aufnahme:        Durchmesser der Platte:   Raum der Aufnahme:   
 Art der Aufnahme (Sprechaufnahme, Gesangsaufnahme,   
 Choraufnahme, Instrumentenaufnahme, Orchesteraufnahme):   
 Name (in der Muttersprache geschrieben);   
 Name (lateinisch geschriehen) :.  
-Vommame:   
-Wann geboren (oder ungefähres Alter)? 26   
-Wo geboren (Heimat) ?   
+Vorname:   
+Wann geboren (oder ungefähres Alter)?
+Wo geboren (Heimat)?
 Welche größere Stadt liegt in der Nähe des Geburtsortes?   
-Kanton \- Kreis (Ujedz): Amihar   
+Kanton \- Kreis (Ujedz):  
 Departement \- Gouvernement (Gubernija) \- Grafschaft (County):   
-Wo gelebt in den ersten 6 Jahren? blote Shagen   
-Wo gelebt vom 7\. bis 20\. Lebensjahr?             von 22   
-Was für Schulbildung?   
-Wo die Schule besucht ?. Kak&   
-Wo gelebt vom 20\. Lebensjahr? 12\.   
-Aus welchem Ort (Ort und Kreis angeben) stammt der Vater? Colote   
-Aus welchen Ort (Ort und Kreis angeben) stamunt die Mutter?   
+Wo gelebt in den ersten 6 Jahren? Wo gelebt vom 7\. bis 20\. Lebensjahr?  
+Was für Schulbildung? Wo die Schule besucht ?  
+Wo gelebt vom 20\. Lebensjahr?   
+Aus welchem Ort (Ort und Kreis angeben) stammt der Vater?  
+Aus welchen Ort (Ort und Kreis angeben) stammt die Mutter?   
 Welchem Volksstamm angehörig?   
 Welche Sprache als Muttersprache?   
-Welche Sprachen spricht er   
-Kann er lesen?            Welche Sprachen?   
+Welche Sprachen spricht er? Kann er lesen?            Welche Sprachen?   
 Kann er schreiben?        Welche Sprachen?   
 Spielt er ein Lager         Instrument aus der Heimat?   
 Singt oder spielt er modern europäische Musikweisen?   
-Religion: like           Beruf: \[X\] 
+Religion:        Beruf:   
+Beschaffenheit der Stimme:  
 1\. Urteil des Fachmannes  (des Assistenten): 
 2\. Urteil des Kommissars: 
 3\. Urteil des Technikers:  

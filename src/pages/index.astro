@@ -183,7 +183,16 @@ html {
   .rectangle-content p {
       margin: 0; /* Remove default margin */
   }
-  
+  :global(table, th, td) {
+  border: 1px;
+  text-align: left;
+  vertical-align: top;
+  padding-inline: 0.9rem;
+  padding-left: 0;
+  width:max-content;
+  font-size: 100%;
+
+}
   .content-rectangle :global( img ) {
       width: 100%;
       max-width: 100%; /* Set a maximum width */
