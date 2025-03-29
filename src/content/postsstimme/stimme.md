@@ -73,9 +73,7 @@ Bekanntheit erlangte er mit der Verbreitung von Audioaufnahmen zur Unterstützun
 
 1916 übernimmt Doegen die Leitung der Lautabteilung der Berliner Staatsbibliothek,
 
-1920 wird das Lautarchiv  als Lautabteilung der Preußischen Staatsbibliothek einverleibt,  Wilhelm Doegen wird Direktor.
-
-Nach der Machtübernahme der Nationalsozialisten 1933 wurde Doegen im Zug des neu erlassenen Gesetzes der  „Wiederherstellung des Berufsbeamtentums“ entlassen. 
+Nach der Machtübernahme der Nationalsozialistenim Jahr 1933 wurde Doegen im Zug des neu erlassenen Gesetzes zur „Wiederherstellung des Berufsbeamtentums“ entlassen. 
 
 
 An 4 Tagen im Juli 1926 nimmt Willhelm Doegen die Stimmen von 24 Inhaftierten in verschiedenen Berliner Gefängnissen auf.
