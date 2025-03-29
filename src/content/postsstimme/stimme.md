@@ -66,10 +66,11 @@ Deutsch: Hochdeutsch (Vortrags- und Umgangssprache), Kolonisten- deutsch aus RuB
 
 *Sprechen wir über: Wilhelm Doegen*
 
-Wilhelm Doegen wurde 1877 geboren, im selben Jahr in dem Edison den Phonographen erfand.
-Er war ein deutscher Sprachwissenschaftler und Begründer der Lautabteilung der Preußischen Staatsbibliothek. .
-(Königlich Preußisches Phonetisches Institut)
-Die Verwendung der Phonetik im Englischen Anfangsunterricht
+Wilhelm Doegen wurde 1877 geboren, im selben Jahr in dem Edison den Phonographen erfand.  
+Bekanntheit erlangte er mit der Verbreitung seiner Schellack Platten zur Unterstützung des Sprachunterrichts. Jene Platten fanden  sich im Jahr 1912 an über 1000 Universitäten und Schulen.
+1914 reichte er beim Preußischen Ministerium für Wissenschaft, Kunst und Volksbildung einen Antrag auf Gründung des Königlich Preußisches Phonetisches Instituts ein.
+
+1920 wird Wilhelm Doegen Direktor der Lautabteilung an der Preußischen Staatsbibliothek.
 An 4 Tagen im Juli 1926 nimmt Willhelm Doegen die Stimmen von 24 Inhaftierten in verschiedenen Berliner Gefängnissen auf.
 
 Eine dieser aufgenommenen Personen ist Fritz Lang, wir haben ihn gerade gehört.
@@ -232,6 +233,7 @@ Wenn wir Stimme als Identifikationsmerkmal ansehen dann kann sie auch Beweismate
 Algorithmen können im direkten Vergleich bestimmen ob es sich bei zwei Aufnahmen um die selbe Stimme handelt.
 Doch diese Algorithmen sind fehleranfällig:
 Reine Stimmaufnahmen sind als Beweismaterial vor Gericht momentan oft nicht zulässig. Zu leicht können Stimmen verfälscht oder kopiert werden. 
+#todo 
 
 ---
 Wir können Stimme modifizieren um:  
