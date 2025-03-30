@@ -2,74 +2,38 @@
 import StimmeLayout from '../layouts/StimmeLayout.astro';
 import fs from 'fs';
 import path from 'node:path';
-import { marked } from 'marked';
-import { Image } from 'astro:assets';
-import.meta.glob('./src/assets/**/*.mp3');
 
-// Load the Markdown file as raw text
-const markdownPath = path.resolve('./src/content/postsstimme/stimme.md');
-const rawMarkdown = fs.readFileSync(markdownPath, 'utf-8');
-
-// Split the Markdown content into sections by H2 headings
-const h2Regex = /^##\s+(.*)$/gm;
-let match;
-let sections = [];
-let matches = Array.from(rawMarkdown.matchAll(h2Regex)); // Get all matches
-
-for (let i = 0; i < matches.length; i++) {
-  const title = matches[i][1].trim(); // Extract title from current match
-  const startIndex = matches[i].index + matches[i][0].length; // Start of content
-  const endIndex = i + 1 < matches.length ? matches[i + 1].index : rawMarkdown.length; // End of content
-
-  const content = rawMarkdown.slice(startIndex, endIndex).trim(); // Extract content between headings
-
-  sections.push({
-    title,
-    content,
-    html: marked(content), // Convert Markdown to HTML
-  });
-}
-
-console.log('Raw Markdown:', rawMarkdown);
-console.log('Extracted Sections:', sections);
+// Lese alle Markdown-Dateien im Verzeichnis
+const postsDirectory = path.resolve('./src/content/postsstimme');
+const markdownFiles = fs.readdirSync(postsDirectory)
+  .filter(file => file.endsWith('.md'))
+  .map(file => ({
+    filename: file,
+    slug: file.replace('.md', ''),
+    title: file.replace('.md', '').replace(/-/g, ' ')
+  }));
 ---
-<html lang="de">
-<StimmeLayout title="Stimme Entries">
+
+<StimmeLayout title="Stimme Entries Index">
   <div class="theme-toggle-container">
     <button id="theme-toggle">Toggle Dark Mode</button>
   </div>
-  <div class="rectangle-container">
-    {sections.map((section, index) => (
-      <article class="content-rectangle" id={`rectangle-${index}`}>
-        <h2 class="titlebox">{section.title}</h2>
-        <audio id={`audio-${index}`}>
-          <source src={`${import.meta.env.BASE_URL}wenker${index + 1}.mp3`} type="audio/mpeg" />
-          Your browser does not support the audio element.
-        </audio>
-        <div class="rectangle-content">
-          <div set:html={section.html} />
-        </div>
-      </article>
-    ))}
+  
+  <div class="index-container">
+    <h1>Stimme Einträge</h1>
+    <ul class="entry-list">
+      {markdownFiles.map(file => (
+        <li>
+          <a href={`/${file.slug}`}>{file.title}</a>
+        </li>
+      ))}
+    </ul>
   </div>
 </StimmeLayout>
 
 <script>
+  // Dark mode toggle logic
   document.addEventListener('DOMContentLoaded', () => {
-    const rectangles = document.querySelectorAll('.content-rectangle');
-    rectangles.forEach((rectangle, index) => {
-      const audio = rectangle.querySelector(`#audio-${index}`);
-      rectangle.addEventListener('mouseenter', () => {
-        audio.play();
-      });
-      rectangle.addEventListener('mouseleave', () => {
-        setTimeout(() => {
-          audio.pause();
-          audio.currentTime = 0;
-        },0); // 500 milliseconds delay
-      });
-    });
-    // Dark mode toggle logic
     const themeToggle = document.getElementById('theme-toggle');
     const htmlElement = document.documentElement;
 
@@ -87,135 +51,43 @@ console.log('Extracted Sections:', sections);
 </script>
 
 <style>
-html {
+  /* Übernehme die Styles aus deinem Original-Code und füge diese hinzu: */
+  .index-container {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 1rem;
+  }
+  
+  .entry-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .entry-list li {
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+    background-color: var(--content-bg-color);
+    border-radius: 4px;
+  }
+  
+  .entry-list a {
+    color: var(--text-color);
+    text-decoration: none;
+    font-size: 1.2rem;
+    display: block;
+    padding: 0.5rem;
+  }
+  
+  .entry-list a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Übernimm hier den Rest deiner Styles */
+  html {
     font-size: 110%;
     font-family: 'PT Sans';
     background-color: var(--background-color);
     color: var(--text-color);
-} 
-.theme-toggle-container {
-  text-align: left;
-  margin: 1rem 1rem;
-}
-
-#theme-toggle {
-  padding: 0.2rem 0.3rem;
-  font-size: 0.7rem;
-  cursor: pointer;
-}
-:root {
-      --background-color: rgb(228, 228, 228);
-      --text-color: black;
-      --content-bg-color: rgb(255, 255, 255);
-      }
-
-      [data-theme="dark"] {
-  --background-color: rgb(34, 34, 34);
-  --text-color: white;
-  --content-bg-color: rgb(50, 50, 50);
-} 
-  @media screen and (max-width: 700px) {
-    html {
-          font-size:3.1vw;
-        }
-      }
-  
-  body {
-      margin: 0;
-      padding: 0;
-  }
-
-  .titlebox {
-    height: 5rem;
-  }
-  
-  .rectangle-container {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 1rem;
-      justify-content: center; /* Center rectangles horizontally */
-  }
-  
-  .content-rectangle {
-      background-color: var(--content-bg-color);
-      height:  42.5rem;
-      width: 25.1rem;
-      aspect-ratio: 1 / 1.4174460775;
-      overflow-y: hidden;
-      padding: 1.5rem 3.5rem;
-      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-      font-size: 0.9rem; /* Ensure readable font size */
-      margin: auto;
-      display: flex;
-      flex-direction: column;
-  }
-  
-  .content-rectangle h2 {
-      text-align: left;
-      font-weight:bold;
-      font-size: 1.1rem;
-  }
-  
-  .content-rectangle :global( audio ) {
-      width: 100%;
-      background-color: #fd0c0c;
-      border-radius: 4px;
-  }
-  
-  .rectangle-content {
-      flex: 1;
-      display: flex;
-      text-wrap:pretty ;
-      justify-content: center;
-      align-items: center;
-      text-align:justify;
-      word-break: normal;
-      margin-top: -6em; /* Add some space between the audio and the content */
-      flex-direction: column; /* Ensure the p elements are stacked vertically */
-      hyphens: auto;
-      -moz-hyphens: auto;
-      -o-hyphens: auto;
-      -webkit-hyphens: auto;
-      -ms-hyphens: auto;
-    }
-
-  
-  .rectangle-content p {
-      margin: 0; /* Remove default margin */
-  }
-  :global(table, th, td) {
-  border: 1px;
-  text-align: left;
-  vertical-align: top;
-  padding-inline: 0.9rem;
-  padding-left: 0;
-  width:max-content;
-  font-size: 100%;
-
-}
-  .content-rectangle :global( img ) {
-      width: 100%;
-      max-width: 100%; /* Set a maximum width */
-      max-height: 20rem; /* Set a maximum height */
-      margin: auto;
-      display: block;
-      object-fit: contain; /* Ensure the content fits within the container */
-  }
-  .content-rectangle :global( video ) {
-      width: 100%;
-      max-width: 100%; /* Set a maximum width */
-      max-height: 20rem; /* Set a maximum height */
-      margin: auto;
-      display: block;
-      object-fit: contain; /* Ensure the content fits within the container */
-  }
-  
-  
-  header, footer {
-      background-color: var(--background-color);
-      padding: 1rem;
-      font-weight: normal;
-      color: #817f7f;
-      font-size: 0.6rem;
-  }
+  } 
+  /* Weitere Styles aus deinem Original-Code */
 </style>
