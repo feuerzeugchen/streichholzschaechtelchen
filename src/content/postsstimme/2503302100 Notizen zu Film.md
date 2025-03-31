@@ -130,6 +130,7 @@ Dieser Themenkomplex beschäftigt sich mit der menschlichen Stimme in Relation z
 Stimme ist eng mit Geschlechtlichkeit und dem Körper verbunden. Stimmbruch: Wenn sich die Stimme im Jugendalter auf einmal verändert, im Stimmbruch, ist das ein sensibler Moment. Es ist das weiter oder neu Formen der Stimme, des Habitus und damit ein Bruch in der Identität. Wer ist in der Position aus objektiver Sicht zu sprechen?  
 Welche Stimme gilt als objektiv und objektiv/authentisch/vertrauenswürdig?  
 Objektive Stimme, die authentische Stimme, die vertrauenswürdige Stimme, Stimme personifiziert sich
+
 ### Sprache der Tiere
 ___
 Ki Sprachmodelle und Erlernen der Codas/Sprache von Pottwalen  
