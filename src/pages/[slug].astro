@@ -139,23 +139,27 @@ function splitContentIntoRectangles(sections) {
 const contentRectangles = splitContentIntoRectangles(sections);
 ---
 
+
 <StimmeLayout title={slug.replace(/-/g, ' ')}>
-  <div class="theme-toggle-container">
-    <button id="theme-toggle">Toggle Dark Mode</button>
+  <div></div>
     <a href="/" class="back-link">Zurück zur Übersicht</a>
   </div>
   
   <div class="rectangle-container">
     {contentRectangles.map((rectangle, index) => (
       <article class="content-rectangle" id={`rectangle-${index}`}>
-        <h2 class="titlebox">
+        <div class="titlebox">
           {rectangle.title}
           {!rectangle.isFirstPart && <span class="continuation-marker"> (Fortsetzung)</span>}
-        </h2>
-        <audio id={`audio-${index}`}>
-          <source src={`${import.meta.env.BASE_URL}wenker${index + 1}.mp3`} type="audio/mpeg" />
-          Your browser does not support the audio element.
-        </audio>
+        </div>
+        <div class="audio-container">
+          <button class="play-pause-button play" id="play-pause-btn"></button>
+          <span class="audio-label">Stimme von: "Daten der sprechenden Person"</span>
+        <audio id={`audio-${index}`} >
+  <source src={`${import.meta.env.BASE_URL}wenker${index + 1}.mp3`} type="audio/mpeg" />
+</audio>
+</div>
+      </div>
         <div class="rectangle-content">
           <div set:html={rectangle.html} />
           {!rectangle.isLastPart && 
@@ -171,17 +175,28 @@ const contentRectangles = splitContentIntoRectangles(sections);
   document.addEventListener('DOMContentLoaded', () => {
     const rectangles = document.querySelectorAll('.content-rectangle');
     rectangles.forEach((rectangle, index) => {
-      const audio = rectangle.querySelector(`#audio-${index}`);
-      rectangle.addEventListener('mouseenter', () => {
-        audio.play();
-      });
-      rectangle.addEventListener('mouseleave', () => {
-        setTimeout(() => {
-          audio.pause();
-          audio.currentTime = 0;
-        },0);
-      });
-    });
+    const playPauseButton = document.getElementById('play-pause-btn');
+    const audioElement = rectangle.querySelector(`#audio-${index}`);
+      playPauseButton.addEventListener('click', () => {
+      if (audioElement.paused) {
+        audioElement.play();
+        playPauseButton.classList.remove('play');
+        playPauseButton.classList.add('pause');
+       } 
+       else {
+        audioElement.pause();
+        playPauseButton.classList.remove('pause');
+        playPauseButton.classList.add('play');}
+        });
+
+  // Zurücksetzen des Buttons nach Ende des Audio-Tracks
+  audioElement.addEventListener('ended', () => {
+    playPauseButton.classList.remove('pause');
+    playPauseButton.classList.add('play');
+  });
+});
+
+     
     
     // Dark mode toggle logic
     const themeToggle = document.getElementById('theme-toggle');
@@ -198,6 +213,9 @@ const contentRectangles = splitContentIntoRectangles(sections);
     const savedTheme = localStorage.getItem('theme') || 'light';
     htmlElement.setAttribute('data-theme', savedTheme);
   });
+
+  
+
 </script>
 
 <style>
@@ -229,7 +247,7 @@ const contentRectangles = splitContentIntoRectangles(sections);
   
   /* Hier kommen alle deine originalen Styles */
   html {
-    font-size: 110%;
+    font-size: 105%;
     font-family: 'PT Sans';
     background-color: var(--background-color);
     color: var(--text-color);
@@ -246,7 +264,7 @@ const contentRectangles = splitContentIntoRectangles(sections);
     cursor: pointer;
   }
   :root {
-    --background-color: rgb(228, 228, 228);
+    --background-color: rgb(255, 255, 255);
     --text-color: black;
     --content-bg-color: rgb(255, 255, 255);
   }
@@ -263,40 +281,51 @@ const contentRectangles = splitContentIntoRectangles(sections);
   }
   
   body {
-    margin: 0;
-    padding: 0;
+    /*margin: auto; */
+    /*padding: 0;*/
+    justify-content: space-between;
+  
   }
 
   .titlebox {
-    height: 5rem;
+    height: 2rem;
+    min-height: 4rem;
+    max-height: 3rem;
+    padding: 0;
+    overflow-y: hidden;
+    text-align: left;
+    font-weight:bold;
+    font-size: 1rem;
   }
   
   .rectangle-container {
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap:wrap;
     gap: 1rem;
-    justify-content: center; /* Center rectangles horizontally */
+    padding: 1rem;
+    flex-direction:row;
+    justify-content: center;
   }
   
   .content-rectangle {
     background-color: var(--content-bg-color);
     height:  42.5rem;
-    width: 25.1rem;
+    width: 26.1rem;
     aspect-ratio: 1 / 1.4174460775;
     overflow-y: hidden;
-    padding: 1.5rem 3.5rem;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-    font-size: 0.9rem; /* Ensure readable font size */
-    margin: auto;
+    padding: 1.5rem 3rem;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    font-size: 0.9rem; 
     display: flex;
     flex-direction: column;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+    align-content:start;
+    gap: 0;
   }
   
-  .content-rectangle h2 {
-    text-align: left;
-    font-weight:bold;
-    font-size: 1.1rem;
-  }
+
   
   .content-rectangle :global( audio ) {
     width: 100%;
@@ -307,13 +336,12 @@ const contentRectangles = splitContentIntoRectangles(sections);
   .rectangle-content {
     flex: 1;
     display: flex;
-    text-wrap:pretty ;
     justify-content: center;
     align-items: center;
     text-align:justify;
     word-break: normal;
-    margin-top: -6em; /* Add some space between the audio and the content */
-    flex-direction: column; /* Ensure the p elements are stacked vertically */
+    margin-top: 0em; 
+    flex-direction: column; 
     hyphens: auto;
     -moz-hyphens: auto;
     -o-hyphens: auto;
@@ -360,4 +388,40 @@ const contentRectangles = splitContentIntoRectangles(sections);
     color: #817f7f;
     font-size: 0.6rem;
   }
+  .audio-container {
+  display: flex;
+  align-items: center;
+  justify-content: left;
+  font-size: 90%;
+  font-style: italic;
+  gap: 1rem;
+}
+
+.play-pause-button {
+  width: 1.5rem;
+  height: 1.5rem;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.play-pause-button.play::before {
+  content: '';
+  display: block;
+  width: ;
+  height: 0;
+  border-left: 10px solid black; /* Farbe des Dreiecks */
+  border-top: 7px solid transparent;
+  border-bottom: 7px solid transparent;
+}
+
+.play-pause-button.pause::before {
+  content: '';
+  display: block;
+  width: 12px;
+  height: 12px;
+  background-color: black; /* Farbe des Pause-Symbols */
+  
+}
+
 </style>

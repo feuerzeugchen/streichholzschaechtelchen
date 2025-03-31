@@ -1,8 +1,15 @@
+---
+tags:
+  - Stimme
+  - Note
+evolution: "03"
+---
+
 ## Soundbausteine
 
 1. Klickgeräusche Pottwale :LiArrowLeftRight: Morsecode/Binärcode evtl. ultra-low-frequency sounds.
     
-2. Verlangsamung der Stime macht Stimme zum _objekthaften Material_, sie wird unverständlich:
+2. Verlangsamung der Stimme macht Stimme zum _objekthaften Material_, sie wird unverständlich:
     
 3. _Extreme Zeitlupe: Die Tonspur läuft vorerst in normaler Geschwindigkeit, die Videospur jedoch startet in einer extremen Zeitlupe wird langsam immer schneller bis sie die normale Geschwindigkeit erreicht hat und damit synchron mit der Tonspur ist. Laufen Video und Ton dann synchron, verlangsamt sich das Tempo der Tonspur, Bild und Ton verschieben sich wieder gegeneinander, das gesagte wird dann komplett unverständlich und der Ton, die Stimme wird zum "Material"._ [[1]](app://obsidian.md/index.html#fn-1-5be6516a1910c448)
 ## Soundbausteine 2

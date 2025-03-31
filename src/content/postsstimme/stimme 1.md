@@ -1,3 +1,10 @@
+---
+tags:
+  - Stimme
+  - Note
+evolution: "03"
+---
+
 [@RecordingsSouthAsian]nholzRecordingsSouthAsian2023enholzRecordingsSouthAsian2023nholzRecordingsSouthAsian2023nholzRecordingsSouthAsian2023title: Stimme
 tags:
   - Stimme

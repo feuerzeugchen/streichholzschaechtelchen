@@ -1,3 +1,7 @@
+---
+{}
+---
+
 <!-- src/content/voice/page-1.md -->
 # Voice Page 1
 

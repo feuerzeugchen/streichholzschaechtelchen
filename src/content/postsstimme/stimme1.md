@@ -1,3 +1,10 @@
+---
+tags:
+  - Stimme
+  - Note
+evolution: "05"
+---
+
 [@RecordingsSouthAsian]nholzRecordingsSouthAsian2023enholzRecordingsSouthAsian2023nholzRecordingsSouthAsian2023nholzRecordingsSouthAsian2023title: Stimme
 tags:
   - Stimme
@@ -194,7 +201,9 @@ Die Aufnahmen werden inspiziert und sind Bestandteil wissenschaftlicher Untersuc
 Manche der Aufnahmen sind die letzten akustischen Dokumente inzwischen ausgestorbener Sprachen oder Dialekten, doch welchen Nutzen haben diese Aufnahmen wenn niemand mehr diese Sprachen spricht? 
 (Die Haltbarkeit der Schellackplatten sinkt rapide wenn diese oft abgespielt werden)
 
+## -
 
+“An dieser Stelle wird schnell klar, dass das «Abhören» der Walzen ganz entscheidend zu einer neuen Informationsspeicherung beigetragen hat. So lässt sich festhalten, dass die Figur des «Abhörens» einerseits als ein Erfassen, Kategorisieren und Speichern dem Erhalt des vom Verschwinden bedrohten dient; andererseits entpuppen sich die historisch spezifischen Herrschafts- und Dialogbeziehungen aber auch als Machttechniken des Wissens. Dass sich mit den Forschungen von Hornbostel und anderen überhaupt erst eine Musikethnologie etablieren konnte und dies wie gezeigt im Kontext von Wissensproduktion und Kolonialmacht geschah, ist ein Beispiel dafür.” (“ARCHIV, MACHT UND STIMME: DER PHONOGRAPH ALS INSTRUMENT AKUSTISCHER KOLONIALISIERUNG”, p. 3)
 ## -
 Die Haltbarkeit der Schellackplatten sinkt rapide wenn diese oft abgespielt werden
 
