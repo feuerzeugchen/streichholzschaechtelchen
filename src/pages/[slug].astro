@@ -86,45 +86,48 @@ function splitContentIntoRectangles(sections) {
       });
     } else {
       // Teile den Inhalt in Absätze auf
-      const paragraphs = section.html.split(/<\/p>\s*<p>/);
-      let currentRectangle = {
-        title: section.title,
-        html: '',
-        paragraphs: [],
-        isFirstPart: true,
-        isLastPart: false
-      };
-      let currentLength = 0;
-      
-      paragraphs.forEach((paragraph, index) => {
-        // Bereinige den Absatz
-        let cleanParagraph = paragraph;
-        if (index === 0) cleanParagraph = paragraph.replace(/^<p>/, '');
-        if (index === paragraphs.length - 1) cleanParagraph = cleanParagraph.replace(/<\/p>$/, '');
-        
-        const paragraphLength = cleanParagraph.replace(/<[^>]*>/g, '').length;
-        
-        // Wenn dieser Absatz das Rectangle überfüllen würde, erstelle ein neues Rectangle
-        if (currentLength > 0 && currentLength + paragraphLength > approximateCharsPerRectangle) {
-          // Schließe das aktuelle Rectangle ab
-          currentRectangle.html = '<p>' + currentRectangle.paragraphs.join('</p><p>') + '</p>';
-          rectangles.push(currentRectangle);
-          
-          // Starte ein neues Rectangle
-          currentRectangle = {
-            title: `${section.title}`,
-            html: '',
-            paragraphs: [cleanParagraph],
-            isFirstPart: false,
-            isLastPart: false
-          };
-          currentLength = paragraphLength;
-        } else {
-          // Füge den Absatz zum aktuellen Rectangle hinzu
-          currentRectangle.paragraphs.push(cleanParagraph);
-          currentLength += paragraphLength;
-        }
-      });
+const paragraphs = section.html.split(/<\/p>\s*<p>/);
+let currentRectangle = {
+  title: section.title,
+  html: '',
+  paragraphs: [],
+  isFirstPart: true,
+  isLastPart: false
+};
+let currentLength = 0;
+let partCounter = 1; // Zähler für die Fortsetzungsnummer
+
+paragraphs.forEach((paragraph, index) => {
+  // Bereinige den Absatz
+  let cleanParagraph = paragraph;
+  if (index === 0) cleanParagraph = paragraph.replace(/^<p>/, '');
+  if (index === paragraphs.length - 1) cleanParagraph = cleanParagraph.replace(/<\/p>$/, '');
+  const paragraphLength = cleanParagraph.replace(/<[^>]*>/g, '').length;
+  
+  // Wenn dieser Absatz das Rectangle überfüllen würde, erstelle ein neues Rectangle
+  if (currentLength > 0 && currentLength + paragraphLength > approximateCharsPerRectangle) {
+    // Schließe das aktuelle Rectangle ab
+    currentRectangle.html = '<p>' + currentRectangle.paragraphs.join('</p><p>') + '</p>';
+    rectangles.push(currentRectangle);
+    
+    // Erhöhe den Zähler für die Fortsetzung
+    partCounter++;
+    
+    // Starte ein neues Rectangle mit Fortsetzungsnummer
+    currentRectangle = {
+      title: `${section.title} ${partCounter}`, // Zeigt an, die wievielte Fortsetzung es ist
+      html: '',
+      paragraphs: [cleanParagraph],
+      isFirstPart: false,
+      isLastPart: false
+    };
+    currentLength = paragraphLength;
+  } else {
+    // Füge den Absatz zum aktuellen Rectangle hinzu
+    currentRectangle.paragraphs.push(cleanParagraph);
+    currentLength += paragraphLength;
+  }
+});
       
       // Letztes Rectangle für diesen Abschnitt abschließen
       currentRectangle.html = '<p>' + currentRectangle.paragraphs.join('</p><p>') + '</p>';
@@ -144,14 +147,15 @@ const contentRectangles = splitContentIntoRectangles(sections);
   <div></div>
     <a href="/" class="back-link">Zurück zur Übersicht</a>
   </div>
-  
+          
   <div class="rectangle-container">
     {contentRectangles.map((rectangle, index) => (
       <article class="content-rectangle" id={`rectangle-${index}`}>
         <div class="titlebox">
           {rectangle.title}
-          {!rectangle.isFirstPart && <span class="continuation-marker"> (Fortsetzung)</span>}
-        </div>
+          {!rectangle.isFirstPart && <span class="continuation-marker"> </span>}
+          </div>
+          {filename === "Notizen.md" &&
         <div class="audio-container">
           <button class="play-pause-button play" id="play-pause-btn"></button>
           <span class="audio-label">Stimme von: "Daten der sprechenden Person"</span>
@@ -159,11 +163,12 @@ const contentRectangles = splitContentIntoRectangles(sections);
   <source src={`${import.meta.env.BASE_URL}wenker${index + 1}.mp3`} type="audio/mpeg" />
 </audio>
 </div>
+}
       </div>
         <div class="rectangle-content">
           <div set:html={rectangle.html} />
           {!rectangle.isLastPart && 
-            <div class="continuation-notice">Fortsetzung →</div>
+            <div class="continuation-notice">→</div>
           }
         </div>
       </article>

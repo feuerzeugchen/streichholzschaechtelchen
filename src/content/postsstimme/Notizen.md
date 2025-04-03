@@ -3,8 +3,9 @@ tags:
   - Stimme
   - Note
 evolution: "05"
----
+Wenkersaetze_Aufnahmen: true
 
+---
 [@RecordingsSouthAsian]nholzRecordingsSouthAsian2023enholzRecordingsSouthAsian2023nholzRecordingsSouthAsian2023nholzRecordingsSouthAsian2023title: Stimme
 tags:
   - Stimme
@@ -230,7 +231,7 @@ Wenn sich nach dem digitalen Zeitalter die Daten auf den Speicherkarten mit der 
 AAAAAAAAAAAAAAAAAAAAAHHHHHHHHHH
 
 <audio controls>
-<source src="public/A_Lautarchiv.mp3" type="audio/mp3">
+<source src="A_Lautarchiv.mp3" type="audio/mp3">
 </audio>
 ## Ihr dürft nicht solche Kindereien treiben!
 

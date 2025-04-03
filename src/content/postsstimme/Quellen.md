@@ -1,10 +1,11 @@
+
 () (2014) _Beckett􀇯s Not I & the role of the voice in Irigaray’s critique of patriarchy._
 
 ‘34.pdf’ (no date). Available at: [https://d-nb.info/1234242680/34](https://d-nb.info/1234242680/34) (Accessed: 26 March 2025).
 
 ‘2023-06-12-BAMF-Dienstanweisung-AVS.pdf’ (no date). Available at: [https://www.proasyl.de/wp-content/uploads/2023-06-12-BAMF-Dienstanweisung-AVS.pdf](https://www.proasyl.de/wp-content/uploads/2023-06-12-BAMF-Dienstanweisung-AVS.pdf) (Accessed: 1 April 2025).
 
-
+{frontmatter.title}
 ‘2003238.pdf’ (no date a). Available at: [https://dserver.bundestag.de/btd/20/032/2003238.pdf](https://dserver.bundestag.de/btd/20/032/2003238.pdf) (Accessed: 1 April 2025).
 
 ‘2003238.pdf’ (no date b). Available at: [https://dserver.bundestag.de/btd/20/032/2003238.pdf](https://dserver.bundestag.de/btd/20/032/2003238.pdf) (Accessed: 1 April 2025).
