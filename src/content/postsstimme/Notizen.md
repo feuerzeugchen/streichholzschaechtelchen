@@ -230,7 +230,7 @@ Wenn sich nach dem digitalen Zeitalter die Daten auf den Speicherkarten mit der 
 AAAAAAAAAAAAAAAAAAAAAHHHHHHHHHH
 
 <audio controls>
-<source src="public/A_Lautarchiv.mp3" type="audio/mp3">
+<source src="A_Lautarchiv.mp3" type="audio/mp3">
 </audio>
 ## Ihr dürft nicht solche Kindereien treiben!
 
@@ -336,7 +336,7 @@ Wer mit Akzent spricht ist mit Voreingenommenheiten konfrontiert und wird eventu
 ## Du bist noch nicht groß genug, um eine Flasche Wein auszutrinken, Du mußt erst noch ein Ende  wachsen und größer werden.
 OOOOOOOOOOOOOOOOOOOOOOOOOOOHHHHHHHHHHHH
 <audio controls>
-<source src="public/O_Lautarchiv.mp3" type="audio/mp3">
+<source src="O_Lautarchiv.mp3" type="audio/mp3">
 </audio>
 ## Die Füße thun mir sehr weh, ich glaube, ich habe sie durchgelaufen.
 
@@ -382,16 +382,16 @@ Streichholzschächtelchen
 </p>
 </p>
 <audio controls>
-<source src="public/Streichholzschaechtelchen3.mp3" type="audio/ogg">
+<source src="Streichholzschaechtelchen3.mp3" type="audio/ogg">
 </audio>
 <audio controls>
-<source src="public/Streichholzschaechtelchen1.ogg" type="audio/ogg">
+<source src="Streichholzschaechtelchen1.ogg" type="audio/ogg">
 </audio>
 <audio controls>
-<source src="public/Streichholzschaechtelchen2.ogg" type="audio/ogg">
+<source src="Streichholzschaechtelchen2.ogg" type="audio/ogg">
 </audio>
 <audio controls>
-<source src="public/Streichholzschaechtelchen4.mp3" type="audio/ogg">
+<source src="Streichholzschaechtelchen4.mp3" type="audio/ogg">
 </audio>
 
 ## Geh, sei so gut und sag Deiner Schwester, sie sollte die Kleider für eure Mutter fertig nähen und mit der Bürste rein machen.
@@ -525,7 +525,7 @@ Beschaffenheit der Stimme:
 EEEEEEEEEEEEEEEEEEEEEEHHHHHHHHH
 
 <audio controls>
-<source src="public/E_Lautarchiv.mp3" type="audio/mp3">
+<source src="E_Lautarchiv.mp3" type="audio/mp3">
 </audio>
 
 ## Er ißt die Eier immer ohne Salz und Pfeffer.
