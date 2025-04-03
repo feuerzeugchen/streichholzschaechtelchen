@@ -82,13 +82,16 @@ const markdownFiles = fs.readdirSync(postsDirectory)
   .entry-list a:hover {
     text-decoration: underline;
   }
-  
-  /* Übernimm hier den Rest deiner Styles */
   html {
-    font-size: 110%;
+    font-size: 105%;
     font-family: 'PT Sans';
     background-color: var(--background-color);
     color: var(--text-color);
   } 
+  :root {
+    --background-color: rgb(255, 255, 255);
+    --text-color: black;
+    --content-bg-color: rgb(255, 255, 255);
+  }
   /* Weitere Styles aus deinem Original-Code */
 </style>
