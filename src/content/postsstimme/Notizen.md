@@ -230,7 +230,7 @@ Wenn sich nach dem digitalen Zeitalter die Daten auf den Speicherkarten mit der 
 AAAAAAAAAAAAAAAAAAAAAHHHHHHHHHH
 
 <audio controls>
-<source src="A_Lautarchiv.mp3" type="audio/mp3">
+<source src="public/A_Lautarchiv.mp3" type="audio/mp3">
 </audio>
 ## Ihr dürft nicht solche Kindereien treiben!
 
