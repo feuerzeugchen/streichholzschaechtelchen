@@ -102,14 +102,6 @@ Eine pseudo-wissenschaftlichen Herangehensweise im Kontext von Physiognomik, die
 ## Das Wort kam ihm von Herzen!
 “I am referring to unforeseen, unintended pauses that interrupt the normal flow of speech as disrupting, delaying, faltering and terminating as well as intentionally prolonged breaks in speech. The unforeseen silence of the presentation, the gaps in the spoken and sung recordings, becomes productive insofar as it gives rise in the listener less to a desire for embodiment than to a desire for narration, as they seem to call for narrative filling, for answers to questions. Why does the speaker stop speaking? Is he disconcerted, confused? Has he forgotten the text? Is he looking up at the other people present? Is he thinking of home or possibly of the payment for the recording? Is he impressed by the technical equipment? Does he interrupt the flow of speech intentionally? Has he lost sight of the line in the text that he is reciting? Is he in pain, short of breath? Is he suffering from hunger? Did he hear a noise or a comment? Did he stop to listen to something else? These moments of silence in the presentation refer, on the one hand, to the precarious political situation, the imbalance of power between those doing the recording and those being recorded: the German researchers in alliance with the camp commanders and the prisoners in the camp as interned wartime enemies. They characterise the collection of sound recordings with prisoners of war once more as a sensitive collection that was compiled for research purposes under the coercive situation of the camp.32 On the other hand, the unintended pauses in the presentation also refer to the rigid recording setup, whereby the speaker is pressed by the researchers in front of the gramophone horn and, at the same time, is made to read aloud or repeat the text from a sheet of paper held above it.” (Lange, 2017, p. 54)
 
-## Er ißt die Eier immer ohne Salz und Pfeffer.
-
-The prisoners spoke into the gramophone horn neither spontaneously nor, with regard to content, freely. Subas’ words show the balancing act required to express oneself in a German camp in front of German researchers. Although he repeatedly describes the war as a catastrophe, he does not blame anyone it. On the contrary, he explicitly praises the efforts of the German camp commanders with regard to the prisoners and the opportunity, outside the period of (forced) labour, to read and attend concerts, theatrical performances and films. Subas’ descriptions of leisure time read like German propaganda – and are invoked in similar sounding letters as evidence of the good German camp policy in the book Der Kriegsgefangenen Haltung und Schicksal in Deutschland published by Wilhelm Doegen in 1919 by order of the Reichswehrministerium.28 It can be assumed that it was taboo in German camps to criticise the camp conditions. Therefore, in order to uncover any hidden or coded messages, we must listen and read between the lines and words of the prisoners.
-
-*To be taken from there to the interior of Germany, we left a heap of wounded to be cared for by their Red Cross. Some with their arms torn off, others their legs. One with a broken hip, another with his body perforated by five bullets. And many similar cases. It was terrible to hear their cries and groans, and worse still to see the state of these poor comrades.*
-*Since then we have stayed here under their [the Germans’] command. Our senses dulled. But don’t think that because we’re prisoners we are unhappy and treated brutally. No, it’s like this: what I want to say personally: I’ve been in Germany for three years; so far not once have either officers or a soldier said a word out of place. Quite the opposite. I believe that if we could understand each other, we’d become proper comrades together. You understand? These are men like us, family men, who are also waiting for an end to this terrible war.”* 
-(Lange, 2017, p. 52)
-
 
 ## Das Feuer war zu heiß, die Kuchen sind ja unten ganz schwarz gebrannt
 **Wachswalze einsetzen**: Leere Wachswalze auf den Zylinder des Phonographen montieren.  
@@ -238,7 +230,7 @@ Wenn sich nach dem digitalen Zeitalter die Daten auf den Speicherkarten mit der 
 AAAAAAAAAAAAAAAAAAAAAHHHHHHHHHH
 
 <audio controls>
-<source src="public/A_Lautarchiv.mp3" type="audio/mp3">
+<source src="A_Lautarchiv.mp3" type="audio/mp3">
 </audio>
 ## Ihr dürft nicht solche Kindereien treiben!
 
@@ -344,7 +336,7 @@ Wer mit Akzent spricht ist mit Voreingenommenheiten konfrontiert und wird eventu
 ## Du bist noch nicht groß genug, um eine Flasche Wein auszutrinken, Du mußt erst noch ein Ende  wachsen und größer werden.
 OOOOOOOOOOOOOOOOOOOOOOOOOOOHHHHHHHHHHHH
 <audio controls>
-<source src="public/O_Lautarchiv.mp3" type="audio/mp3">
+<source src="O_Lautarchiv.mp3" type="audio/mp3">
 </audio>
 ## Die Füße thun mir sehr weh, ich glaube, ich habe sie durchgelaufen.
 
@@ -390,16 +382,16 @@ Streichholzschächtelchen
 </p>
 </p>
 <audio controls>
-<source src="public/Streichholzschaechtelchen3.mp3" type="audio/ogg">
+<source src="Streichholzschaechtelchen3.mp3" type="audio/ogg">
 </audio>
 <audio controls>
-<source src="public/Streichholzschaechtelchen1.ogg" type="audio/ogg">
+<source src="Streichholzschaechtelchen1.ogg" type="audio/ogg">
 </audio>
 <audio controls>
-<source src="public/Streichholzschaechtelchen2.ogg" type="audio/ogg">
+<source src="Streichholzschaechtelchen2.ogg" type="audio/ogg">
 </audio>
 <audio controls>
-<source src="public/Streichholzschaechtelchen4.mp3" type="audio/ogg">
+<source src="Streichholzschaechtelchen4.mp3" type="audio/ogg">
 </audio>
 
 ## Geh, sei so gut und sag Deiner Schwester, sie sollte die Kleider für eure Mutter fertig nähen und mit der Bürste rein machen.
@@ -533,8 +525,17 @@ Beschaffenheit der Stimme:
 EEEEEEEEEEEEEEEEEEEEEEHHHHHHHHH
 
 <audio controls>
-<source src="public/E_Lautarchiv.mp3" type="audio/mp3">
+<source src="E_Lautarchiv.mp3" type="audio/mp3">
 </audio>
+
+## Er ißt die Eier immer ohne Salz und Pfeffer.
+
+The prisoners spoke into the gramophone horn neither spontaneously nor, with regard to content, freely. Subas’ words show the balancing act required to express oneself in a German camp in front of German researchers. Although he repeatedly describes the war as a catastrophe, he does not blame anyone it. On the contrary, he explicitly praises the efforts of the German camp commanders with regard to the prisoners and the opportunity, outside the period of (forced) labour, to read and attend concerts, theatrical performances and films. Subas’ descriptions of leisure time read like German propaganda – and are invoked in similar sounding letters as evidence of the good German camp policy in the book Der Kriegsgefangenen Haltung und Schicksal in Deutschland published by Wilhelm Doegen in 1919 by order of the Reichswehrministerium.28 It can be assumed that it was taboo in German camps to criticise the camp conditions. Therefore, in order to uncover any hidden or coded messages, we must listen and read between the lines and words of the prisoners.
+
+*To be taken from there to the interior of Germany, we left a heap of wounded to be cared for by their Red Cross. Some with their arms torn off, others their legs. One with a broken hip, another with his body perforated by five bullets. And many similar cases. It was terrible to hear their cries and groans, and worse still to see the state of these poor comrades*
+*Since then we have stayed here under their [the Germans’] command. Our senses dulled. But don’t think that because we’re prisoners we are unhappy and treated brutally. No, it’s like this: what I want to say personally: I’ve been in Germany for three years; so far not once have either officers or a soldier said a word out of place. Quite the opposite. I believe that if we could understand each other, we’d become proper comrades together. You understand? These are men like us, family men, who are also waiting for an end to this terrible war.*
+(Lange, 2017, p. 52)
+
 
 ## Wer hat mir meinen Korb mit Fleisch gestohlen?
 

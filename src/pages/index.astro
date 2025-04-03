@@ -15,12 +15,9 @@ const markdownFiles = fs.readdirSync(postsDirectory)
 ---
 
 <StimmeLayout title="Stimme Entries Index">
-  <div class="theme-toggle-container">
-    <button id="theme-toggle">Toggle Dark Mode</button>
-  </div>
-  
+ 
   <div class="index-container">
-    <h1>Stimme Einträge</h1>
+    <h1>Streichholzschächtelchen</h1>
     <ul class="entry-list">
       {markdownFiles.map(file => (
         <li>
@@ -61,13 +58,17 @@ const markdownFiles = fs.readdirSync(postsDirectory)
   .entry-list {
     list-style-type: none;
     padding: 0;
+    
   }
   
   .entry-list li {
     margin-bottom: 1rem;
     padding: 0.5rem;
-    background-color: var(--content-bg-color);
-    border-radius: 4px;
+    background-color:rgb(255, 255, 255);
+    border-radius: 0px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
   }
   
   .entry-list a {
@@ -81,13 +82,16 @@ const markdownFiles = fs.readdirSync(postsDirectory)
   .entry-list a:hover {
     text-decoration: underline;
   }
-  
-  /* Übernimm hier den Rest deiner Styles */
   html {
-    font-size: 110%;
+    font-size: 105%;
     font-family: 'PT Sans';
     background-color: var(--background-color);
     color: var(--text-color);
   } 
+  :root {
+    --background-color: rgb(255, 255, 255);
+    --text-color: black;
+    --content-bg-color: rgb(255, 255, 255);
+  }
   /* Weitere Styles aus deinem Original-Code */
 </style>
