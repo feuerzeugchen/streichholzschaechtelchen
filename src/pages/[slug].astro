@@ -147,17 +147,7 @@ const contentRectangles = splitContentIntoRectangles(sections);
   <div></div>
     <a href="/" class="back-link">Zurück zur Übersicht</a>
   </div>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.4/moment.min.js"></script>
-  <div id="github-pages-log-container" style="font-family: Arial, sans-serif; border: 1px solid #ccc; padding: 10px; width: 920px; min-height: 80px; box-shadow: 3px 3px 5px #aaa; margin: 10px; border-radius: 5px;">
-    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
-      <span style="font-weight: bold;">Recent messages</span>
-      <span style="font-size: 0.8em;">courtesy of the <a href="https://github.com/jwiltshiregordon/github-pages-visitor-log" style="color: #007BFF; text-decoration: none;">github pages visitor log</a> project</span>
-      <button onclick="writeLogsToElement()" style="background-color: #007BFF; color: white; border: none; padding: 5px 10px; cursor: pointer; border-radius: 3px;">Refresh</button>
-    </div>
-    <div style="border-top: 1px solid #ccc; padding-top: 10px; max-height: 310px; overflow-y: auto;">
-      <pre><code id="github-pages-log-element"></code></pre>
-    </div>
-  </div>      
+          
   <div class="rectangle-container">
     {contentRectangles.map((rectangle, index) => (
       <article class="content-rectangle" id={`rectangle-${index}`}>
@@ -186,6 +176,7 @@ const contentRectangles = splitContentIntoRectangles(sections);
   </div>
 </StimmeLayout>
 
+<script>
   document.addEventListener('DOMContentLoaded', () => {
     const rectangles = document.querySelectorAll('.content-rectangle');
     rectangles.forEach((rectangle, index) => {
@@ -228,7 +219,7 @@ const contentRectangles = splitContentIntoRectangles(sections);
     htmlElement.setAttribute('data-theme', savedTheme);
   });
 
-  <script>
+
 const repoOwner = "feuerzeugchen";
 const repoName = "streichholzschaechtelchen";
 
@@ -283,9 +274,8 @@ function writeLogsToElement(logsElementId = "github-pages-log-element", repoOwne
       document.getElementById(logsElementId).textContent = formatLogsForDisplay(data.logs);
   });
 }
+
 </script>
-
-
 
 <style>
   /* Übernimm alle Styles aus deinem Original-Code und füge diese hinzu: */
