@@ -3,15 +3,20 @@ tags:
   - Stimme
   - Note
 evolution: "05"
-Wenkersaetze_Aufnahmen: true
-
 ---
+
 [@RecordingsSouthAsian]nholzRecordingsSouthAsian2023enholzRecordingsSouthAsian2023nholzRecordingsSouthAsian2023nholzRecordingsSouthAsian2023title: Stimme
 tags:
   - Stimme
   - Archiv
 ---
 <!-- markdownlint-disable MD033 -->
+## Info:
+
+***Work in progress:***
+**Die Karten werden mit Aufnahmen versehen: Personen, aus dem Archiv und Personen aus meinem Umfeld  werden die Titelsätze vorlesen.**
+
+**Text unvollständig**
 
 ## Im Winter fliegen die trocknen Blätter durch die Luft herum.
 
@@ -97,8 +102,8 @@ Nach der Machtübernahme der Nationalsozialisten im Jahr 1933 wurde Doegen im Zu
 *Sprechen wir über:  Die Aufnahmen der Gefängnisinsassen, entstanden während der Berliner Polizeiausstellung im Jahr 1926.* 
 
 
-In der Annahme, dass sich "kriminelle Züge" an Körpereigenschaften und insbesondere auch an der Stimme ablesen lassen, entstanden während der Berliner Polizeiaustellung im Jahr 1926 die durch Wilhelm Doegen veranlassten Aufnahmen von inspesamt 24 Gefängnisinsassen.[^3]
-Neben Audioaufnahmen wurden Photos, Röntgenaufnahmen und Gebissabdrücke zur Bestimmung der Zungenposition (Palatogramme) angefertigt.[^1]
+In der Annahme, dass sich "kriminelle Züge" an Körpereigenschaften und insbesondere auch an der Stimme ablesen lassen, entstanden während der Berliner Polizeiaustellung im Jahr 1926 die durch Wilhelm Doegen veranlassten Aufnahmen von inspesamt 24 Gefängnisinsassen.
+Neben Audioaufnahmen wurden Photos, Röntgenaufnahmen und Gebissabdrücke zur Bestimmung der Zungenposition (Palatogramme) angefertigt.
 Eine pseudo-wissenschaftlichen Herangehensweise im Kontext von Physiognomik, die schlussendlich keine veröffentlichten Ergebnisse hervorbrachte.
 ## Das Wort kam ihm von Herzen!
 “I am referring to unforeseen, unintended pauses that interrupt the normal flow of speech as disrupting, delaying, faltering and terminating as well as intentionally prolonged breaks in speech. The unforeseen silence of the presentation, the gaps in the spoken and sung recordings, becomes productive insofar as it gives rise in the listener less to a desire for embodiment than to a desire for narration, as they seem to call for narrative filling, for answers to questions. Why does the speaker stop speaking? Is he disconcerted, confused? Has he forgotten the text? Is he looking up at the other people present? Is he thinking of home or possibly of the payment for the recording? Is he impressed by the technical equipment? Does he interrupt the flow of speech intentionally? Has he lost sight of the line in the text that he is reciting? Is he in pain, short of breath? Is he suffering from hunger? Did he hear a noise or a comment? Did he stop to listen to something else? These moments of silence in the presentation refer, on the one hand, to the precarious political situation, the imbalance of power between those doing the recording and those being recorded: the German researchers in alliance with the camp commanders and the prisoners in the camp as interned wartime enemies. They characterise the collection of sound recordings with prisoners of war once more as a sensitive collection that was compiled for research purposes under the coercive situation of the camp.32 On the other hand, the unintended pauses in the presentation also refer to the rigid recording setup, whereby the speaker is pressed by the researchers in front of the gramophone horn and, at the same time, is made to read aloud or repeat the text from a sheet of paper held above it.” (Lange, 2017, p. 54)
@@ -151,21 +156,21 @@ Mit dem Ziel einer umfassenden Erhebung von Sprachdaten und der Kartografierung 
 
 
 Inhaltlich haben die Sätze demnach nach keine weiter Bedeutung. 
-Doch diese Sätze zu lesen, oder zu hören und sich allein auf die akustischen Aspekte der Stimme konzentrieren fällt zumindest mir schwer. Tausende Male wurden diese Sätze verschriftlicht und später verbalisiert und doch sind sie inhaltlich leer.
+Doch diese Sätze zu lesen, oder zu hören und sich allein auf die akustischen Aspekte der Stimme konzentrieren, fällt zumindest mir schwer. Tausende Male wurden diese Sätze verschriftlicht und  verbalisiert und doch sind sie inhaltlich leer.
 ## Man muß laut schreien, sonst versteht er uns nicht.
 
 
-Mit den Möglichkeiten der Tonaufnahme Anfang des 20 Jahrhunderts war es nun möglich die Wenkersätze als gesprochenes Wort aufzunehmen.
+Mit den Möglichkeiten der Tonaufnahme Anfang des 20. Jahrhunderts konnten die Wenkersätze nun auch als gesprochenes Wort aufgenommen werden..
 
 Die 40 Sätze wurden etliche Male verbalisiert und dokumentiert.
 In verschiedenen Datenbanken existieren mehrere tausend Aufnahmen.  
 
-Meistens spricht eine Person auf *Hochdeutsch* und gibt einen Satzt vor,  eine weitere Person wiederholt daraufhin den Satz. Diese weitere Person spricht mit Dialekt, die hierfür ausgewählten Sprecher:innen waren oft Menschen der Arbeiter:innenklasse denn bei ihnen wurde ein ausgeprägter Dialekt erwartet. Zudem waren viele der aufgenommenen Personen Analphabeten. 
+Meistens spricht eine Person auf *Hochdeutsch* und gibt einen Satz vor,  eine weitere Person wiederholt daraufhin den Satz. Diese weitere Person spricht mit Dialekt, die hierfür ausgewählten Sprecher:innen waren oft Menschen der Arbeiter:innenklasse: Bei ihnen wurde ein ausgeprägter Dialekt erwartet. Zudem waren viele der aufgenommenen Personen Analphabeten. 
 
 
 In intellektuellen und wohlhabenden Kreisen war es angesehen Hochdeutsch zu sprechen, das Sprechen von Dialekt wurde als minderwertig betrachtet, doch der Zugang zu den Sprechgewohnheiten der gehobenen Klassen war exklusiv.  
 
-Viele der Aufnahmen sind in einer Asymmetrie entstanden, in einem Machtgefälle welches sich zwar in allen Lebensbereichen manifestierte sich an der Stimme, aber auch ohne ein Bild vor den Augen zu haben
+Viele der Aufnahmen sind in Asymmetrie entstanden, in einem Machtgefälle welches sich in allen Lebensbereichen manifestierte und  sich an der Stimme, auch ohne ein Bild vor den Augen zu haben
 ablesen lässt.
 
 
@@ -176,8 +181,8 @@ ablesen lässt.
 *Sprechen wir über Stimme:*
 
 Stimme ist Trägerin von Bedeutung, mir Ihr formen wir Symbole und Zeichen. Wir sprechen um Inhalte zu vermitteln und um Sinn zu ergeben.
-Die Sprache ist das Ziel und die Stimme das Instrument, sie ist das Medium, das den Inhalt, die Zeichen übermittelt.
-Bevor wir wir die ersten Worte lernen. schreien wir. Wir testen unsere Stimmbänder und machen auf uns aufmerksam.
+Die Sprache ist das Ziel und die Stimme das Instrument, sie ist das Medium, das den Inhalt übermittelt.
+Bevor wir wir die ersten Worte lernen schreien wir. Wir testen unsere Stimmbänder und machen auf uns aufmerksam.
 Stimme ist etwas persönliches, wir erkennen vertraute Menschen unmittelbar an ihrem Klang. Doch haben wir uns an eine Stimme gewöhnt verschwindet ihre Materialität hinter den Worten und dem Inhalt des Gesagten. 
 
 
@@ -205,7 +210,7 @@ Die -Stimme- wird aufgenommen und abgespeichert.
 Wieder und wieder können diese Aufnahmen  
 -abgespielt- , -angehört- , -abgehört- werden.
 
-Mit einer feinen Nadel wurde ein der Teil  Persönlichkeitin das weiche Wachs geritzt und später in die heiße Schellackplatte gepresst wo sie nach dem erkalten fixiert ist. (Bei richtiger Lagerung sind shellack platten nahezu unbegrenzt haltbar) 
+Mit einer feinen Nadel wurde ein Teil Persönlichkeit  in das weiche Wachs geritzt und später in die heiße Schellackplatte gepresst:
 
 Die Aufnahmen werden inspiziert und sind Bestandteil wissenschaftlicher Untersuchungen.
 
@@ -219,7 +224,7 @@ Die Haltbarkeit der Schellackplatten sinkt rapide wenn diese oft abgespielt werd
 
 "*It’s not just the words that will be lost,” she says. “The language is the heart of our culture; it holds our thoughts, our way of seeing the world. It’s too beautiful for English to explain.*(Kimmerer, 2013)
 
-Inzwischen sind die meisten Aufnahmen digitalisiert und die Platten  Schweigen. Bei guter Lagerung ist die Haltbarkeit von Schellackplatten fast unbegrenzt.
+Inzwischen sind die meisten Aufnahmen digitalisiert und die Platten  Schweigen. Bei guter Lagerung ist die Haltbarkeit von Schellackplatten nahezu unbegrenzt.
 
 Wenn sich nach dem digitalen Zeitalter die Daten auf den Speicherkarten mit der Zeit auflösen, werden die Aufnahmen der 4500 Lautplatten noch abrufbar sein.
 
@@ -248,7 +253,8 @@ CSI NY S07E15T24:50,  2011
 *“I heard your voice on the tape. It’s like a fingerprint”.* 
  Law and Order: New York S14E16T29:59, 2013
  
-*“even though they wore ski masks, he recognized them by their voices because they grew up together”.  
+*“even though they wore ski masks, he recognized them by their voices because they grew up together”.
+
 Castle S02E23T16:26
 
 *“you think I don’t know my own daughter’s voice?”.  
@@ -257,6 +263,7 @@ Criminal Minds S04E14T19:24
 *“the average grown male has a pitch frequency of 130 Hz; a teenage boy post-puberty is about 140; this one is at 152”.  
 		“How does that make him a teenager?”    
 “People go up 10 to 15 Hertz when they’re screaming”.*.  
+
 Law and Order S11E08T07:30
 
 
@@ -265,7 +272,7 @@ Law and Order S11E08T07:30
 ## Er that so, als hätten sie ihn zum dreschen bestellt; sie haben es aber selbst gethan.
 
 Sehen wir Stimme als Identifikationsmerkmal an, dann kann sie auch Beweismaterial sein. 
-Algorithmen können wie Menschen bestimmen ob es sich bei zwei Aufnahmen um die selbe Stimme handelt.
+Algorithmen können ebenso wie Menschen bestimmen ob es sich bei zwei Aufnahmen um die selbe Stimme handelt.
 Doch diese Menschen und Algorithmen sind fehleranfällig:
 Reine Stimmaufnahmen sind als Beweismaterial vor Gericht momentan oft nicht zulässig. Zu leicht können Stimmen verfälscht oder kopiert werden. 
 
@@ -309,9 +316,9 @@ Wir vertrauen der körperlosen Stimme.
 ## Geh nur, der braune Hund thut Dir nichts.	
 
 *Ein gefährliches Potential,*  
-welches sich der Faschismus zu Nutzen gemacht hat:  
 
-Die Nationalsozialistische Deutsche Arbeiterpartei -NSDAP- machte sich einen intensive Nutzung der Stimme als Propagandainstrument zu eigen.  Im Zentrum dieser Inszenierung stand die akustische Präsenz einer Stimme, die durch ihre technische Vermittlung eine paradoxe Gleichzeitigkeit von Nähe und Ferne erzeugte.  
+
+Die Nationalsozialistische Deutsche Arbeiterpartei -NSDAP- machte sich einen intensive Nutzung der Stimme als Propagandainstrument zu eigen.  Im Zentrum dieser Inszenierung stand die akustische Präsenz einer Stimme, die durch ihre technische Vermittlung zugleich nah wie auch fern war.
 Die Partei verbreitete in großem Umfang das Radio -*den Volksempfänger*-, eine damals relativ neue Technologie. Hitlers Stimme war schon bald in den heimischen Wohnzimmern zu hören. Die NS-Propaganda vermittelte eine "Nähe zum Volk", die Radiowellen überwinden Entfernungen und gehen durch Wände, bis die Stimme des "*Führers*" selbst im eigenen Zuhause dann unmittelbar in die Ohren der Bevölkerung dringt. 
 
 
@@ -327,12 +334,12 @@ LOUD/SPEAKER SCENARIOS AFTER 1933
 ## Wieviel Pfund Wurst und wieviel Brod wollt ihr haben?
 
 
-Nationale Identität ist oft an Sprache geknüpft. Neben der Möglichkeit der Verständigung äußert sich durch Sprechgewohnheiten regionale Ortszugehörigkeit.
+Durch Sprechgewohnheiten äußern sich regionale Ortszugehörigkeiten. Nationale Identität ist oft an Sprache geknüpft. 
 
 Die "deutsche Sprache" wurde im 19. Jahrhundert zum nationalen Projekt. Dialekte wurden kartografiert, standardisiert, hierarchisiert. Mit der Vereinheitlichung der Aussprache und der Éinführung einer deutschen Hochsprache entstand ein akustisches Territorium, das man betreten oder verlassen kann, ohne sich körperlich zu bewegen.   
 Wenn jemand sagt: "Man hört, dass du nicht von hier bist", dann ist das keine neutrale Feststellung, sondern ein akustisches Grenzregime, das Ein- und Ausschluss produziert.
 
-Wer mit Akzent spricht ist mit Voreingenommenheiten konfrontiert und wird eventuell als besonders attraktiv wahrgenommen oder aber ist alltäglicher Diskriminierung ausgesetzt, auf dem Arbeitsmarkt oder bei der Wohnungssuche.
+Wer mit Akzent spricht, ist mit Voreingenommenheiten konfrontiert, wird eventuell als besonders attraktiv wahrgenommen oder aber ist alltäglicher Diskriminierung ausgesetzt, auf dem Arbeitsmarkt oder bei der Wohnungssuche.
 
 ## Du bist noch nicht groß genug, um eine Flasche Wein auszutrinken, Du mußt erst noch ein Ende  wachsen und größer werden.
 OOOOOOOOOOOOOOOOOOOOOOOOOOOHHHHHHHHHHHH
@@ -365,7 +372,7 @@ Jiftach war sechs Jahre lang Richter in Israel. Dann starb Jiftach, der Gileadit
 
 Das „Petersilien-Massaker“ von 1937
 
-Im Oktober 1937 ließ der dominikanische Diktator Rafael Trujillo schätzungsweise 20.000 Menschen ermorden. Zur Identifizierung der Opfer diente dem Mythos durch den die Geschehnisse im Nachhinein als "parsil massacre" benannt wurden war ein linguistischer Test: Wer das spanische Wort perejil (Petersilie) nicht mit gerolltem r-Laut aussprechen konnte, wurde als Haitianer:in eingestuft und getötet. 
+Im Oktober 1937 ließ der dominikanische Diktator Rafael Trujillo schätzungsweise 20.000 Menschen ermorden. Zur Identifizierung der Opfer diente dem Mythos, durch den die Geschehnisse im Nachhinein als "parsil massacre" benannt wurden war ein linguistischer Test: Wer das spanische Wort perejil (Petersilie) nicht mit gerolltem r-Laut aussprechen konnte, wurde als Haitianer:in eingestuft und getötet. 
 
 Nach Lauren Derby,  Historiker an der UCLA ist der Mythos um die Aussprache von Petersilie nicht mit Tatsachen oder durch Erzählungen der Zeuge:innen belegt. 
 
@@ -409,6 +416,26 @@ Die Installation besteht aus zwei Hauptkomponenten: einem 34-minütigen Audio-Do
 LADO ("Language Analysis for the Determination of Origin") kommt zur Verwendung bei Asylverfahen zur Bestimmung von Herkunft.  Die Stimme von Asylsuchenden wird wie ein offizielles Dokument behandeln, obwohl sie eigentlich eine komplexe Biografie widerspiegelt. 
 
  Abu Hamdan macht deutlich, dass Sprache nicht eindeutig Herkunft oder Identität belegt, sondern vielmehr ein dynamisches Archiv persönlicher Erfahrungen ist.  
+
+## Könnt ihr nicht noch ein Augenblickchen auf uns warten, dann gehn wir mit euch.
+
+
+Als einziges Land in Europa verwendet Deutschland zur Dialektbestimmung seit 2017 ein Algorithmus-gesteuertes System, genant DIAS (Dialektidentifizierungsassistent).
+
+Momentan können die folgenden Dialekte überprüft werden: Farsi, Dari-Persisch, Pashto, Irakisch-Arabisch, Maghrebinisch, levantinisches Arabisch, Golf-Arabisch und ägyptisches Arabisch.
+
+Die Sprachaufnahme dauert ca. 2 Minuten: Die Asylbewerber:innen sollen, möglichst ohne Pausen ein Bild beschreiben oder ihren Tag schildern dann wird die Aufnahme abgeschickt und analysiert.
+
+Die Software wird  von der US-amerikanischen Firma Nuance Communications programmiert, wie sie genau funktioniert geben weder Das BAMF noch Nuance Communications Preis.
+
+Vielleicht ist, wie oft bei künstlicher Intelligenz, die Funktionsweise auch ein Blackbox.  Doch ist  die Funktionsweise von KI normalerweise ein Auswahlprozess in dem die Antwortmöglichkeiten nach prognostizierter Erwartung des Antragstellers ausgesucht werden.
+
+Das BAMF bezeichnet den DIAS als eine *zusätzliche Unterstützung der Entscheider*  und rechnet mit einer Fehlrerquote von ca. 20%.
+
+
+
+Seit Einführung des Systems im Jahr 2017 bis Januar
+2023 kam es zu 81.726 DIAS-Vorgängen.
 
 ## Als wir gestern Abend zurück kamen, da lagen die Andern schon zu Bett und waren fest am schlafen.
 
@@ -541,7 +568,6 @@ The prisoners spoke into the gramophone horn neither spontaneously nor, with reg
 ## Wer hat mir meinen Korb mit Fleisch gestohlen?
 
 
-## Könnt ihr nicht noch ein Augenblickchen auf uns warten, dann gehn wir mit euch.
 ## Sein Bruder will sich zwei schöne neue Häuser in eurem Garten bauen.
 
 
