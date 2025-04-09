@@ -70,7 +70,7 @@ if (sections.length === 0) {
 // Funktion zur Aufteilung von langen Inhalten
 function splitContentIntoRectangles(sections) {
   const rectangles = [];
-  const approximateCharsPerRectangle = 1200; // Anpassen je nach Bedarf
+  const approximateCharsPerRectangle = 1500; // Anpassen je nach Bedarf
   
   sections.forEach(section => {
     // HTML-Tags entfernen, um die Textlänge besser abschätzen zu können
@@ -151,10 +151,11 @@ const contentRectangles = splitContentIntoRectangles(sections);
   <div class="rectangle-container">
     {contentRectangles.map((rectangle, index) => (
       <article class="content-rectangle" id={`rectangle-${index}`}>
+        {rectangle.title !== "." && 
         <div class="titlebox">
           {rectangle.title}
           {!rectangle.isFirstPart && <span class="continuation-marker"> </span>}
-          </div>
+          </div>}
           {filename === "Notizen.md" &&
         <div class="audio-container">
           <button class="play-pause-button play" id="play-pause-btn"></button>
@@ -307,7 +308,7 @@ function writeLogsToElement(logsElementId = "github-pages-log-element", repoOwne
  
   /* Hier kommen alle deine originalen Styles */
   html {
-    font-size: 105%;
+    font-size: 120%;
     font-family: 'PT Sans';
     background-color: var(--background-color);
     color: var(--text-color);
@@ -424,18 +425,16 @@ function writeLogsToElement(logsElementId = "github-pages-log-element", repoOwne
   }
   
   .content-rectangle :global( img ) {
-    width: 100%;
-    max-width: 100%; /* Set a maximum width */
-    max-height: 20rem; /* Set a maximum height */
+    max-width: 29.1rem;
+    max-height: 100%; /* Set a maximum height */
     margin: auto;
     display: block;
     object-fit: contain; /* Ensure the content fits within the container */
   }
   
   .content-rectangle :global( video ) {
-    width: 100%;
-    max-width: 100%; /* Set a maximum width */
-    max-height: 20rem; /* Set a maximum height */
+    max-width: 29.1rem;
+    max-height: 100%; /* Set a maximum height */
     margin: auto;
     display: block;
     object-fit: contain; /* Ensure the content fits within the container */
