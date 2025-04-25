@@ -157,10 +157,10 @@ const contentRectangles = splitContentIntoRectangles(sections);
           {!rectangle.isFirstPart && <span class="continuation-marker"> </span>}
           </div>}
           {filename === "1. Notizen.md" &&
-        <div class="audio-container">
+       <!-- <div class="audio-container">
           <button class="play-pause-button play" id="play-pause-btn"></button>
           <span class="audio-label">Stimme von: "Daten der sprechenden Person"</span>
-        <audio id={`audio-${index}`} >
+        <audio id={`audio-${index}`} > -->
   <source src={`${import.meta.env.BASE_URL}wenker${index + 1}.mp3`} type="audio/mpeg" />
 </audio>
 </div>
@@ -363,7 +363,7 @@ function writeLogsToElement(logsElementId = "github-pages-log-element", repoOwne
     display: flex;
     flex-wrap:wrap;
     gap: 1rem;
-    padding: 1rem;
+    padding: 0rem;
     flex-direction:row;
     justify-content: center;
   }
@@ -380,7 +380,7 @@ function writeLogsToElement(logsElementId = "github-pages-log-element", repoOwne
     display: flex;
     flex-direction: column;
     border-style: solid;
-    border-width: 1px;
+    border-width: 0px;
     border-color: black;
     align-content:start;
     gap: 0rem;
