@@ -1,9 +1,6 @@
----
-created: Thursday, April 3rd 2025, 12:50:18 pm
-updated: Saturday, April 19th 2025, 1:48:13 pm
----
 
-() (2014) _Beckett􀇯s Not I & the role of the voice in Irigaray’s critique of patriarchy._
+
+() (2014) _Becketts Not I & the role of the voice in Irigaray’s critique of patriarchy._
 
 ‘34.pdf’ (no date). Available at: [https://d-nb.info/1234242680/34](https://d-nb.info/1234242680/34) (Accessed: 26 March 2025).
 
