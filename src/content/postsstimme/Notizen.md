@@ -5,7 +5,7 @@ tags:
   - notes
 evolution: "05"
 created: Thursday, 03/04/25, 21:30
-updated: Friday, 25/04/25, 13:57
+updated: Friday, 25/04/25, 17:17
 ---
 <!-- markdownlint-disable MD033 -->
 ## Info:
@@ -24,11 +24,11 @@ Sprachaufnahme am 13. Juli 1926 im Polizeizimmer der Stadtvoigtei Berlin.*
 
 Die Aufnahme ist verrauscht, seine Stimme hört sich etwas kratzig an, er spricht schnell aber deutlich.
 
-*"Im Winter fliegen die trocknen Blätter durch die Luft herum."*
+"Im Winter fliegen die trocknen Blätter durch die Luft herum."
 
 und  
 
-*“Da mir bekannt war, dass der Besitzer der Villa sehr reich ist, und ich den Standpunkt vertrete, dass niemand durch Hände Arbeit sehr reich werden kann, so hielt ich meinen Raub für gerechtfertigt, denn ich hatte ja auch Arbeit dafür zu leisten.”* 
+“Da mir bekannt war, dass der Besitzer der Villa sehr reich ist, und ich den Standpunkt vertrete, dass niemand durch Hände Arbeit sehr reich werden kann, so hielt ich meinen Raub für gerechtfertigt, denn ich hatte ja auch Arbeit dafür zu leisten.” 
 
 
 Fritz Walds Sprachaufnahme ist eine von hunderten die sich auf Schellackplatten oder Wachsrollen gepresst im Lautarchiv der Humboldt-Universität zu Berlin befinden.
@@ -61,7 +61,7 @@ _Tierstimmen_:
 Aufnahmen der Tierlaute von Elefanten, Seelöwen, Bären, Tigern, Löwen, Hyänen, Tigern und Affen im Zirkus Krone und Dresdner Zoo.
 
 
-## ʊnzrə bˈɛɾɡə zˈɪnt nˈɪçt zˈeːɾ hˈoːx, dˈiː ˈɔ͡ørən zˈɪnt fˈiːl hˈøːɜ
+## Unsere Berge sind nicht sehr hoch, die euren sind viel höher.
 
 
 *Dokumentation von Sprachen*:  
@@ -114,8 +114,8 @@ Neben Audioaufnahmen wurden Fotos, Röntgenaufnahmen und Gebissabdrücke zur Bes
 Eine pseudo-wissenschaftliche Herangehensweise im Kontext von Physiognomik, die schlussendlich keine veröffentlichten Ergebnisse hervorbrachte.
 ## Das Wort kam ihm von Herzen!
 
-*“I am referring to unforeseen, unintended pauses that interrupt the normal flow of speech as disrupting, delaying, faltering and terminating as well as intentionally prolonged breaks in speech. The unforeseen silence of the presentation, the gaps in the spoken and sung recordings, becomes productive insofar as it gives rise in the listener less to a desire for embodiment than to a desire for narration, as they seem to call for narrative filling, for answers to questions. Why does the speaker stop speaking? Is he disconcerted, confused? Has he forgotten the text? Is he looking up at the other people present? Is he thinking of home or possibly of the payment for the recording? Is he impressed by the technical equipment? Does he interrupt the flow of speech intentionally? Has he lost sight of the line in the text that he is reciting? Is he in pain, short of breath? Is he suffering from hunger? Did he hear a noise or a comment? Did he stop to listen to something else? These moments of silence in the presentation refer, on the one hand, to the precarious political situation, the imbalance of power between those doing the recording and those being recorded: the German researchers in alliance with the camp commanders and the prisoners in the camp as interned wartime enemies.
-(Lange, 2017, p. 54)*
+“I am referring to unforeseen, unintended pauses that interrupt the normal flow of speech as disrupting, delaying, faltering and terminating as well as intentionally prolonged breaks in speech. The unforeseen silence of the presentation, the gaps in the spoken and sung recordings, becomes productive insofar as it gives rise in the listener less to a desire for embodiment than to a desire for narration, as they seem to call for narrative filling, for answers to questions. Why does the speaker stop speaking? Is he disconcerted, confused? Has he forgotten the text? Is he looking up at the other people present? Is he thinking of home or possibly of the payment for the recording? Is he impressed by the technical equipment? Does he interrupt the flow of speech intentionally? Has he lost sight of the line in the text that he is reciting? Is he in pain, short of breath? Is he suffering from hunger? Did he hear a noise or a comment? Did he stop to listen to something else? These moments of silence in the presentation refer, on the one hand, to the precarious political situation, the imbalance of power between those doing the recording and those being recorded: the German researchers in alliance with the camp commanders and the prisoners in the camp as interned wartime enemies."
+(Lange, 2017, p. 54)
 
 
 ## Das Feuer war zu heiß, die Kuchen sind ja unten ganz schwarz gebrannt
@@ -468,7 +468,7 @@ Ich denke über die Stimme nach ohne Wörter. 
 
 Als Kind, wenn ich mit der Familie unterwegs war, ich auf die Toilette ging und dort saß, dann achtete ich auf die Geräusche der Anderen, die dort hinein und hinaus gingen, ohne sie sehen zu können und ich dachte, meinen Vater erkennen zu können, nur an seiner Art Auszuatmen. Es ist ein Ausatmen, das schon fast Stimme ist, aber wann wird dieses Atemgeräusch zur Stimme?
 
-*AAAAHHH EEEHHH IIIHHHH OOOHHH UUUUUUHHH*
+"AAAAHHH EEEHHH IIIHHHH OOOHHH UUUUUUHHH"
 
 Ich denke über Stimme nach ohne Wörter. 
 
@@ -574,7 +574,7 @@ Beschaffenheit der Stimme:
 3\. Urteil des Technikers:  
 ## Habt ihr kein Stückchen weiße Seife für mich auf meinem Tische gefunden?
 
-*EEEEEEEEEEEEEEEEEEEEEEHHHHHHHHH*
+"EEEEEEEEEEEEEEEEEEEEEEHHHHHHHHH"
 
 <audio controls>
 <source src="E_Lautarchiv.mp3" type="audio/mp3">
@@ -582,22 +582,42 @@ Beschaffenheit der Stimme:
 
 ## Er ißt die Eier immer ohne Salz und Pfeffer.
 
-*The prisoners spoke into the gramophone horn neither spontaneously nor, with regard to content, freely. Subas’ words show the balancing act required to express oneself in a German camp in front of German researchers. Although he repeatedly describes the war as a catastrophe, he does not blame anyone it. On the contrary, he explicitly praises the efforts of the German camp commanders with regard to the prisoners and the opportunity, outside the period of (forced) labour, to read and attend concerts, theatrical performances and films. Subas’ descriptions of leisure time read like German propaganda – and are invoked in similar sounding letters as evidence of the good German camp policy in the book Der Kriegsgefangenen Haltung und Schicksal in Deutschland published by Wilhelm Doegen in 1919 by order of the Reichswehrministerium.28 It can be assumed that it was taboo in German camps to criticise the camp conditions. Therefore, in order to uncover any hidden or coded messages, we must listen and read between the lines and words of the prisoners.*
+"The prisoners spoke into the gramophone horn neither spontaneously nor, with regard to content, freely. Subas’ words show the balancing act required to express oneself in a German camp in front of German researchers. Although he repeatedly describes the war as a catastrophe, he does not blame anyone it. On the contrary, he explicitly praises the efforts of the German camp commanders with regard to the prisoners and the opportunity, outside the period of (forced) labour, to read and attend concerts, theatrical performances and films. Subas’ descriptions of leisure time read like German propaganda – and are invoked in similar sounding letters as evidence of the good German camp policy in the book Der Kriegsgefangenen Haltung und Schicksal in Deutschland published by Wilhelm Doegen in 1919 by order of the Reichswehrministerium.28 It can be assumed that it was taboo in German camps to criticise the camp conditions. Therefore, in order to uncover any hidden or coded messages, we must listen and read between the lines and words of the prisoners."
 
-*To be taken from there to the interior of Germany, we left a heap of wounded to be cared for by their Red Cross. Some with their arms torn off, others their legs. One with a broken hip, another with his body perforated by five bullets. And many similar cases. It was terrible to hear their cries and groans, and worse still to see the state of these poor comrades*
-*Since then we have stayed here under their [the Germans’] command. Our senses dulled. But don’t think that because we’re prisoners we are unhappy and treated brutally. No, it’s like this: what I want to say personally: I’ve been in Germany for three years; so far not once have either officers or a soldier said a word out of place. Quite the opposite. I believe that if we could understand each other, we’d become proper comrades together. You understand? These are men like us, family men, who are also waiting for an end to this terrible war.*
+## Wer hat mir meinen Korb mit Fleisch gestohlen?
+
+"To be taken from there to the interior of Germany, we left a heap of wounded to be cared for by their Red Cross. Some with their arms torn off, others their legs. One with a broken hip, another with his body perforated by five bullets. And many similar cases. It was terrible to hear their cries and groans, and worse still to see the state of these poor comrades.
+Since then we have stayed here under their [the Germans’] command. Our senses dulled. But don’t think that because we’re prisoners we are unhappy and treated brutally. No, it’s like this: what I want to say personally: I’ve been in Germany for three years; so far not once have either officers or a soldier said a word out of place. Quite the opposite. I believe that if we could understand each other, we’d become proper comrades together. You understand? These are men like us, family men, who are also waiting for an end to this terrible war.*"
 (Lange, 2017, p. 52)
 
 
-## Wer hat mir meinen Korb mit Fleisch gestohlen?
+
 
 
 ## Sein Bruder will sich zwei schöne neue Häuser in eurem Garten bauen.
 
 
+*Sprechen wir über: Abschiede und ein Dankeschön*
 
+"
+Danke: also  ich weiß gar nicht was ich sagen soll - das hat mich jetzt total überrascht (..)
+Aber Danke fürs Lesen!
 
+Tschüss
 
+mit 
+
+"T"
+
+wie in 
+
+"(Tschechische) Streichholzschächtelchen"
+
+Einmal, alle zusammen: 
+
+"(t͡ʃˈɛçɪʃə) ʃtʁaɪ̯çhɔlt͡sʃɛçtɛlçən"
+
+"
 
 
 
