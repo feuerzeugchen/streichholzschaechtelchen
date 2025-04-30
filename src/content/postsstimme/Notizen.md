@@ -5,7 +5,7 @@ tags:
   - notes
 evolution: "05"
 created: Thursday, 03/04/25, 21:30
-updated: Wednesday, 30/04/25, 13:03
+updated: Wednesday, 30/04/25, 13:53
 ---
 <!-- markdownlint-disable MD033 -->
 
@@ -706,7 +706,7 @@ Einmal, alle zusammen:
 footn{
     color: black;
     text-align: start;
-    font-size: 80%
+    font-size: 0.6rem;
 }
 </style>
 
