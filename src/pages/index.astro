@@ -28,25 +28,6 @@ const markdownFiles = fs.readdirSync(postsDirectory)
   </div>
 </StimmeLayout>
 
-<script>
-  // Dark mode toggle logic
-  document.addEventListener('DOMContentLoaded', () => {
-    const themeToggle = document.getElementById('theme-toggle');
-    const htmlElement = document.documentElement;
-
-    themeToggle.addEventListener('click', () => {
-      const currentTheme = htmlElement.getAttribute('data-theme');
-      const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
-      htmlElement.setAttribute('data-theme', newTheme);
-      localStorage.setItem('theme', newTheme);
-    });
-
-    // Load saved theme from localStorage
-    const savedTheme = localStorage.getItem('theme') || 'light';
-    htmlElement.setAttribute('data-theme', savedTheme);
-  });
-</script>
-
 <style>
   /* Übernehme die Styles aus deinem Original-Code und füge diese hinzu: */
   .index-container {
@@ -58,8 +39,10 @@ const markdownFiles = fs.readdirSync(postsDirectory)
   .entry-list {
     list-style-type: none;
     padding: 0;
-    
-  }
+    }
+
+ 
+
   
   .entry-list li {
     margin-bottom: 1rem;
