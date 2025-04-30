@@ -309,7 +309,6 @@ function writeLogsToElement(logsElementId = "github-pages-log-element", repoOwne
  
   /* Hier kommen alle deine originalen Styles */
   html {
-    font-size: 110%;
     font-family: 'PT Sans';
     background-color: var(--background-color);
     color: var(--text-color);
@@ -340,12 +339,13 @@ function writeLogsToElement(logsElementId = "github-pages-log-element", repoOwne
    html {
       font-size:3.1vw;
     } 
-    .titlebox {
-   
-    font-size: 3.1vw;
   }
-  }
- 
+  @media screen and (min-width: 701px) {
+  
+      html {
+      font-size:3.1vw; 
+    }
+       }
   
   body {
     margin: auto;
