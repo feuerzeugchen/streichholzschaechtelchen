@@ -5,9 +5,36 @@ tags:
   - notes
 evolution: "05"
 created: Thursday, 03/04/25, 21:30
-updated: Tuesday, 29/04/25, 18:54
+updated: Wednesday, 30/04/25, 12:28
 ---
 <!-- markdownlint-disable MD033 -->
+
+## %
+<style>
+Titels{
+background-color: var(--background-color);
+
+
+
+font-weight: bold;
+
+color: #000000;
+
+font-size: 2rem;
+
+font-family: Arial, Helvetica, sans-serif;
+
+text-align:center
+}
+</style>
+
+<Titels>
+ʃtʁaɪ̯çhɔlt͡sʃɛçtɛlçən
+</Titels>
+
+
+
+
 ## Unsere Berge sind nicht sehr hoch, die euren sind viel höher.
 
 _Es spricht zu uns:_

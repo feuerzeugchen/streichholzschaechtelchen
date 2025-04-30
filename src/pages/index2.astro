@@ -1,0 +1,83 @@
+---
+import StimmeLayout from '../layouts/StimmeLayout.astro';
+import fs from 'fs';
+import path from 'node:path';
+
+// Lese alle Markdown-Dateien im Verzeichnis
+const postsDirectory = path.resolve('./src/content/postsstimme');
+const markdownFiles = fs.readdirSync(postsDirectory)
+  .filter(file => file.endsWith('.md'))
+  .map(file => ({
+    filename: file,
+    slug: file.replace('.md', ''),
+    title: file.replace('.md', '').replace(/-/g, ' ')
+  }));
+---
+
+<StimmeLayout title="Stimme Entries Index">
+ 
+  <div class="index-container">
+    <h1></h1>
+    <ul class="entry-list">
+      {markdownFiles.map(file => (
+        <li>
+          <a href={`/${file.slug}`}>{file.title}</a>
+        </li>
+      ))}
+    </ul>
+  </div>
+</StimmeLayout>
+
+<style>
+  /* Übernehme die Styles aus deinem Original-Code und füge diese hinzu: */
+  .index-container {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 1rem;
+  }
+  
+  .entry-list {
+    list-style-type: none;
+    padding: 0;
+    }
+
+ 
+
+  
+  .entry-list li {
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+    background-color:rgb(255, 255, 255);
+    border-radius: 0px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+  }
+  
+  .entry-list a {
+    color: var(--text-color);
+    text-decoration: none;
+    font-size: 1.9rem;
+    display: block;
+    padding: 0.5rem;
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .entry-list a:hover {
+    text-decoration: underline;
+  }
+  html {
+    font-size: 105%;
+    font-family: 'PT Sans';
+    background-color: var(--background-color);
+    color: var(--text-color);
+  } 
+  :root {
+    --background-color: rgb(255, 255, 255);
+    --text-color: black;
+    --content-bg-color: rgb(255, 255, 255);
+  }
+  /* Weitere Styles aus deinem Original-Code */
+</style>
