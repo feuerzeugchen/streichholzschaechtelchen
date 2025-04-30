@@ -313,28 +313,13 @@ function writeLogsToElement(logsElementId = "github-pages-log-element", repoOwne
     background-color: var(--background-color);
     color: var(--text-color);
   } 
-  /* Weitere Styles aus deinem Original-Code */
-  .theme-toggle-container {
-    text-align: left;
-    margin: 1rem 1rem;
-  }
-
-  #theme-toggle {
-    padding: 0.2rem 0.3rem;
-    font-size: 0.7rem;
-    cursor: pointer;
-  }
+ 
   :root {
     --background-color: rgb(255, 255, 255);
     --text-color: black;
     --content-bg-color: rgb(255, 255, 255);
   }
 
-  [data-theme="dark"] {
-    --background-color: rgb(34, 34, 34);
-    --text-color: white;
-    --content-bg-color: rgb(50, 50, 50);
-  } 
   @media screen and (max-width: 700px) {
    html {
       font-size:3.1vw;
@@ -345,6 +330,10 @@ function writeLogsToElement(logsElementId = "github-pages-log-element", repoOwne
       html {
       font-size:110%; 
     }
+    body {
+   
+    padding: 0.7rem;  
+  }
        }
   
   body {
@@ -368,14 +357,14 @@ function writeLogsToElement(logsElementId = "github-pages-log-element", repoOwne
     display: flex;
     flex-wrap:wrap;
     gap: 1rem;
-    margin: 1rem;
+    margin: 0rem;
     flex-direction:row;
     justify-content: center;
   }
   
   .content-rectangle {
     background-color: var(--content-bg-color);
-    height:  42.5rem;
+    height: 42.5rem;
     width: 26.1rem;
     aspect-ratio: 1 / 1.4174460775;
     overflow-y: hidden;
@@ -388,7 +377,6 @@ function writeLogsToElement(logsElementId = "github-pages-log-element", repoOwne
     border-width: 1px;
     border-color: black;
     align-content:start;
-    gap: 0rem;
   }
   
 
