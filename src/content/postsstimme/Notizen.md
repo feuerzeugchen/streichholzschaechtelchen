@@ -411,7 +411,7 @@ Ein betontes Husten kann eine Aufforderung sein, ein subtiler Versuch der Kommun
 
 *Schibboleth* (Paul Celan, 1955)
 
-<table style=vertical-align: top> <tr> <td width="50%">
+<table style=vertical-align: top> <tr> <td width="45%">
 
 Mitsamt meinen Steinen,  
  den großgeweinten  
@@ -433,7 +433,7 @@ Setz deine Fahne auf Halbmast,
  Auf Halbmast  
  für heute und immer.
 
-</td> <td width="50%">
+</td> <td width="45">
 
 Herz:
 
