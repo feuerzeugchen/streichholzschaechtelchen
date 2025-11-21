@@ -544,6 +544,14 @@ Sammlungsbestände Des Lautarchivs_. Accessed April 28, 2025. [https://www.lauta
 
 ## Unsere Berge sind nicht sehr hoch, die euren sind viel höher.
 
+<style>
+footn{
+    color: black;
+    text-align: start;
+    font-size: 0.58rem;
+}
+</style>
+
 <footn>
 
 [^11]: “Regionalsprache.de/Audio/Catalogue.Aspx.” Accessed April 23, 2025. [https://regionalsprache.de/Audio/Catalogue.aspx](https://regionalsprache.de/Audio/Catalogue.aspx).
