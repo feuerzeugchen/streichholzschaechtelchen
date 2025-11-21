@@ -182,7 +182,7 @@ _Ich denke über Stimme nach:_ 
 
 Stimme ist Trägerin von Bedeutung, mit ihr formen wir Symbole und Zeichen. Wir sprechen, um Inhalte zu vermitteln und um Sinn zu ergeben. Die Sprache ist das Ziel und die Stimme das Medium. Bevor wir die ersten Worte lernen, schreien wir. Wir testen unsere Stimmbänder und machen auf uns aufmerksam. Stimme ist etwas Persönliches, wir erkennen vertraute Menschen unmittelbar an ihrem Klang. Doch haben wir uns an eine Stimme gewöhnt, verblasst ihre Materialität hinter den Worten und dem Inhalt des Gesagten.
 
-## Der slowenische Philosoph und Psychoanalytiker Mladen Dolar schreibt:
+Der slowenische Philosoph und Psychoanalytiker Mladen Dolar schreibt:
 
 “But if the voice is thus the quasi-natural bearer of the production of meaning, it also proves to be strangely recalcitrant to it. If we speak in order to “make sense,” to signify, to convey something, then the voice is the material support of bringing about meaning, yet it does not contribute to it itself. It is rather like the vanishing mediator (...)—it makes the utterance possible, but it disappears in it, it goes up in smoke in the meaning being produced.” 12
 
