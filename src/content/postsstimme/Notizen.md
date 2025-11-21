@@ -551,7 +551,7 @@ Sammlungsbestände Des Lautarchivs_. Accessed April 28, 2025. [https://www.lauta
 footn{
     color: black;
     text-align: start;
-    font-size: 0.58rem;
+    font-size: 0.65rem;
 }
 </style>
 
