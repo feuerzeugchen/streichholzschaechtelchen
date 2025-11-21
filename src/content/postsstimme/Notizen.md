@@ -514,13 +514,6 @@ Einmal, alle zusammen:
 ## Er ißt die Eier immer ohne Salz und Pfeffer.
 
 
-<style>
-footn{
-    color: black;
-    text-align: start;
-    font-size: 0.6rem;
-}
-</style>
 
 
 <footn>

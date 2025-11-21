@@ -156,13 +156,13 @@ const contentRectangles = splitContentIntoRectangles(sections);
           {!rectangle.isFirstPart && <span class="continuation-marker"> </span>}
           </div>}
           {filename === "1. Notizen.md" }
-       <!-- <div class="audio-container">
+        <div class="audio-container">
           <button class="play-pause-button play" id="play-pause-btn"></button>
           <span class="audio-label"></span>
         <audio id={`audio-${index}`} >
   <source src={`${import.meta.env.BASE_URL}wenker${index + 1}.mp3`} type="audio/mpeg" />
 </audio> 
-</div>-->
+</div>
 
       </div>
         <div class="rectangle-content">
@@ -309,7 +309,7 @@ function writeLogsToElement(logsElementId = "github-pages-log-element", repoOwne
  
   /* Hier kommen alle deine originalen Styles */
   html {
-    font-family: 'PT Sans';
+    font-family: 'Helvetica';
     background-color: var(--background-color);
     color: var(--text-color);
   } 
@@ -360,7 +360,7 @@ function writeLogsToElement(logsElementId = "github-pages-log-element", repoOwne
     overflow-y: hidden;
     padding: 1.5rem 3rem;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    font-size: 0.9rem; 
+    font-size: 0.77rem; 
     display: flex;
     flex-direction: column;
     border-style: solid;
@@ -484,6 +484,11 @@ function writeLogsToElement(logsElementId = "github-pages-log-element", repoOwne
   
 }
 
+footn{
+    color: black;
+    text-align: start;
+    font-size: o.58rem;
+}
 </style>
 
 <style is:global>
