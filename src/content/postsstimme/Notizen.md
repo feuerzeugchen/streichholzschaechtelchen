@@ -48,7 +48,7 @@ und
 
 “Da mir bekannt war, dass der Besitzer der Villa sehr reich ist, und ich den Standpunkt vertrete, dass niemand durch Hände Arbeit sehr reich werden kann, so hielt ich meinen Raub für gerechtfertigt, denn ich hatte ja auch Arbeit dafür zu leisten.”
 
-Fritz Walds Sprachaufnahme ist eine von hunderten, die sich auf Schellackplatten gepresst im Lautarchiv der Humboldt-Universität zu Berlin befinden. 1
+Fritz Walds Sprachaufnahme ist eine von hunderten, die sich auf Schellackplatten gepresst im Lautarchiv der Humboldt-Universität zu Berlin befinden. [^1]
 
 ## Wem hat er die neue Geschichte erzählt?
 
@@ -66,13 +66,13 @@ Musikaufnahmen: Aufnahmen von verschiedenen Liedern.
 
 Gefängnisinsassen: Aufnahmen der Stimmen Gefangener für die Berliner Polizei-Ausstellung im Jahr 1926. Als Sprachmaterial dienten Wenkersätze oder persönliche Erzählungen der Sprechenden.
 
-Tierstimmen: Aufnahmen der Tierlaute von Elefanten, Seelöwen, Bären, Tigern, Löwen, Hyänen, Tigern und Affen vom Zirkus Krone und dem Dresdner Zoo.  2
+Tierstimmen: Aufnahmen der Tierlaute von Elefanten, Seelöwen, Bären, Tigern, Löwen, Hyänen, Tigern und Affen vom Zirkus Krone und dem Dresdner Zoo.  [^2]
 
 ## Im Winter fliegen die trocknen Blätter durch die Luft herum.
 
 Im Lautarchiv der Humboldt-Universität sind Aufnahmen in folgenden Sprachen eingelagert.
 
-Zitat aus _Fünfzehn Jahre Königliche und Staatsbibliothek_ Berlin 1921: 3
+Zitat aus _Fünfzehn Jahre Königliche und Staatsbibliothek_ Berlin 1921: [^3]
 
 "| -Indisch: Gurkhali, Panjabi, Garhwali, Hindustani, Bengali, Hindi, Althindi, Urdu | -Himalayasprachen: Magar, Murmi, Rai, Limbu, Gurung; Zigeunerisch | -Iranisch: Belutschisch, Afghanisch, Ossetisch | -Armenisch -Griechisch -Rumänisch: aus Rumänien, von serbischen Zigeunern, aus Beßarabien | -Italienisch: 16 verschiedene Dialekte, ferner: Romagnolisch, Ladinisch-friaulisch, Sardisch, Italo-albanisch, Korsisch, Genuesisch aus Bonifacio | -Französisch: Laut-, Umgangs- und Vortragssprache, ferner nordfranzösische Dialekte: Arden- nais, Champenois, Lorrain, Luxembourg (Pays Gourmais), Nord, Normand, Picard, Savoyard, Wallon Südfranzösische Dialekte: Auvergnais, Bordeaux, Bearnais, Bressan, Cantal, Charentais, Dauphinois, Gascon, Languedocien, Limousin, Lyonnais, Niçois, Montpellier, Morvandeau, Provençal, Sudvosgien, Toulouse, Vendée |-Kreolisch (aus Martinique und Gouadeloupe) | -Spanisch: Katalanisch | -Portugiesisch -Keltisch: Gälisch, Kymrisch, Bretonisch | -Englisch: Laut-, Umgangs- und Vortrags- sprache, ferner Mundarten aus Berkshire, Cheshire, Cumberland, Derby, Devonshire, Dorset, Durham, Essex, Glammorganshire, Gloucestershire, Kent, Lancashire, Lincoln, Norfolk, Nottingham, Oxford, Stafford, Suffolk, Warwick, Wiltshire, Yorkshire, Irland, (10 Dialekte), Schottland (15 Dialekte), Kanada, Australien, ferner Englisch eines Gurkha | -Vlämisch |"
 
@@ -84,7 +84,7 @@ Manche der Aufnahmen sind die letzten akustischen Dokumente inzwischen ausgestor
 
 ## Wer hat mir meinen Korb mit Fleisch gestohlen?
 
-Schellack ist eine harzige Substanz, die von der Lack­schildlaus abgesondert wird. Diese Laus ernährt sich parasitär vor allem vom Saft des Lackbaums, der in Regionen wie Indien, Burma und Thailand vorkommt. Zum Schutz ihrer Brut produziert die Laus auf ihrer gesamten Körperoberfläche Schellack, wodurch die Zweige, auf denen sie sich aufhält, mit einer 3 bis 10 mm dicken Schicht dieser Substanz überzogen sind. Die befallenen Zweige werden zusammen mit der darauf haftenden Lackschicht gesammelt. Durch das Zerkleinern der Zweige, das Extrahieren des roten Lackfarbstoffs, das Trocknen und das Auspressen des Harzes wird der eigentliche Schellack gewonnen. 8
+Schellack ist eine harzige Substanz, die von der Lack­schildlaus abgesondert wird. Diese Laus ernährt sich parasitär vor allem vom Saft des Lackbaums, der in Regionen wie Indien, Burma und Thailand vorkommt. Zum Schutz ihrer Brut produziert die Laus auf ihrer gesamten Körperoberfläche Schellack, wodurch die Zweige, auf denen sie sich aufhält, mit einer 3 bis 10 mm dicken Schicht dieser Substanz überzogen sind. Die befallenen Zweige werden zusammen mit der darauf haftenden Lackschicht gesammelt. Durch das Zerkleinern der Zweige, das Extrahieren des roten Lackfarbstoffs, das Trocknen und das Auspressen des Harzes wird der eigentliche Schellack gewonnen. [^8]
 
 ## Sein Bruder will sich zwei schöne neue Häuser in eurem Garten bauen.
 
@@ -94,7 +94,7 @@ Die Aufnahmen wurden vor allem in Kriegsgefangenenlagern innerhalb Deutschlands 
 
 Sprache wurde katalogisiert, analysiert, archiviert.
 
-Die Aufnahmen wurden auf Schellackplatten übertragen und bilden den Grundstein für den heutigen Bestand des Lautarchivs der Humboldt-Universität zu Berlin. 4
+Die Aufnahmen wurden auf Schellackplatten übertragen und bilden den Grundstein für den heutigen Bestand des Lautarchivs der Humboldt-Universität zu Berlin. [^4]
 
 ## Hättest Du ihn gekannt! dann wäre es anders gekommen, und es thäte besser um ihn stehen.
 
@@ -109,7 +109,7 @@ Bekanntheit erlangte er mit der Entwicklung von Audioaufnahmen zur Unterstützun
 
 An vier Tagen im Juli 1926 nahm Wilhelm Doegen die Stimmen von 24 Inhaftierten in verschiedenen Berliner Gefängnissen auf.
 
-Eine dieser aufgenommenen Personen ist Fritz Wald, wir haben ihn gerade gehört. 4
+Eine dieser aufgenommenen Personen ist Fritz Wald, wir haben ihn gerade gehört. [^4]
 
 ## Das war recht von ihnen!
 
@@ -123,7 +123,7 @@ Diese pseudowissenschaftliche Herangehensweise lässt sich dem Bereich der Physi
 
 Britta Lange ist Kulturwissenschaftlerin an der Humboldt-Universität zu Berlin. In _Archival Silences as Historical Sources. Reconsidering Sound Recordings of Prisoners of War (1915-1918) from the Berlin Lautarchiv_ schreibt sie:
 
-“I am referring to unforeseen, unintended pauses that interrupt the normal flow of speech as disrupting, delaying, faltering and terminating as well as intentionally prolonged breaks in speech. The unforeseen silence of the presentation, the gaps in the spoken and sung recordings, becomes productive insofar as it gives rise in the listener less to a desire for embodiment than to a desire for narration, as they seem to call for narrative filling, for answers to questions. Why does the speaker stop speaking? Is he disconcerted, confused? Has he forgotten the text? Is he looking up at the other people present? Is he thinking of home or possibly of the payment for the recording? Is he impressed by the technical equipment? Does he interrupt the flow of speech intentionally? Has he lost sight of the line in the text that he is reciting? Is he in pain, short of breath? Is he suffering from hunger? Did he hear a noise or a comment? Did he stop to listen to something else? These moments of silence in the presentation refer (...) to the precarious political situation, the imbalance of power between those doing the recording and those being recorded: the German researchers in alliance with the camp commanders and the prisoners in the camp as interned wartime enemies." 5
+“I am referring to unforeseen, unintended pauses that interrupt the normal flow of speech as disrupting, delaying, faltering and terminating as well as intentionally prolonged breaks in speech. The unforeseen silence of the presentation, the gaps in the spoken and sung recordings, becomes productive insofar as it gives rise in the listener less to a desire for embodiment than to a desire for narration, as they seem to call for narrative filling, for answers to questions. Why does the speaker stop speaking? Is he disconcerted, confused? Has he forgotten the text? Is he looking up at the other people present? Is he thinking of home or possibly of the payment for the recording? Is he impressed by the technical equipment? Does he interrupt the flow of speech intentionally? Has he lost sight of the line in the text that he is reciting? Is he in pain, short of breath? Is he suffering from hunger? Did he hear a noise or a comment? Did he stop to listen to something else? These moments of silence in the presentation refer (...) to the precarious political situation, the imbalance of power between those doing the recording and those being recorded: the German researchers in alliance with the camp commanders and the prisoners in the camp as interned wartime enemies." [^5]
 
 ## Das Feuer war zu heiß, die Kuchen sind ja unten ganz schwarz gebrannt
 
@@ -138,7 +138,7 @@ Masse erhitzen: Die Schellackmischung auf etwa 150 °C erhitzen, bis sie plastis
 Tafeln formen: Die heiße Masse zu Rohlingen (Tafeln) pressen.  
 Pressen: Die Schellacktafeln zwischen zwei Matrizen (Stamper) in eine hydraulische Presse einlegen und die Tonrillen unter hohem Druck prägen.  
 Etiketten einfügen: Während des Pressvorgangs die Papieretiketten beidseitig einlegen und mit der Platte verbinden.  
-Grat entfernen: Nach dem Abkühlen überschüssiges Material am Rand der Platte sorgfältig abschneiden oder abschleifen. 6 7
+Grat entfernen: Nach dem Abkühlen überschüssiges Material am Rand der Platte sorgfältig abschneiden oder abschleifen. [^6] [^7]
 
 ## Es sind schlechte Zeiten!
 
@@ -150,7 +150,7 @@ Ich bin über den Grund zur Abgabe einer Sprechprobe für die Sprachbiometrie un
 
 Den Inhalt dieser Informationsschrift habe ich verstanden."
 
-_(Dokument D1728, Bundesamt für Migration u. Flüchtlinge 2020)_ 9
+_(Dokument D1728, Bundesamt für Migration u. Flüchtlinge 2020)_ [^9]
 
 ## Ich verstehe euch nicht, ihr müßt ein bißchen lauter sprechen.
 
@@ -162,7 +162,7 @@ Die 1879 festgelegten phonetischen Mustersätze sind so entworfen worden, dass
 
 Im späten 19. Jahrhundert schickte Georg Wenker die 40 Sätze an verschiedene Schulen im gesamten deutschsprachigen Gebiet. Hier sollten Lehrer:innen die schriftlichen Sätze in ihren eigenen Dialekt abwandeln. Die Sätze wurden für eine umfassende Erhebung von Sprachdaten sowie einer Kartografierung von Lokaldialekten genutzt.
 
-Tausende Male wurden diese Sätze verschriftlicht, doch was sagen sie aus? 10
+Tausende Male wurden diese Sätze verschriftlicht, doch was sagen sie aus? [^10]
 
 ## Man muß laut schreien, sonst versteht er uns nicht.
 
@@ -176,9 +176,9 @@ Wie auch heute noch galt das Hochdeutsche in den gebildeten und wohlhabenden Sch
 
 Tausende Male wurden die 40 Sätze verbalisiert, die Machtverhältnisse der Aufnahmesituationen haben sich in die Audiodateien eingeschrieben.
 
-Die Bauern hatten fünf Ochsen und neun Kühe und zwölf Schäfchen vor das Dorf gebracht, die wollten sie verkaufen.
+## Die Bauern hatten fünf Ochsen und neun Kühe und zwölf Schäfchen vor das Dorf gebracht, die wollten sie verkaufen.
 
-## _Ich denke über Stimme nach:_ 
+_Ich denke über Stimme nach:_ 
 
 Stimme ist Trägerin von Bedeutung, mit ihr formen wir Symbole und Zeichen. Wir sprechen, um Inhalte zu vermitteln und um Sinn zu ergeben. Die Sprache ist das Ziel und die Stimme das Medium. Bevor wir die ersten Worte lernen, schreien wir. Wir testen unsere Stimmbänder und machen auf uns aufmerksam. Stimme ist etwas Persönliches, wir erkennen vertraute Menschen unmittelbar an ihrem Klang. Doch haben wir uns an eine Stimme gewöhnt, verblasst ihre Materialität hinter den Worten und dem Inhalt des Gesagten.
 
@@ -191,7 +191,7 @@ Stimme ist Trägerin von Bedeutung, mit ihr formen wir Symbole und Zeichen. Wir 
 Zheanna Erose ist Voice Coach. Auf ihrem Youtube Kanal _Trans Voice Lessons_ können Menschen lernen, wie sie ihre Stimme durch Training so ändern können, dass sie als weiblicher, männlicher oder androgyner gelesen wird. Die Höhe (pitch) der Stimmlage ist dabei nicht das einzige Kriterium:
 
 Auch Stimmlippenspannung (tension), Resonanz (resonance), Luftigkeit (breathiness) und Sprechmelodie (intonation) beeinflussen, welche Geschlechtsidentität einer Stimme zugeschrieben wird. Stimme lässt sich durch jahrelanges Training selbst ohne operative Eingriffe ändern.  
-Wie eine Stimme beschaffen ist und wie sie geschlechtlich gelesen wird, hat also neben erblichen Faktoren auch viel damit zu tun, wie sie über lange Zeit hinweg eingesetzt und geformt wurde. Unsere Stimme spricht uns nicht nur aus – sie schreibt uns ein. 13
+Wie eine Stimme beschaffen ist und wie sie geschlechtlich gelesen wird, hat also neben erblichen Faktoren auch viel damit zu tun, wie sie über lange Zeit hinweg eingesetzt und geformt wurde. Unsere Stimme spricht uns nicht nur aus – sie schreibt uns ein. [^13]
 
 ## Was sitzen da für Vögelchen oben auf dem Mäuerchen?
 
@@ -204,13 +204,13 @@ Abspielen starten: Tonarm vorsichtig auf die äußere Rille setzen und Platte a
 
 ## Die Haltbarkeit der Schellackplatten sinkt rapide, wenn diese oft abgespielt wird.
 
-Mit einer feinen Nadel wurde ein Teil Persönlichkeit in das weiche Wachs geritzt und später in die heiße Schellackplatte gepresst. Nun kann sie inspiziert werden und wird zum Gegenstand wissenschaftlicher Untersuchungen. 6
+Mit einer feinen Nadel wurde ein Teil Persönlichkeit in das weiche Wachs geritzt und später in die heiße Schellackplatte gepresst. Nun kann sie inspiziert werden und wird zum Gegenstand wissenschaftlicher Untersuchungen. [^6]
 
 ## Es hört gleich auf zu schneien, dann wird das Wetter wieder besser.
 
 Die Haltbarkeit der Schellackplatten ist nahezu unbegrenzt, wenn diese nicht abgespielt und gut gelagert werden.
 
-Inzwischen sind die meisten Aufnahmen digitalisiert und die Platten schweigen. 14
+Inzwischen sind die meisten Aufnahmen digitalisiert und die Platten schweigen. [^14]
 
 _Ich stelle mir vor:_   
 Wenn sich nach dem Ende des digitalen Zeitalters, die in den Servern gespeicherten Datenmengen mit der Zeit aufgelöst haben, sind die Aufnahmen auf den 4500 Lautplatten weiterhin abspielbar.
@@ -219,7 +219,7 @@ Wenn sich nach dem Ende des digitalen Zeitalters, die in den Servern gespeichert
 
 „Bei Antragstellern, die keine gültigen Personaldokumente (...) vorlegen können und Zweifel an den Identitäts- und Herkunftsangaben bestehen, kann der Antragsteller aufgefordert werden, eine Sprechprobe per Telefon abzugeben. Die weitere Verfahrensweise gestaltet sich wie folgt und wie in den Schulungsunterlagen zu DIAS erklärt: Vorbereitung der Sprachaufnahme: Nach vollständig abgeschlossener Aktenanlage (...) wird der Antragsteller über die Sprechprobe in Kenntnis gesetzt. (...) Der Antragsteller wird darauf hingewiesen, dass er keine personenbezogenen Daten (...) nennen soll. Darüber hinaus darf nicht über die Fluchtgeschichte gesprochen werden. Sprachprobe aufnehmen: Zu Beginn ruft die AVS-Kraft die DIAS-Anwendung auf (...) Nachdem auf „Anrufen“ geklickt wurde, wird die AVS-Kraft vom System auf der eingegebenen Nummer angerufen. Der Hörer wird nach dem Signalton an die antragstellende Person gegeben, um eine Sprachaufnahme von mind. 2 Minuten aufzunehmen. (...) Der Antragsteller sollte ohne Pausen über ein frei wählbares Thema sprechen oder ein Bild beschreiben. (...) Die Sprachprobe wird mit der Rautetaste beendet. Hinweise zur Aufnahme der Sprachprobe: Falls eine Rücksprache notwendig ist, gibt es die Möglichkeit, die Stumm-/Mute-Taste zu drücken (...). Umgebungsgeräusche beeinträchtigen die Qualität der Sprachprobe und sind zu vermeiden. Ergebnisbericht: Nach Beendigung der Sprachaufnahme wird das Ergebnis angezeigt und in MARiS übertragen. (...) Sollte die Sprachaufnahmequalität unzureichend sein, kann die Aufnahme wiederholt werden. Sollte dies nicht erfolgreich sein, kann ein Ergebnisbericht mit Hinweis auf die unzureichende Qualität abgelegt werden.“
 
-(_2024-12-12-BAMF-Dienstanweisung-AVS_) 29
+(_2024-12-12-BAMF-Dienstanweisung-AVS_) [^29]
 
 ## Ihr dürft nicht solche Kindereien treiben!
 
@@ -247,9 +247,9 @@ Wenn sich nach dem Ende des digitalen Zeitalters, die in den Servern gespeichert
 
 Sehen wir Stimme als Identifikationsmerkmal an, dann kann sie auch Beweismaterial sein. Algorithmen können ebenso wie Menschen zwischen verschiedenen Stimmen differenzieren. Doch diese Menschen und Algorithmen sind fehleranfällig: Reine Stimmaufnahmen sind als Beweismaterial vor Gericht momentan oft nicht zulässig. Zu leicht kann Stimme verfälscht oder kopiert werden.15
 
-"Cybercriminals cloned the voice of a company director in the U.A.E. to steal as much as $35 million in a huge and complex heist."16
+"Cybercriminals cloned the voice of a company director in the U.A.E. to steal as much as $35 million in a huge and complex heist." [^16]
 
-"HSBC voice recognition system breached by customer's twin" 17
+"HSBC voice recognition system breached by customer's twin" [^17]
 
 Wir können Stimme digital modifizieren um:
 
@@ -261,7 +261,7 @@ Eine andere Person zu imitieren.
 
 _Sprechen wir über: Die körperlose Stimme_
 
-Die körperlose Stimme dringt unmittelbar in uns ein und wir können nicht weghören, wie wir wegschauen würden. Die körperlose Stimme ist dominant, in ihrer abstrakten Form hinterfragen wir nicht ihre Autorität. 18
+Die körperlose Stimme dringt unmittelbar in uns ein und wir können nicht weghören, wie wir wegschauen würden. Die körperlose Stimme ist dominant, in ihrer abstrakten Form hinterfragen wir nicht ihre Autorität. [^18]
 
 Oft befindet sich hinter der Stimme eine Person und doch stellen wir uns keinen Körper zu ihr vor, ordnen sie nicht als Gegenüber ein. Spricht uns die körperlose Stimme in der U-Bahn an, fragen wir uns nicht: Wo ist der Mensch hinter der Stimme, wo ist ihr Körper? Sie vermittelt Informationen, wir hören zu und fragen uns: Wann muss ich aussteigen?
 
@@ -273,7 +273,7 @@ Ein gefährliches Potenzial.
 
 ## Geh nur, der braune Hund thut Dir nichts.
 
-Ein gefährliches Potenzial: Die Nationalsozialistische Deutsche Arbeiterpartei machte sich eine intensive Nutzung der Stimme als Propagandainstrument zu eigen. Im Zentrum dieser Inszenierung stand die akustische Präsenz einer Stimme, die durch ihre technische Vermittlung paradoxerweise zugleich nah wie auch fern war. Die Partei verbreitete in großem Umfang das Radio - den sogenannten Volksempfänger -, eine damals relativ neue Technologie. Hitlers Stimme war schon bald in den heimischen Wohnzimmern zu hören. Die NS-Propaganda vermittelte eine "Nähe zum Volk", die Radiowellen überwinden die Ferne und die Wände der heimischen Wohnung, bis die Stimme des "Führers" im eigenen Zuhause dann unmittelbar in die Ohren der Bevölkerung dringt. 19 18
+Ein gefährliches Potenzial: Die Nationalsozialistische Deutsche Arbeiterpartei machte sich eine intensive Nutzung der Stimme als Propagandainstrument zu eigen. Im Zentrum dieser Inszenierung stand die akustische Präsenz einer Stimme, die durch ihre technische Vermittlung paradoxerweise zugleich nah wie auch fern war. Die Partei verbreitete in großem Umfang das Radio - den sogenannten Volksempfänger -, eine damals relativ neue Technologie. Hitlers Stimme war schon bald in den heimischen Wohnzimmern zu hören. Die NS-Propaganda vermittelte eine "Nähe zum Volk", die Radiowellen überwinden die Ferne und die Wände der heimischen Wohnung, bis die Stimme des "Führers" im eigenen Zuhause dann unmittelbar in die Ohren der Bevölkerung dringt. [^19] [^18]
 
 ## Wieviel Pfund Wurst und wieviel Brod wollt ihr haben?
 
@@ -290,7 +290,7 @@ Mit der Einführung einer deutschen Hochsprache entstand ein akustisches Territ
 
 Im Sprechen formen wir Identität. Im Deutsch-Sprechen wird Deutsch-Sein performt.
 
-Wer mit Akzent spricht, ist mit Voreingenommenheit konfrontiert, wird eventuell als besonders attraktiv wahrgenommen oder aber ist alltäglicher Diskriminierung ausgesetzt - auf dem Arbeitsmarkt oder bei der Wohnungssuche.32
+Wer mit Akzent spricht, ist mit Voreingenommenheit konfrontiert, wird eventuell als besonders attraktiv wahrgenommen oder aber ist alltäglicher Diskriminierung ausgesetzt - auf dem Arbeitsmarkt oder bei der Wohnungssuche. [^32]
 
 ## Du bist noch nicht groß genug, um eine Flasche Wein auszutrinken, Du mußt erst noch ein Ende wachsen und größer werden.
 
@@ -300,7 +300,7 @@ Mikrofone und Lautsprecher der 1920er und 1930er Jahre konnten Sprache nur in ei
 
 Seine Reden inszenierte er, so oft es ging, vor großem Publikum. Er inszenierte sich, auch im Radio, vor den Massen. Die Aufgabe in seiner Rolle als Sprecher bestand darin, vor dem Publikum “(D)iese Begeisterung und diese Hingabe und diesen Glauben, die er in sich trug, auf seine Zuhörer zu übertragen.”34 Tatsächlich aber beruhte die rhetorische Wirkung dieser Ansprachen weniger auf einer authentischen Leidenschaft, sondern vielmehr auf einer hochgradig durchkomponierten Choreografie, die durch ein komplexes Inszenierungssystem hervorgebracht wurde. Hitler arbeitete intensiv an dieser Technik: Er trainierte Stimme, Körperhaltung und Gestik, oft unter Anleitung seines Fotografen Heinrich Hoffmann, und übte seine Auftritte systematisch vor dem Spiegel.
 
-Dass diese Sprechweise stark inszeniert war, zeigt sich eindrücklich in einer heimlich aufgenommenen Tonaufnahme, dem sogenannten _Führergespräch_ von 1942, in der Hitler deutlich leiser, flüssiger und wesentlich natürlicher spricht als in seinen öffentlichen Auftritten. Es ist die einzige bekannte Sprachaufnahme, in der Adolf Hitler frei spricht. 33
+Dass diese Sprechweise stark inszeniert war, zeigt sich eindrücklich in einer heimlich aufgenommenen Tonaufnahme, dem sogenannten _Führergespräch_ von 1942, in der Hitler deutlich leiser, flüssiger und wesentlich natürlicher spricht als in seinen öffentlichen Auftritten. Es ist die einzige bekannte Sprachaufnahme, in der Adolf Hitler frei spricht. [^33]
 
 ## Die Füße thun mir sehr weh, ich glaube, ich habe sie durchgelaufen.
 
@@ -318,7 +318,7 @@ Vor ein paar Jahren habe ich Spanisch gelernt. Im Spanischen rollt das "r" über
 
 Shibboleth
 
-"Gilead besetzte die nach Efraim führenden Übergänge über den Jordan. Und wenn efraimitische Flüchtlinge (kamen und) sagten: Ich möchte hinüber!, fragten ihn die Männer aus Gilead: Bist du ein Efraimiter? Wenn er Nein sagte, forderten sie ihn auf: Sag doch einmal "Schibbolet". Sagte er dann "Sibbolet", weil er es nicht richtig aussprechen konnte, ergriffen sie ihn und machten ihn dort an den Furten des Jordan nieder. So fielen damals zweiundvierzigtausend Mann aus Efraim."20
+"Gilead besetzte die nach Efraim führenden Übergänge über den Jordan. Und wenn efraimitische Flüchtlinge (kamen und) sagten: Ich möchte hinüber!, fragten ihn die Männer aus Gilead: Bist du ein Efraimiter? Wenn er Nein sagte, forderten sie ihn auf: Sag doch einmal "Schibbolet". Sagte er dann "Sibbolet", weil er es nicht richtig aussprechen konnte, ergriffen sie ihn und machten ihn dort an den Furten des Jordan nieder. So fielen damals zweiundvierzigtausend Mann aus Efraim." [^20]
 
 _(Lutherbibel\_ (2017): Deutsche Bibelgesellschaft, Das Buch der Richter 12:6 )_
 
@@ -334,7 +334,7 @@ Streichholzschächtelchen </p> </p>
 
 "We are not free to choose the ways we are being heard."
 
-Lawrence Abu Hamdans Audio-Installation _The Freedom of Speech Itself_ (2012) untersucht die Praxis der forensischen Sprach- und Akzentanalyse. Die Installation besteht aus zwei Komponenten: einem 34-minütigen Audio-Dokument und einer Schaumstoffskulptur. In der Schaumskulptur wird die Frequenz und Amplitude von zwei Stimmen abgebildet, die das Wort "you" sagen, es werden 2 Stimmenabdrücke visualisiert. Die Form erinnert an eine topografische Landkarte, ein Werkzeug zur Eingrenzung von Territorium. 22
+Lawrence Abu Hamdans Audio-Installation _The Freedom of Speech Itself_ (2012) untersucht die Praxis der forensischen Sprach- und Akzentanalyse. Die Installation besteht aus zwei Komponenten: einem 34-minütigen Audio-Dokument und einer Schaumstoffskulptur. In der Schaumskulptur wird die Frequenz und Amplitude von zwei Stimmen abgebildet, die das Wort "you" sagen, es werden 2 Stimmenabdrücke visualisiert. Die Form erinnert an eine topografische Landkarte, ein Werkzeug zur Eingrenzung von Territorium. [^22]
 
 _Wie du sprichst = Woher du kommst = Wer du bist = Welche Rechte du hast_
 
@@ -357,13 +357,14 @@ Obwohl ein Vertreter der nigerianischen Botschaft später aussagt, dass K. kein 
 
 Der Asylgerichtshof (AGH) hebt schließlich die Entscheidung des BAA auf: Das Verfahren weist erhebliche Mängel bei der Gutachtenverwendung auf.
 
-Das BAA gibt ein linguistisches Gutachten bei einem anderen, freiberuflich agierenden Gutachter in Auftrag. 21
+Das BAA gibt ein linguistisches Gutachten bei einem anderen, freiberuflich agierenden Gutachter in Auftrag. [^21]
 
 ## Die Leute sind heute alle draußen auf dem Felde und mähen.
 
 Die juristische Fachzeitschrift _juridikum_ publiziert 2013 einen Text über den Fall K.:
 
-"Die Behörden ersetzen in ihrer wiederholten Rekontextualisierung des Sprakab-Berichts die von Sprakab verwendeten sprachlichen Elemente, welche Vagheit oder Unbestimmbarkeit signalisieren („Einschätzung“, „mit hoher Wahrscheinlichkeit“, „mit hoher Sicherheit“) durch sprachliche Mittel, welche Eindeutigkeit herstellen sollen: Das sind ua Qualifikatoren wie „offensichtlich“, „offenbar“ und „zweifellos“. | Der Bericht von Sprakab wird als „Gutachten“ bezeichnet und vom BAA mit Adjektiven, wie „mängelfrei“, „klar“ und „unmissverständlich“bzw vom AGH als „in sich schlüssig“ und „widerspruchsfrei“beschrieben. Den Sprakab-Mitarbeitern, welche wiederholt als „Experten“ bezeichnet werden, werden zudem seitens des BAA die Adjektive „unabhängig, „erfahren“, „neutral“ sowie die Nomen „Unbefangenheit“ und „Qualität“ zugeordnet. K.s. Aussagen werden hingegen als „Behauptungen“ charakterisiert, welche „offensichtlich falsch“ seien. • Die Begriffe „sprachlicher Hintergrund“, „Herkunft(sland)“, „Abstammung“ und „Staatsangehörigkeit“ werden einander gleichgesetzt und mit einer gewissen Beliebigkeit verwendet." 21
+"Die Behörden ersetzen in ihrer wiederholten Rekontextualisierung des Sprakab-Berichts die von Sprakab verwendeten sprachlichen Elemente, welche Vagheit oder Unbestimmbarkeit signalisieren („Einschätzung“, „mit hoher Wahrscheinlichkeit“, „mit hoher Sicherheit“) durch sprachliche Mittel, welche Eindeutigkeit herstellen sollen: Das sind ua Qualifikatoren wie „offensichtlich“, „offenbar“ und „zweifellos“. | Der Bericht von Sprakab wird als „Gutachten“ bezeichnet und vom BAA mit Adjektiven, wie „mängelfrei“, „klar“ und „unmissverständlich“bzw vom AGH als „in sich schlüssig“ und „widerspruchsfrei“beschrieben. Den Sprakab-Mitarbeitern, welche wiederholt als „Experten“ bezeichnet werden, werden zudem seitens des BAA die Adjektive „unabhängig, „erfahren“, „neutral“ sowie die Nomen „Unbefangenheit“ und „Qualität“ zugeordnet. K.s. Aussagen werden hingegen als „Behauptungen“ charakterisiert, welche „offensichtlich falsch“ seien.  
+Die Begriffe „sprachlicher Hintergrund“, „Herkunft(sland)“, „Abstammung“ und „Staatsangehörigkeit“ werden einander gleichgesetzt und mit einer gewissen Beliebigkeit verwendet." [^21}
 
 ## Thu Kohlen in den Ofen, daß die Milch bald an zu kochen fängt.
 
@@ -371,7 +372,7 @@ Wie du sprichst = Woher du kommst = Wer du bist = Welche Rechte du hast
 
 Lawrence Abu Hamdan beschäftigt sich in seiner Arbeit mit LADO: Einem forensischen Verfahren, in dem Dialekte analysiert werden mit dem Ziel der Herkunftsbestimmung geflüchteter Personen. Es wird unter anderem verwendet in: Australien, Österreich, Belgien, Kanada, Finnland, Deutschland, den Niederlanden, Neuseeland, Norwegen, Schweden, der Schweiz und dem Vereinigten Königreich.
 
-Doch Nationalität deckt sich nicht unbedingt mit Sozialisierung, in den LADO-Verfahren werden komplexe (Sprach-)Biografien außer Acht gelassen und Stimme wird wie ein offizielles Dokument behandelt. Sprache belegt nicht eindeutig Herkunft oder Identität, sondern lässt sich insbesondere im Zusammenhang von Mobilität, Migration, Vertreibung und Flucht als ein dynamisches Archiv persönlicher Erfahrungen beschreiben. 22 21
+Doch Nationalität deckt sich nicht unbedingt mit Sozialisierung, in den LADO-Verfahren werden komplexe (Sprach-)Biografien außer Acht gelassen und Stimme wird wie ein offizielles Dokument behandelt. Sprache belegt nicht eindeutig Herkunft oder Identität, sondern lässt sich insbesondere im Zusammenhang von Mobilität, Migration, Vertreibung und Flucht als ein dynamisches Archiv persönlicher Erfahrungen beschreiben. [^22] [^21]
 
 ## Könnt ihr nicht noch ein Augenblickchen auf uns warten, dann gehn wir mit euch.
 
@@ -385,7 +386,7 @@ Die Software für den Dialekt-Identifizierung-Assistenten wurde von der US-ameri
 
 Das BAMF bezeichnet den DIAS als eine "zusätzliche Unterstützung der Entscheider" und rechnet mit einer Fehlerquote von ca. 20%.
 
-Seit Einführung des Systems im Jahr 2017 bis Januar 2023 kam es zu 81.726 DIAS-Vorgängen. 24 25 26
+Seit Einführung des Systems im Jahr 2017 bis Januar 2023 kam es zu 81.726 DIAS-Vorgängen. [^24] [^25] [^26]
 
 ## Als wir gestern Abend zurück kamen, da lagen die Andern schon zu Bett und waren fest am schlafen.
 
@@ -405,7 +406,7 @@ Es ist kein Wort, wie kann ich es auch schreiben?
 
 In Yoko Onos Performance _Cough Piece_ (1961) hustet Ono eine halbe Stunde vor Publikum.
 
-Ein betontes Husten kann eine Aufforderung sein, ein subtiler Versuch der Kommunikation, meist ist das Husten aber ein Freimachen des Rachens, eine Vorbereitung zum Sprechen. Eine halbe Stunde bereitet Yoko Ono sich und ihren Körper vor, und spricht am Ende doch kein Wort. 27
+Ein betontes Husten kann eine Aufforderung sein, ein subtiler Versuch der Kommunikation, meist ist das Husten aber ein Freimachen des Rachens, eine Vorbereitung zum Sprechen. Eine halbe Stunde bereitet Yoko Ono sich und ihren Körper vor, und spricht am Ende doch kein Wort. [^27]
 
 ## Der Schnee ist diese Nacht bei uns liegen geblieben, aber heute Morgen ist er geschmolzen.
 
@@ -481,13 +482,14 @@ Singt oder spielt er modern europäische Musikweisen?
 Religion: Beruf:  
 Beschaffenheit der Stimme: 1. Urteil des Fachmannes (des Assistenten): 2. Urteil des Kommissars: 3. Urteil des Technikers"
 
- _(Personalbogen - LA 511)_ Humboldt-Universität zu Berlin: Lautarchiv28
+ _(Personalbogen - LA 511)_ Humboldt-Universität zu Berlin: Lautarchiv [^28]
 
 ## Er ist vor vier oder sechs Wochen gestorben
 
 Was spricht woher?
 
-Wenn es die KI ist, die über die Herkunft eines Menschen entschieden hat, wessen Urteil vertrauen wir dann? Künstliche Intelligenz erscheint häufig als körperloses, neutrales System. Eine Blackbox, die aus dem nichts zu uns spricht. Folgt man Donna Haraways Konzept des _Situated Knowledge_, so lässt sich auch KI als ein situiertes, verkörpertes Produkt beschreiben. Ihre Körper bestehen aus den materiellen Infrastrukturen von Servern und Stromnetzen ebenso wie aus den kulturellen und sozialen Kontexten, in denen Trainingsdaten ausgewählt und Modelle entwickelt werden. KI-Modelle sind keine objektiven Entitäten im klassischen Sinne, sondern tragen die Perspektiven, Vorurteile und Interessen jener, die sie programmiert, trainiert und eingesetzt haben. Die scheinbare Neutralität technischer Systeme maskiert ihre situierten Ursprünge und sie sollten daher selbst als historisch und politisch geprägte Konstruktion verstanden werden.  31
+Wenn es die KI ist, die über die Herkunft eines Menschen entschieden hat, wessen Urteil vertrauen wir dann? Künstliche Intelligenz erscheint häufig als körperloses, neutrales System. Eine Blackbox, die aus dem nichts zu uns spricht. Folgt man Donna Haraways Konzept des _Situated Knowledge_, so lässt sich auch KI als ein situiertes, verkörpertes Produkt beschreiben. Ihre Körper bestehen aus den materiellen Infrastrukturen von Servern und Stromnetzen ebenso wie aus den kulturellen und sozialen Kontexten, in denen Trainingsdaten ausgewählt und Modelle entwickelt werden.  
+KI-Modelle sind keine objektiven Entitäten im klassischen Sinne, sondern tragen die Perspektiven, Vorurteile und Interessen jener, die sie programmiert, trainiert und eingesetzt haben. Die scheinbare Neutralität technischer Systeme maskiert ihre situierten Ursprünge und sie sollten daher selbst als historisch und politisch geprägte Konstruktion verstanden werden. [^31]
 
 ## Sein Bruder will sich zwei schöne neue Häuser in eurem Garten bauen.
 
