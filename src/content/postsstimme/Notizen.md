@@ -202,7 +202,7 @@ Nadel einsetzen: Stahlnadel in den Tonarm einsetzen (für jedes Abspielen eine 
 Geschwindigkeit einstellen: Drehzahl auf 78 Umdrehungen pro Minute justieren.  
 Abspielen starten: Tonarm vorsichtig auf die äußere Rille setzen und Platte abspielen.
 
-## Die Haltbarkeit der Schellackplatten sinkt rapide, wenn diese oft abgespielt wird.
+Die Haltbarkeit der Schellackplatten sinkt rapide, wenn diese oft abgespielt wird.
 
 Mit einer feinen Nadel wurde ein Teil Persönlichkeit in das weiche Wachs geritzt und später in die heiße Schellackplatte gepresst. Nun kann sie inspiziert werden und wird zum Gegenstand wissenschaftlicher Untersuchungen. [^6]
 
