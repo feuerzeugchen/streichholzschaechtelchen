@@ -551,7 +551,7 @@ Sammlungsbestände Des Lautarchivs_. Accessed April 28, 2025. [https://www.lauta
 footn{
     color: black;
     text-align: start;
-    font-size: 0.65rem;
+    font-size: 0.7rem;
 }
 </style>
 
@@ -614,7 +614,7 @@ FragDenStaat. “anlage1-da-asyl-identitsfeststellung.” Accessed April 28, 202
 
 [^30]:  Lange, Britta. “Archival Silences as Historical Sources. Reconsidering Sound Recordings of Prisoners of War (1915-1918) from the Berlin Lautarchiv.” _SoundEffects - An Interdisciplinary Journal of Sound and Sound Experience_ 7, no. 3 (2017): 46–60. [https://doi.org/10.7146/se.v7i3.105232](https://doi.org/10.7146/se.v7i3.105232 "https://doi.org/10.7146/se.v7i3.105232").
 
-[^31]: Haraway, Donna. “SITUATEDKNOWLEDGES: THE SCIENCEQUESTIONIN FEMINISM AND THE PRIVILEGEOF PARTIAL PERSPECTIVE,” n.d. 
+[^31]: Haraway, Donna. “Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective” n.d. 
 
 
 
