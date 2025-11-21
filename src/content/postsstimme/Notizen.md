@@ -412,30 +412,30 @@ Ein betontes Husten kann eine Aufforderung sein, ein subtiler Versuch der Kommun
 
 *Schibboleth* (Paul Celan, 1955)
 
-<table style=vertical-align: top> <tr> <td width="45%">
+<table style=vertical-align: top> <tr> <td>
 
 Mitsamt meinen Steinen,  
- den großgeweinten  
- hinter den Gittern,  
- schleiften sie mich  
- in die Mitte des Marktes,  
- dorthin,  
- wo die Fahne sich aufrollt, der ich  
- keinerlei Eid schwor.
+den großgeweinten  
+hinter den Gittern,  
+schleiften sie mich  
+in die Mitte des Marktes,  
+dorthin,  
+wo die Fahne sich aufrollt, der ich  
+keinerlei Eid schwor.
 
 Flöte,  
- Doppelflöte der Nacht:  
- denke der dunklen  
- Zwillingsröte  
- in Wien und Madrid.
+Doppelflöte der Nacht:  
+denke der dunklen  
+Zwillingsröte  
+in Wien und Madrid.
 
 Setz deine Fahne auf Halbmast,  
- Erinnrung.  
- Auf Halbmast  
- für heute und immer.
+Erinnrung.  
+Auf Halbmast  
+für heute und immer.
 
 </td> 
-<td width="45%">
+<td>
 
 Herz:
 
