@@ -433,24 +433,25 @@ Setz deine Fahne auf Halbmast,
  Auf Halbmast  
  für heute und immer.
 
-</td> <td width="45">
+</td> 
+<td width="45%">
 
 Herz:
 
 gib dich auch hier zu erkennen,  
- hier, in der Mitte des Marktes.  
- Ruf's, das Schibboleth, hinaus  
- in die Fremde der Heimat:  
- Februar. No pasaran.
+hier, in der Mitte des Marktes.  
+Ruf's, das Schibboleth, hinaus  
+in die Fremde der Heimat:  
+Februar. No pasaran.
 
 Einhorn:
 
 du weißt um die Steine,  
- du weißt um die Wasser,  
- komm,  
- ich führ dich hinweg  
- zu den Stimmen  
- von Estremadura.
+du weißt um die Wasser,  
+komm,  
+ich führ dich hinweg  
+zu den Stimmen  
+von Estremadura.
 
 </td> </tr> </table>
 
